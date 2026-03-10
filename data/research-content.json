@@ -11,7 +11,7 @@
           "data": {
             "title": "Optical Micromanipulation",
             "description": "Core principle: Uses focused laser beams to trap, move, or rotate microscopic particles via optical forces (radiation pressure and gradient force).",
-            "image": "/msei_website/assets/research/research1.png",
+            "image": "/assets/research/research1.png",
             "project": [
               "Key technologies: Optical tweezers, Smart Memory Alloy",
               "Application 1: Cell and organelle manipulation in biology",
@@ -27,7 +27,7 @@
           "data": {
             "title": "Magnetic Micromanipulation",
             "description": "Core principle: Uses external magnetic fields to steer and actuate micro-objects made of or containing magnetic materials.",
-            "image": "/msei_website/assets/research/research2.png",
+            "image": "/assets/research/research2.png",
             "project": [
               "Key technologies: Electromagnetic coils, permanent magnet arrays, rotating field",
               "Application 1: Targeted drug delivery and microrobots",
@@ -43,7 +43,7 @@
           "data": {
             "title": "Piezo-actuated Micromanipulation",
             "description": "Core principle: Uses piezoelectric materials that deform under applied voltage to drive high-precision, low-drift motion at micro- and nanoscales.",
-            "image": "/msei_website/assets/research/research3.png",
+            "image": "/assets/research/research3.png",
             "project": [
               "Key technologies: Piezo stages, nanopositioners, zero-drift actuators",
               "Application 1: Patch-clamp electrophysiology",
