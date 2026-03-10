@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "title": "Invited Talks & Presentations",
+    "description": "Invited talks and presentations at conferences and institutions worldwide"
+  },
+  "sections": {
+    "invitedtalks&presentations": {
+      "subsections": [
+        {
+          "name": "Talk A",
+          "data": {
+            "title": "Embodied Cross-Domain Intelligence for Dexterous Micromanipulation",
+            "organizer": "The 7th UK Robot Manipulation Workshop",
+            "time": "2026-01",
+            "location": "Edinburgh,UK",
+            "image": "/msei_website/assets/talk/ukworkshop.png"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "Multi-Scale Embodied Intelligence for Biomedical Applications",
+            "organizer": "IEEE IROS, International Conference Workshop: Embodied AI and Edge Computing for Intelligent Robots (EAI-EC)",
+            "time": "2025-10",
+            "location": "Hangzhou, China"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "Design and fabrication of multimodal sensors for embodied intelligence",
+            "organizer": "iCANX Forum",
+            "time": "2025-10",
+            "location": "Hongkong, China"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "Digital twin-based mixed reality interfaces for teleoperation",
+            "organizer": "Hamlyn Symposium Trustworthy Medical Robotics Workshop",
+            "time": "2025-06",
+            "location": "London, UK"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "AI-based Robotic Dexterous Micromanipulation for Biomedical Applications",
+            "organizer": "MedTechOne AI Healthcare",
+            "time": "2025-05",
+            "location": "UK"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "Dexterous Manipulation and Human-Robot Collaboration",
+            "organizer": "6th UK Manipulation Workshop",
+            "time": "2025-05",
+            "location": "London, UK"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "AI for Biomedical Robotics Across Scales",
+            "organizer": "Imperial-X Cutting Edge Seminar ",
+            "time": "2024-12",
+            "location": "London, UK"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "AI for Biomedical Robotics Across Scales",
+            "organizer": "Hamlyn Symposium, Microrobotics Workshop",
+            "time": "2024-06",
+            "location": "London, UK"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "Guest Lecturer",
+            "organizer": "Shanghai Jiao Tong University",
+            "time": "2024-06",
+            "location": "Shanghai, China "
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "AI for Medical Robotics",
+            "organizer": "University College London",
+            "time": "2024-05",
+            "location": "London, UK"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "AI for Medical Robotics",
+            "organizer": "Surrey University",
+            "time": "2024-04",
+            "location": "London, UK"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "AI for Biomedical Robotics Across Scales",
+            "organizer": "University College London",
+            "time": "2024-05",
+            "location": "London, UK"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "Recent advances in robotic tactile perception and wearable haptic interface for enhanced human-robot interaction",
+            "organizer": "China Haptic and tactile Technology and Application Conference",
+            "time": "2024-05",
+            "location": "Tianjin, China"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "Intelligent Dexterous Manipulation Across Scales",
+            "organizer": "Tianjin University",
+            "time": "2024-05",
+            "location": "Tianjin, China"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "Intelligent Dexterous Manipulation Across Scales",
+            "organizer": "CNRS Femto-St",
+            "time": "2024-03",
+            "location": "London, UK"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "Medical Robotics",
+            "organizer": "University of Bristol",
+            "time": "2024-03",
+            "location": "Bristol, UK"
+          }
+        },
+        {
+          "name": "Talk",
+          "data": {
+            "title": "Transformative AI in Business",
+            "organizer": "Imperial College London ",
+            "time": "2024-02",
+            "location": "London, UK"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "title": "Research",
+    "description": "Our research focuses on advancing artificial intelligence through innovative approaches in machine learning, computer vision, and natural language processing."
+  },
+  "sections": {
+    "researchareas": {
+      "subsections": [
+        {
+          "name": "Research Area",
+          "data": {
+            "title": "Optical Micromanipulation",
+            "description": "Core principle: Uses focused laser beams to trap, move, or rotate microscopic particles via optical forces (radiation pressure and gradient force).",
+            "image": "/msei_website/assets/research/research1.png",
+            "project": [
+              "Key technologies: Optical tweezers, Smart Memory Alloy",
+              "Application 1: Cell and organelle manipulation in biology",
+              "Application 2: Contactless handling in microfluidics and soft matter",
+              "Research focus 1: Dexterous 6-DoF optical manipulation",
+              "Research focus 2: ML-based perception for closed loop control",
+              "Research focus 3: AI-enhanced human-robot shared control"
+            ]
+          }
+        },
+        {
+          "name": "Research Area",
+          "data": {
+            "title": "Magnetic Micromanipulation",
+            "description": "Core principle: Uses external magnetic fields to steer and actuate micro-objects made of or containing magnetic materials.",
+            "image": "/msei_website/assets/research/research2.png",
+            "project": [
+              "Key technologies: Electromagnetic coils, permanent magnet arrays, rotating field",
+              "Application 1: Targeted drug delivery and microrobots",
+              "Application 2: Navigation in vascular networks",
+              "Application 3: Reconfigurable assembly and manipulation",
+              "Research focus 1: Closed-loop magnetic control systems",
+              "Research focus 2: Multiscale swarming and collective micromanipulation"
+            ]
+          }
+        },
+        {
+          "name": "Research Area",
+          "data": {
+            "title": "Piezo-actuated Micromanipulation",
+            "description": "Core principle: Uses piezoelectric materials that deform under applied voltage to drive high-precision, low-drift motion at micro- and nanoscales.",
+            "image": "/msei_website/assets/research/research3.png",
+            "project": [
+              "Key technologies: Piezo stages, nanopositioners, zero-drift actuators",
+              "Application 1: Patch-clamp electrophysiology",
+              "Application 2: Robot-assisted microsurgery",
+              "Research focus 1: Human-Robot Shared Control for micromanipulation",
+              "Research focus 2: Microsurgical Training",
+              "Research focus 3: AI-Driven Control"
+            ]
+          }
+        }
+      ]
+    },
+    "collaborations": {
+      "subsections": [
+        {
+          "name": "Collaboration",
+          "data": {
+            "name": "Imperial College London",
+            "link": "https://www.imperial.ac.uk"
+          }
+        },
+        {
+          "name": "Collaboration",
+          "data": {
+            "name": "University of Bristol",
+            "link": "https://www.bristol.ac.uk"
+          }
+        }
+      ]
+    }
+  }
+}
