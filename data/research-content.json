@@ -429,6 +429,26 @@
         "label": "Multi-pipette localisation · author manuscript",
         "url": "https://arxiv.org/abs/2504.01044"
       }
-    ]
+    ],
+    "figures": {
+      "framework": {
+        "image": "/assets/illustrations/adaptive-physical-intelligence-2026e.svg",
+        "mobileImage": "/assets/illustrations/adaptive-physical-intelligence-2026e-mobile.svg",
+        "width": 1280,
+        "height": 720,
+        "title": "Four coupled questions, one physical interaction",
+        "alt": "Sensing physical state, learning useful behaviours, adapting action and assistance, and designing physical capability all connect through physical interaction. Contact, motion and observation inform these coupled research questions.",
+        "caption": "An explanatory map of the research programme. Sensing, learning, control and physical design inform one another through interaction; this is a synthesis of the research themes, not a single completed general-purpose system."
+      },
+      "evidence": {
+        "image": "/assets/illustrations/research-evidence-guide-2026e.svg",
+        "mobileImage": "/assets/illustrations/research-evidence-guide-2026e-mobile.svg",
+        "width": 1280,
+        "height": 540,
+        "title": "Read the evidence in its experimental context",
+        "alt": "A reading guide for research: identify the task and conditions, examine the comparison, inspect the measurements and outcomes, and consider the supported scope and next question.",
+        "caption": "A guide to reading the linked papers. Experimental platforms, data, comparators and evaluation criteria vary by study; the figure proposes questions for the reader rather than claiming that every project uses the same protocol."
+      }
+    }
   }
 }

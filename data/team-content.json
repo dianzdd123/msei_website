@@ -423,21 +423,6 @@
         {
           "name": "MSc researcher",
           "data": {
-            "name": "Yange Sun",
-            "role": "MSc researcher",
-            "programmeGroup": "msc-robotics",
-            "period": "2026 cohort",
-            "project": "Design and fabrication of a tactile sensor array for a robotic hand",
-            "supervisors": [
-              "Etienne Burdet",
-              "Alexis Devillard",
-              "Dandan Zhang"
-            ]
-          }
-        },
-        {
-          "name": "MSc researcher",
-          "data": {
             "name": "Sherlyn Ong",
             "role": "MSc researcher",
             "programmeGroup": "msc-ai",
@@ -518,15 +503,6 @@
             "period": "2025–2026",
             "project": "Deep learning for microrobot depth and pose estimation",
             "supervisors": []
-          }
-        },
-        {
-          "name": "MSc researcher",
-          "data": {
-            "name": "Mahgoub Mahgoub",
-            "role": "MSc researcher",
-            "programmeGroup": "msc-robotics",
-            "period": "2025–2026"
           }
         }
       ]

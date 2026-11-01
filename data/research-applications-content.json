@@ -184,7 +184,21 @@
           "url": "https://github.com/dianzdd123/DRL-MR-Microrobot"
         }
       ],
-      "path": "/msei_website/research/microrobotics/"
+      "path": "/msei_website/research/microrobotics/",
+      "approachFigure": {
+        "title": "Observation, actuation and interaction at small scales",
+        "alt": "Microrobotics research connects microscope observations to pose and depth estimation, optical or magnetic actuation, and manipulation. Observing the resulting physical response informs the next action.",
+        "caption": "Explanatory schematic across optical and magnetic manipulation studies. The platforms use different physical scales and actuation principles; the related modular millirobot work is at the millimetre scale.",
+        "image": "/assets/illustrations/microrobotics-workflow-2026e.svg",
+        "mobileImage": "/assets/illustrations/microrobotics-workflow-2026e-mobile.svg",
+        "width": 1280,
+        "height": 540
+      },
+      "evidenceQuestions": [
+        "Which physical scale, actuation mechanism and experimental medium are used?",
+        "How are pose, force or navigation performance measured for that platform?",
+        "Which parts transfer across objects or conditions, and which require new calibration?"
+      ]
     },
     {
       "slug": "dexterous-manipulation",
@@ -355,7 +369,21 @@
           "url": "https://github.com/dianzdd123/ADM_DP"
         }
       ],
-      "path": "/msei_website/research/dexterous-manipulation/"
+      "path": "/msei_website/research/dexterous-manipulation/",
+      "approachFigure": {
+        "title": "From contact observations to adaptable manipulation",
+        "alt": "Touch and vision provide observations of physical interaction. State representations and learned action policies support grasping and manipulation, with new contact observations informing subsequent action.",
+        "caption": "Conceptual connection between sensing, representation, learned action and contact. These elements are investigated in different sensors, robots and tasks; the schematic does not describe one universal manipulation system.",
+        "image": "/assets/illustrations/tactile-manipulation-workflow-2026e.svg",
+        "mobileImage": "/assets/illustrations/tactile-manipulation-workflow-2026e-mobile.svg",
+        "width": 1280,
+        "height": 540
+      },
+      "evidenceQuestions": [
+        "What contact information does the sensor or robot actually observe?",
+        "Which objects, tasks, demonstrations and comparisons support the reported result?",
+        "How does performance change when the contact conditions or sensory inputs change?"
+      ]
     },
     {
       "slug": "medical-robotics",
@@ -367,10 +395,10 @@
       "introduction": "Surgical and microsurgical research provides a demanding setting for studying how human judgement and robot precision can work together. Our work examines control allocation, motion scaling, haptic feedback and digital-twin interfaces on research platforms and in training tasks.",
       "question": "How should robotic assistance adapt as a precise manipulation task and the operator’s needs change?",
       "connection": "Here, adaptive physical intelligence includes the human operator. Perception estimates task context, learning transfers useful motion patterns, and control adjusts assistance while the operator remains part of the interaction.",
-      "image": "/assets/research/research3.png",
-      "alt": "Precision robotic micromanipulators surrounding an anatomical brain model on an optical table.",
-      "caption": "A micromanipulation research setup with an anatomical model.",
-      "visualStyle": "contain",
+      "image": "/assets/illustrations/medical-robotics-concept-2026e.webp",
+      "alt": "Concept illustration of robotic instruments positioned around a synthetic surgical phantom in a research laboratory.",
+      "caption": "AI-generated concept illustration of a medical-robotics research platform using a synthetic phantom; not a clinical photograph or experimental result.",
+      "visualStyle": "cover",
       "focusAreas": [
         {
           "title": "Context-aware shared control",
@@ -494,7 +522,28 @@
       "evidenceNote": "The work described here concerns research systems, user studies and training or experimental tasks. It does not establish clinical deployment or a replacement for clinical judgement. Mixed-reality teleoperation is a related enabling method, rather than a claim of a clinically validated system.",
       "nextDirection": "We aim to investigate assistance that responds more explicitly to uncertainty, changing contact and operator workload, with evaluation that considers both manipulation performance and the human experience.",
       "resources": [],
-      "path": "/msei_website/research/medical-robotics/"
+      "path": "/msei_website/research/medical-robotics/",
+      "approachFigure": {
+        "title": "How task context can inform assistance",
+        "alt": "Operator intent and estimated task context inform adaptive robotic assistance. Tool motion and visual or haptic feedback allow the operator to assess and continue the interaction.",
+        "caption": "A research framework for operator-in-the-loop assistance. Shared control, motion scaling and feedback are studied on research or training platforms; the schematic is not a clinical workflow.",
+        "image": "/assets/illustrations/medical-shared-control-2026e.svg",
+        "mobileImage": "/assets/illustrations/medical-shared-control-2026e-mobile.svg",
+        "width": 1280,
+        "height": 540
+      },
+      "evidenceQuestions": [
+        "What task does the operator perform, and what assistance does the robot provide?",
+        "How are accuracy, interaction and operator performance evaluated in the study?",
+        "Which results are specific to the research platform or user-study setting?"
+      ],
+      "supportFigure": {
+        "image": "/assets/research/research3.png",
+        "alt": "Precision robotic micromanipulators surrounding an anatomical brain model on an optical table.",
+        "caption": "A micromanipulation research setup with an anatomical model.",
+        "title": "A platform for precise, assisted interaction",
+        "description": "Robotic positioning stages, instruments and an anatomical model provide a physical setting for precision-manipulation research. The linked papers specify their own platforms, tasks and evaluation conditions."
+      }
     },
     {
       "slug": "scientific-instrumentation",
@@ -506,10 +555,10 @@
       "introduction": "Scientific instruments must connect an observation to a precisely controlled physical action. Our work studies localisation of multiple pipettes, pose and depth perception under a microscope, and reproducible datasets that allow these perception methods to be compared.",
       "question": "How can robotic perception make delicate experimental operations more repeatable and easier to automate?",
       "connection": "This application connects the lab’s sensing and learning methods to experimental practice. Reliable state estimates are a prerequisite for useful control, and the mechanics of a tool or microscopic object determine which observations and actions are possible.",
-      "image": "/assets/research/research1.png",
-      "alt": "Optical microrobotics research schematic showing fabrication, microscopy-based perception and manipulation.",
-      "caption": "Research schematic linking optical fabrication, microscopy-based perception and micromanipulation.",
-      "visualStyle": "contain",
+      "image": "/assets/illustrations/scientific-experiments-concept-2026e.webp",
+      "alt": "Concept illustration of a microscope, micromanipulators and sample chamber in a precision experimentation laboratory.",
+      "caption": "AI-generated concept illustration of microscopy and robotic instrumentation; not a photograph of a completed autonomous laboratory or experimental result.",
+      "visualStyle": "cover",
       "focusAreas": [
         {
           "title": "Multi-pipette localisation",
@@ -673,7 +722,30 @@
           "url": "https://github.com/Zongcai23/Micro_Object_Sim2Real"
         }
       ],
-      "path": "/msei_website/research/scientific-instrumentation/"
+      "path": "/msei_website/research/scientific-instrumentation/",
+      "approachFigure": {
+        "title": "A concrete starting point: locating tools in microscope images",
+        "alt": "The multi-pipette localisation approach takes microscope images, improves visibility by suppressing background information, detects candidate tip locations, and refines the individual pipette-tip coordinates.",
+        "caption": "Explanatory summary of the multi-pipette localisation approach. This perception component is established research; connecting perception to complete experimental procedures remains a broader research direction.",
+        "sourceLabel": "Multi-pipette localisation paper",
+        "sourceUrl": "https://arxiv.org/abs/2504.01044",
+        "image": "/assets/illustrations/scientific-perception-workflow-2026e.svg",
+        "mobileImage": "/assets/illustrations/scientific-perception-workflow-2026e-mobile.svg",
+        "width": 1280,
+        "height": 540
+      },
+      "evidenceQuestions": [
+        "Which part of the experimental workflow has been demonstrated?",
+        "What microscopy conditions and annotations support perception evaluation?",
+        "What remains to connect this component to reliable experimental action?"
+      ],
+      "supportFigure": {
+        "image": "/assets/research/research1.png",
+        "alt": "Optical microrobotics research schematic showing fabrication, microscopy-based perception and manipulation.",
+        "caption": "Research schematic linking optical fabrication, microscopy-based perception and micromanipulation.",
+        "title": "Connect the instrument, the image and the interaction",
+        "description": "This research schematic relates optical fabrication, microscopy-based perception and manipulation. Current work supplies specific components such as perception datasets and pipette localisation; broader autonomous experimental procedures remain a research direction."
+      }
     }
   ]
 }
