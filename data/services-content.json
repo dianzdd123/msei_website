@@ -1,124 +1,674 @@
 {
   "metadata": {
-    "title": "Services",
-    "description": "Academic services and professional activities"
+    "title": "Professional Service",
+    "description": "Building research communities, supporting rigorous evaluation and connecting robotics with wider audiences.",
+    "lastUpdated": "2026-11-01",
+    "recordDate": "30 October 2026",
+    "sourceNote": "Academic record supplied by Dandan Zhang, 30 October 2026, with selected official event and institutional sources."
   },
+  "intro": "My academic service spans editorial work, conference and workshop leadership, grant review, doctoral examination and institutional engagement. It brings together robotics, artificial intelligence, healthcare and interdisciplinary research communities.",
+  "highlights": [
+    {
+      "label": "IEEE RAS Technical Committee",
+      "detail": "Secretary · Human-Centred AI for Medical Robotics",
+      "period": "2025–present"
+    },
+    {
+      "label": "IEEE ROBIO 2026",
+      "detail": "Programme Co-Chair",
+      "period": "Forthcoming conference",
+      "url": "https://www.robio2026.org/committees.html"
+    },
+    {
+      "label": "EPSRC Peer Review College",
+      "detail": "Member",
+      "period": "2022–present"
+    }
+  ],
   "sections": {
-    "programcommittee": {
+    "leadership": {
+      "title": "Society, conference & workshop leadership",
       "subsections": [
         {
-          "name": "Committee",
+          "name": "Entry",
           "data": {
-            "name": "IEEE International Conference on Manipulation, Automation, and Robotics at Small Scales (MARSS)",
-            "period": "2025 - Present"
+            "name": "IEEE RAS Technical Committee on Human-Centred AI for Medical Robotics",
+            "role": "Secretary",
+            "period": "2025–present"
           }
         },
         {
-          "name": "Committee",
+          "name": "Entry",
+          "data": {
+            "name": "IEEE International Conference on Robotics and Biomimetics (ROBIO)",
+            "role": "Programme Co-Chair",
+            "period": "2026",
+            "status": "Forthcoming",
+            "url": "https://www.robio2026.org/committees.html"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "ECCV Workshop on Safe World Models for Trustworthy Embodied AI",
+            "role": "Co-Organiser, Co-Chair & Award Committee Member",
+            "period": "2026",
+            "description": "Malmö, Sweden.",
+            "url": "https://trustworthy-world-models.github.io/ECCV2026/"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "IROS Workshop on Physical World Models for Scaling Embodied AI",
+            "role": "Co-Organiser",
+            "period": "2026",
+            "description": "Pittsburgh, USA.",
+            "url": "https://physical-world-models.github.io/IROS2026/"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Robotics: Science and Systems (RSS) workshop",
+            "role": "Award Committee Member",
+            "period": "2026"
+          }
+        }
+      ]
+    },
+    "proposals": {
+      "title": "2027 workshop proposals",
+      "subsections": [
+        {
+          "name": "Entry",
+          "data": {
+            "name": "ICRA Workshop on Trustworthy Robotics",
+            "role": "Co-Organiser",
+            "period": "2027",
+            "status": "Proposal under review"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "ICLR Workshop on Scientific World Models: From Prediction to Intervention and Discovery",
+            "role": "Co-Organiser",
+            "period": "2027",
+            "status": "Proposal under review",
+            "url": "https://taoyongcui.github.io/scientific-world-models/"
+          }
+        }
+      ],
+      "description": "Proposed workshops are listed with their current submission status; they are not confirmed conference events."
+    },
+    "earlierleadership": {
+      "title": "Earlier conference & workshop leadership",
+      "subsections": [
+        {
+          "name": "Entry",
+          "data": {
+            "name": "CVPR Workshop on Multi-Agent Embodied Intelligent Systems",
+            "role": "Co-Organiser & Area Chair",
+            "period": "2025",
+            "url": "https://coop-intelligence.github.io/cvpr2025/"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "IEEE International Conference on Cyborg and Bionic Systems (CBS)",
+            "role": "Publicity Chair",
+            "period": "2025"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "IROS Medical Robots and Systems session",
+            "role": "Session Chair",
+            "period": "2025"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "IEEE International Conference on Industrial Technology (ICIT)",
+            "role": "Award Committee Member, Presentation Track Co-Chair & Session Chair",
+            "period": "2024"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "4th UK Robot Manipulation Workshop",
+            "role": "Co-Organiser",
+            "period": "2023"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Hamlyn Symposium Workshop on Untethered Micro- and Nanorobotics for Healthcare Applications",
+            "role": "Co-Organiser",
+            "period": "2023"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Intelligent Microrobotics for Biomedical Engineering Workshop",
+            "role": "Organiser",
+            "period": "2022"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Bristol Robotics Laboratory Human-Robot Interaction event",
+            "role": "Organiser",
+            "period": "2022"
+          }
+        }
+      ]
+    },
+    "programcommittee": {
+      "title": "Programme committees & conference editing",
+      "subsections": [
+        {
+          "name": "Entry",
+          "data": {
+            "name": "International Conference on Manipulation, Automation and Robotics at Small Scales (MARSS)",
+            "role": "Programme Committee Member",
+            "period": "2025–present"
+          }
+        },
+        {
+          "name": "Entry",
           "data": {
             "name": "IEEE International Conference on Robotics and Automation (ICRA)",
-            "period": "2024 - Present"
+            "role": "Associate Editor",
+            "period": "2024"
           }
         }
       ]
     },
     "journaleditorial": {
+      "title": "Editorial appointments",
       "subsections": [
         {
-          "name": "Journal",
+          "name": "Entry",
           "data": {
             "name": "Cyborg and Bionic Systems",
             "role": "Young Editor",
-            "period": "2023 - Present"
+            "period": "2023–present"
           }
         },
         {
-          "name": "Journal",
+          "name": "Entry",
           "data": {
-            "name": "Frontiers in Neurorobotics and Frontiers in Neuroscience",
+            "name": "Frontiers in Robotics and AI",
             "role": "Editorial Board Member",
-            "period": "2022 - Present"
+            "period": "2022–present"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Frontiers in Neurorobotics",
+            "role": "Editorial Board Member",
+            "period": "2021–present"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Frontiers in Neuroscience — Neuroprosthetics",
+            "role": "Editorial Board Member",
+            "period": "2021–present"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Embodied AI and Robotics for Future Scientific Discovery",
+            "role": "Guest Editor",
+            "period": "2026",
+            "description": "Frontiers in Robotics and AI."
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Intelligent Micro-Robotics for Biomedical Applications",
+            "role": "Topic Editor",
+            "period": "2023–present"
           }
         }
       ]
     },
     "journal&conferencereviewer": {
+      "title": "Journal & conference peer review",
       "subsections": [
         {
           "name": "Journal Reviewer",
           "data": {
-            "name": "Nature Machine Intelligence",
-            "period": "2022 - Present"
+            "name": "Nature Machine Intelligence"
           }
         },
         {
           "name": "Journal Reviewer",
           "data": {
-            "name": "IEEE Transaction on Robotics",
-            "period": "2023 - Present"
+            "name": "Advanced Materials"
           }
         },
         {
           "name": "Journal Reviewer",
           "data": {
-            "name": "Advanced Intelligence System",
-            "period": "2022 - Present"
+            "name": "Advanced Intelligent Systems"
           }
         },
         {
           "name": "Journal Reviewer",
           "data": {
-            "name": "IEEE Transactions on Neural Networks and Learning Systems",
-            "period": "2022 - Present"
+            "name": "Communications Physics"
           }
         },
         {
           "name": "Journal Reviewer",
           "data": {
-            "name": "IEEE Transactions on Automation Science and Engineering",
-            "period": "2022 - Present"
+            "name": "Communications Engineering"
           }
         },
         {
           "name": "Journal Reviewer",
           "data": {
-            "name": "IEEE Robotics and Automation Letters",
-            "period": "2022 - Present"
+            "name": "IEEE Transactions on Robotics"
           }
         },
         {
           "name": "Journal Reviewer",
           "data": {
-            "name": "IEEE Transactions on Medical Robotics and Bionics",
-            "period": "2022 - Present"
+            "name": "IEEE Transactions on Automation Science and Engineering"
           }
         },
         {
           "name": "Journal Reviewer",
           "data": {
-            "name": "Advanced Materials",
-            "period": "2025 - Present"
+            "name": "IEEE Transactions on Biomedical Engineering"
+          }
+        },
+        {
+          "name": "Journal Reviewer",
+          "data": {
+            "name": "IEEE Transactions on Medical Robotics and Bionics"
+          }
+        },
+        {
+          "name": "Journal Reviewer",
+          "data": {
+            "name": "IEEE Transactions on Neural Networks and Learning Systems"
+          }
+        },
+        {
+          "name": "Journal Reviewer",
+          "data": {
+            "name": "IEEE Robotics and Automation Letters"
+          }
+        },
+        {
+          "name": "Journal Reviewer",
+          "data": {
+            "name": "Robotics and Autonomous Systems"
+          }
+        },
+        {
+          "name": "Journal Reviewer",
+          "data": {
+            "name": "Information Fusion"
+          }
+        },
+        {
+          "name": "Journal Reviewer",
+          "data": {
+            "name": "Swarm Intelligence"
           }
         },
         {
           "name": "Conference Reviewer",
           "data": {
-            "name": "IEEE International Conference on Robotics and Automation (ICRA)",
-            "period": "2023 - Present"
+            "name": "IEEE International Conference on Robotics and Automation (ICRA)"
           }
         },
         {
           "name": "Conference Reviewer",
           "data": {
-            "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
-            "period": "2022 - Present"
+            "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
           }
         },
         {
           "name": "Conference Reviewer",
           "data": {
-            "name": "IEEE International Conference on Automation, Robotics and Mechatronics (ARM)",
-            "period": "2023 - Present"
+            "name": "Conference on Robot Learning (CoRL)"
+          }
+        },
+        {
+          "name": "Conference Reviewer",
+          "data": {
+            "name": "IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)"
+          }
+        },
+        {
+          "name": "Conference Reviewer",
+          "data": {
+            "name": "IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)"
+          }
+        },
+        {
+          "name": "Conference Reviewer",
+          "data": {
+            "name": "International Conference on Manipulation, Automation and Robotics at Small Scales (MARSS)"
+          }
+        }
+      ]
+    },
+    "grantreview": {
+      "title": "Grant & fellowship review",
+      "subsections": [
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Engineering and Physical Sciences Research Council (EPSRC) Peer Review College",
+            "role": "Member",
+            "period": "2022–present"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "EPSRC Standard Grants",
+            "role": "Reviewer"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "UKRI Strategic Infrastructure; UK–Japan joint funding calls",
+            "role": "Reviewer"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "UKRI/STFC AI Research Resource Innovator opportunities",
+            "role": "Reviewer"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Research Foundation Flanders",
+            "role": "Fellowship Reviewer",
+            "period": "2025–2026"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "la Caixa INPhINIT Fellowships",
+            "role": "Reviewer",
+            "period": "2023–2025"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "TERRINet",
+            "role": "Reviewer",
+            "period": "2018–2020"
+          }
+        }
+      ]
+    },
+    "examination": {
+      "title": "Doctoral examination",
+      "subsections": [
+        {
+          "name": "Entry",
+          "data": {
+            "name": "FEMTO-ST",
+            "role": "Doctoral Examiner",
+            "period": "2026"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Shanghai Jiao Tong University",
+            "role": "Doctoral Examiner",
+            "period": "2025"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Cardiff University",
+            "role": "Doctoral Examiner",
+            "period": "2024"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "University of Bristol",
+            "role": "Doctoral Examiner",
+            "period": "2023"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Technical University of Košice",
+            "role": "Midterm Doctoral Defence Examiner",
+            "period": "2022"
+          }
+        }
+      ]
+    },
+    "nominations": {
+      "title": "External examiner nominations",
+      "subsections": [
+        {
+          "name": "Entry",
+          "data": {
+            "name": "The University of Hong Kong",
+            "role": "External Examiner",
+            "period": "2026",
+            "status": "Nominated"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "King’s College London",
+            "role": "External Examiner",
+            "period": "2026",
+            "status": "Nominated"
+          }
+        }
+      ],
+      "description": "Nominations recorded as of 30 October 2026; listed separately from completed examinations."
+    },
+    "institutional": {
+      "title": "Institutional leadership & academic panels",
+      "subsections": [
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Female Academic Network, Imperial Bioengineering",
+            "role": "Coordinator",
+            "url": "https://www.imperial.ac.uk/bioengineering/people/committees-and-supplementary-roles/"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Year Abroad / Undergraduate Exchange Programme, Imperial Bioengineering",
+            "role": "Coordinator",
+            "url": "https://www.imperial.ac.uk/bioengineering/people/committees-and-supplementary-roles/"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "AI Research Fellowships; MedTechOne Proof of Concept Competition; MRC Doctoral Training Programme selection",
+            "role": "Panel Member"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Academic recruitment; undergraduate admissions; postgraduate assessment",
+            "role": "Panel, interview & examination service"
+          }
+        }
+      ]
+    },
+    "outreach": {
+      "title": "Outreach & public engagement",
+      "subsections": [
+        {
+          "name": "Entry",
+          "data": {
+            "name": "NHS AI Ambassador",
+            "period": "2025–present"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Imperial I-X Open Days",
+            "role": "Co-Organiser",
+            "period": "2024–2025",
+            "description": "Engagement reaching more than 500 visitors across the recorded open-day activities.",
+            "url": "https://ix.imperial.ac.uk/event/i-x-open-day"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Imperial Lates; Imperial Policy Fellowships",
+            "role": "Research demonstrations",
+            "period": "2024"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "University of Bristol open days",
+            "role": "Contributor",
+            "period": "2021–2023"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Imperial As One Media Academy",
+            "role": "Completed training",
+            "period": "2026",
+            "description": "Media engagement, podcasting, public engagement, public affairs and policy."
+          }
+        }
+      ],
+      "figure": {
+        "src": "/assets/photos/cnrs-imperial-meeting-2026.webp",
+        "alt": "MSEI Lab members and visiting CNRS researchers gathered for a research meeting in April 2026.",
+        "caption": "CNRS–Imperial research exchange, April 2026: welcoming Dr Antoine Barbot and Valentin from FEMTO-ST.",
+        "source": "https://www.intelligentrobotics-acrossscales.com/gallery"
+      }
+    },
+    "openresearch": {
+      "title": "Open research & community resources",
+      "subsections": [
+        {
+          "name": "Entry",
+          "data": {
+            "name": "TacVerse",
+            "description": "Multisensor tactile dataset and benchmark."
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "RoboDojo",
+            "description": "Benchmark for generalist robot manipulation policies."
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "WSRender",
+            "description": "Robotic manipulator workspace analysis and visualisation toolbox."
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "HuBotVerse",
+            "description": "Digital-twin-based mixed-reality framework for human–robot interaction."
+          }
+        }
+      ]
+    },
+    "memberships": {
+      "title": "Professional memberships & fellowships",
+      "subsections": [
+        {
+          "name": "Entry",
+          "data": {
+            "name": "IEEE",
+            "role": "Member",
+            "period": "2016–present"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "IEEE Robotics and Automation Society",
+            "role": "Member",
+            "period": "2024–present"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "IEEE Industrial Electronics Society",
+            "role": "Member",
+            "period": "2022–present"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "IEEE Women in Engineering",
+            "role": "Member",
+            "period": "2019–present"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Higher Education Academy",
+            "role": "Fellow",
+            "period": "June 2023–present"
+          }
+        },
+        {
+          "name": "Entry",
+          "data": {
+            "name": "Outstanding Young Scholars Society UK",
+            "role": "Fellow",
+            "period": "2025"
           }
         }
       ]

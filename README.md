@@ -26,8 +26,10 @@ GitHub Pages deploys from `main`. The custom domain is stored in `CNAME`; keep i
 
 The original Vue authoring project and build configuration are not present in this repository. The files in `assets/` are compiled bundles. Make routine content updates in `data/`; recover the original source before a substantial UI redevelopment. After changing the root `index.html`, run `python scripts/sync-entry-pages.py` to synchronise `404.html` and the nine explicit entry pages under `msei_website/`. These entry pages let direct links and refreshes load the application without relying on the missing-page fallback.
 
-The November 2026 release uses versioned JavaScript bundles ending in `.20261101.js`. Their imports form a consistent module graph; older bundles remain available for already-open tabs. The current data loader revalidates JSON and uses a release query key to avoid mixing new HTML with cached older content. For a future JavaScript release, use new bundle names and update all dependent imports and HTML entry pages together.
+The current November 2026 release uses versioned JavaScript bundles ending in `.20261101b.js`. The previous `.20261101.js` release is retained for cached clients. Their imports form a consistent module graph; older bundles remain available for already-open tabs. The current data loader revalidates JSON and uses a release query key to avoid mixing new HTML with cached older content. For a future JavaScript release, use new bundle names and update all dependent imports and HTML entry pages together.
 
 After editing, parse the JSON, verify publication links and status, check any changed JavaScript syntax, and inspect the live home/research/publications pages after the Pages deployment completes. A browser reload is needed to discard the app's in-memory data cache.
 
 The source notes for the November 2026 refresh are in [docs/content-update-2026-11-01.md](docs/content-update-2026-11-01.md).
+
+The comprehensive profile, teaching, service and photo refresh is documented in [profile and education source notes](docs/profile-teaching-service-update-2026-11-01.md). The new Home, Teaching, Services and GroupPhoto modules are readable JavaScript using the existing Vue runtime. Image-generation prompts are recorded in [illustration notes](assets/illustrations/README.md).

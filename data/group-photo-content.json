@@ -1,28 +1,163 @@
 {
-  "main": {},
+  "main": {
+    "url": "/assets/photos/cnrs-imperial-meeting-2026.webp",
+    "title": "Research exchange",
+    "alt": "Researchers gathered for the CNRS–Imperial collaboration visit in April 2026.",
+    "caption": "A group meeting during the CNRS–Imperial visit, bringing together colleagues to discuss ongoing research and opportunities for collaboration.",
+    "date": "13 April 2026",
+    "dateISO": "2026-04-13",
+    "location": "Imperial College London",
+    "width": 1600,
+    "height": 1067,
+    "sourceUrl": "https://www.intelligentrobotics-acrossscales.com/gallery",
+    "sourceAsset": "2026-04-13-Research Group Meeting.jpg",
+    "year": "2026"
+  },
   "history": [
     {
+      "year": "2026",
+      "url": "/assets/photos/cnrs-imperial-meeting-2026.webp",
+      "text": "Welcoming Dr Antoine Barbot and Valentin from FEMTO-ST, CNRS, for research discussions and shared activities during their April 2026 visit.",
+      "date": "13 April 2026",
+      "location": "Imperial College London",
+      "photos": [
+        "/assets/photos/msei-group-lunch-2026.webp"
+      ]
+    },
+    {
       "year": "2025",
-      "url": "/assets/group_photo/group_photo.JPG",
+      "url": "/assets/photos/archive-2025-group.webp",
       "text": "Our group photo records the growth and efforts of every member at Imperial College London.",
       "date": "July 2025",
       "location": "I-X, Imperial College London",
       "photos": [
-        "/assets/group_photo/2025-1.jpeg"
-      ]
+        "/assets/photos/archive-2025-lab.webp"
+      ],
+      "originalUrl": "/assets/group_photo/group_photo.JPG"
     },
     {
       "year": "2024",
-      "url": "/assets/group_photo/2024.jpeg",
+      "url": "/assets/photos/archive-2024-group.webp",
       "text": "",
       "date": "",
       "location": "",
       "photos": [
-        "/assets/group_photo/2024-2.jpeg"
+        "/assets/photos/archive-2024-gathering.webp"
+      ],
+      "originalUrl": "/assets/group_photo/2024.jpeg"
+    }
+  ],
+  "description": "Research grows through shared experiments, discussion and collaboration. Explore moments from the Multi-Scale Embodied Intelligence Lab and our wider research community.",
+  "currentYearPhotos": [],
+  "albums": [
+    {
+      "year": "2026",
+      "title": "CNRS–Imperial collaboration visit",
+      "description": "Welcoming Dr Antoine Barbot and Valentin from FEMTO-ST, CNRS, for research discussions and shared activities during their April 2026 visit.",
+      "cover": "/assets/photos/cnrs-imperial-meeting-2026.webp",
+      "date": "April 2026",
+      "sourceUrl": "https://www.intelligentrobotics-acrossscales.com/gallery",
+      "sourceLabel": "View the visit in our lab gallery",
+      "photos": [
+        {
+          "url": "/assets/photos/cnrs-imperial-meeting-2026.webp",
+          "title": "Research exchange",
+          "alt": "Researchers gathered for the CNRS–Imperial collaboration visit in April 2026.",
+          "caption": "A group meeting during the CNRS–Imperial visit, bringing together colleagues to discuss ongoing research and opportunities for collaboration.",
+          "date": "13 April 2026",
+          "dateISO": "2026-04-13",
+          "location": "Imperial College London",
+          "width": 1600,
+          "height": 1067,
+          "sourceUrl": "https://www.intelligentrobotics-acrossscales.com/gallery",
+          "sourceAsset": "2026-04-13-Research Group Meeting.jpg"
+        },
+        {
+          "url": "/assets/photos/msei-group-lunch-2026.webp",
+          "title": "Conversations beyond the lab",
+          "alt": "Members of the research group and visitors sharing a meal in April 2026.",
+          "caption": "A group lunch during the visit, with time to exchange ideas and get to know colleagues beyond the research meeting.",
+          "date": "16 April 2026",
+          "dateISO": "2026-04-16",
+          "location": "",
+          "width": 1600,
+          "height": 1200,
+          "sourceUrl": "https://www.intelligentrobotics-acrossscales.com/gallery",
+          "sourceAsset": "2026-04-16-Research Group Lunch.jpg"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "title": "The MSEI community",
+      "description": "Group photographs and informal moments from 2025.",
+      "cover": "/assets/photos/archive-2025-group.webp",
+      "date": "2025",
+      "photos": [
+        {
+          "url": "/assets/photos/archive-2025-group.webp",
+          "originalUrl": "/assets/group_photo/group_photo.JPG",
+          "title": "Together at I-X",
+          "alt": "The MSEI research group standing together in a room at Imperial I-X.",
+          "caption": "The research group at I-X, Imperial College London.",
+          "date": "July 2025",
+          "dateISO": "2025-07",
+          "location": "I-X, Imperial College London",
+          "width": 1800,
+          "height": 1200,
+          "sourceLabel": "Existing MSEI website photo archive"
+        },
+        {
+          "url": "/assets/photos/archive-2025-lab.webp",
+          "originalUrl": "/assets/group_photo/2025-1.jpeg",
+          "title": "Lab life",
+          "alt": "Members of the research community sharing an informal meal.",
+          "caption": "An informal gathering from the 2025 photo archive.",
+          "date": "2025",
+          "dateISO": "2025",
+          "location": "",
+          "width": 767,
+          "height": 663,
+          "sourceLabel": "Existing MSEI website photo archive"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "title": "Ideas in action",
+      "description": "Robotics demonstrations from our 2024 photo archive.",
+      "cover": "/assets/photos/archive-2024-group.webp",
+      "date": "2024",
+      "photos": [
+        {
+          "url": "/assets/photos/archive-2024-group.webp",
+          "originalUrl": "/assets/group_photo/2024.jpeg",
+          "title": "Sharing robotics research",
+          "alt": "Three researchers beside a laptop and a pair of haptic input devices at a demonstration table.",
+          "caption": "A robotics demonstration with haptic interfaces, from the 2024 archive.",
+          "date": "2024",
+          "dateISO": "2024",
+          "location": "",
+          "width": 1800,
+          "height": 1200,
+          "sourceLabel": "Existing MSEI website photo archive"
+        },
+        {
+          "url": "/assets/photos/archive-2024-gathering.webp",
+          "originalUrl": "/assets/group_photo/2024-2.jpeg",
+          "title": "Demonstrating physical interaction",
+          "alt": "Three researchers beside a white robotic arm during a robotics demonstration.",
+          "caption": "Exploring interaction with a robotic arm, from the 2024 archive.",
+          "date": "2024",
+          "dateISO": "2024",
+          "location": "",
+          "width": 1800,
+          "height": 1200,
+          "sourceLabel": "Existing MSEI website photo archive"
+        }
       ]
     }
   ],
-  "description": "",
-  "currentYearPhotos": [],
-  "albums": []
+  "title": "Group photos",
+  "updated": "2026-11-01"
 }

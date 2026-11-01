@@ -6,11 +6,43 @@
   },
   "sections": {
     "hero": {
-      "title": "Dandan Zhang",
+      "title": "Dr Dandan Zhang",
       "primaryButton": "Explore Research",
       "secondaryButton": "Meet Our Team",
-      "description": "<p>I am an Assistant Professor in AI and Machine Learning at Imperial College London, working across the Department of Bioengineering and the I-X initiative. I lead the Multi-Scale Embodied Intelligence (MSEI) Lab, where we study how robots can perceive, learn and manipulate through physical interaction.</p><p>Our research connects multimodal perception, robot learning and shared autonomy with optical and magnetic microrobotics, robot-assisted microsurgery and scientific experimentation. This website highlights our work on microrobotics and biomedical micromanipulation.</p><p>Before joining Imperial, I was a Lecturer at the University of Bristol and a member of the Bristol Robotics Laboratory. I completed my PhD and MRes at Imperial. <a href=\"https://profiles.imperial.ac.uk/d.zhang17\" target=\"_blank\" rel=\"noopener noreferrer\">Imperial profile</a> · <a href=\"https://www.intelligentrobotics-acrossscales.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Wider lab research</a></p>",
-      "subtitle": "Multi-Scale Embodied Intelligence Lab · Imperial College London"
+      "description": "<p>Dr Dandan Zhang is an Assistant Professor at Imperial College London and founder of the Multi-Scale Embodied Intelligence (MSEI) Lab. Her research develops adaptive physical intelligence for dexterous manipulation across scales, connecting tactile sensing and multimodal perception, data-efficient robot learning, shared autonomy, and optical and magnetic microrobotics. Applications span robotic manipulation, robot-assisted microsurgery and scientific experimentation.</p><p>She joined Imperial in 2023 after a lectureship in Robotics at the University of Bristol (2021–2023). She received her PhD in Medical Robotics from Imperial in 2021 and her MRes in Medical Robotics and Image-Guided Intervention in 2018.</p><p>Her honours include MIT Technology Review’s Innovators Under 35 Asia Pacific 2026 recognition, first place in the 2021 UK Best PhD in Robotics competition, and the 2021 Amazon PhD Prize. A Fellow of the Higher Education Academy, she leads postgraduate Deep Learning teaching and serves as Secretary of the IEEE Robotics and Automation Society Technical Committee on Human-Centred AI for Medical Robotics.</p>",
+      "subtitle": "Assistant Professor · AI & Machine Learning and Biomedical Robotics",
+      "affiliations": "Department of Bioengineering · Digital Foundry · Imperial College London",
+      "biographyParagraphs": [
+        "Dr Dandan Zhang is an Assistant Professor at Imperial College London and founder of the Multi-Scale Embodied Intelligence (MSEI) Lab. Her research develops adaptive physical intelligence for dexterous manipulation across scales, connecting tactile sensing and multimodal perception, data-efficient robot learning, shared autonomy, and optical and magnetic microrobotics. Applications span robotic manipulation, robot-assisted microsurgery and scientific experimentation.",
+        "She joined Imperial in 2023 after a lectureship in Robotics at the University of Bristol (2021–2023). She received her PhD in Medical Robotics from Imperial in 2021 and her MRes in Medical Robotics and Image-Guided Intervention in 2018.",
+        "Her honours include MIT Technology Review’s Innovators Under 35 Asia Pacific 2026 recognition, first place in the 2021 UK Best PhD in Robotics competition, and the 2021 Amazon PhD Prize. A Fellow of the Higher Education Academy, she leads postgraduate Deep Learning teaching and serves as Secretary of the IEEE Robotics and Automation Society Technical Committee on Human-Centred AI for Medical Robotics."
+      ],
+      "shortBio": "Dr Dandan Zhang is an Assistant Professor at Imperial College London and founder of the Multi-Scale Embodied Intelligence (MSEI) Lab. Her research develops adaptive physical intelligence for dexterous manipulation across scales, connecting tactile sensing and multimodal perception, data-efficient robot learning, shared autonomy, and optical and magnetic microrobotics. Applications span robotic manipulation, robot-assisted microsurgery and scientific experimentation.\n\nShe joined Imperial in 2023 after a lectureship in Robotics at the University of Bristol (2021–2023). She received her PhD in Medical Robotics from Imperial in 2021 and her MRes in Medical Robotics and Image-Guided Intervention in 2018.\n\nHer honours include MIT Technology Review’s Innovators Under 35 Asia Pacific 2026 recognition, first place in the 2021 UK Best PhD in Robotics competition, and the 2021 Amazon PhD Prize. A Fellow of the Higher Education Academy, she leads postgraduate Deep Learning teaching and serves as Secretary of the IEEE Robotics and Automation Society Technical Committee on Human-Centred AI for Medical Robotics.",
+      "profileLinks": [
+        {
+          "label": "Imperial profile",
+          "url": "https://profiles.imperial.ac.uk/d.zhang17"
+        },
+        {
+          "label": "Teaching & supervision",
+          "url": "/msei_website/teaching"
+        },
+        {
+          "label": "Professional service",
+          "url": "/msei_website/services"
+        },
+        {
+          "label": "Wider lab research",
+          "url": "https://www.intelligentrobotics-acrossscales.com/"
+        }
+      ],
+      "featureImage": {
+        "src": "/assets/illustrations/embodied-intelligence-2026.webp",
+        "alt": "Conceptual illustration of tactile robotic manipulation, robotic microsurgery and small-scale robots in a laboratory dish.",
+        "width": 1672,
+        "height": 941,
+        "caption": "Embodied intelligence across scales: sensing, learning and dexterous manipulation. AI-generated conceptual illustration; objects are not to scale."
+      }
     },
     "researchoverview": {
       "subsections": [
@@ -86,6 +118,17 @@
             "summary": "Dandan co-organised the IROS 2026 workshop Physical World Models for Scaling Embodied AI in Pittsburgh.",
             "links": [
               "Workshop: https://physical-world-models.github.io/IROS2026/"
+            ]
+          }
+        },
+        {
+          "name": "News Item",
+          "data": {
+            "date": "09/2026",
+            "title": "TR35 Asia Pacific 2026",
+            "summary": "Dandan was recognised in MIT Technology Review’s Innovators Under 35 Asia Pacific 2026.",
+            "links": [
+              "Announcement: https://www.sina.cn/news/detail/5343758565770865.html"
             ]
           }
         },
@@ -291,9 +334,10 @@
     },
     "award": {
       "lists": [
-        "2022 UK Best PhD in Robotics Award",
-        "2022 ICRA best paper award in HRI",
-        "Awardee for Amazon PhD Prize for Outstanding Achievement in Robotics"
+        "2026 · MIT Technology Review Innovators Under 35 Asia Pacific (TR35).",
+        "2022 · Outstanding Interaction Paper Award, IEEE International Conference on Robotics and Automation (ICRA); first and corresponding author.",
+        "2021 · First place, UK Best PhD in Robotics competition.",
+        "2021 · Amazon PhD Prize for Outstanding Achievement in Robotics."
       ]
     },
     "contactinformation": {
@@ -304,8 +348,49 @@
             "email": "d dot zhang17 at imperial dot ac dot uk",
             "address": "Translation & Innovation Hub (I-Hub), White City Campus, Imperial College London, W12 7TA"
           }
+        },
+        {
+          "name": "Social Links",
+          "data": {
+            "GitHub": "https://github.com/dianzdd123",
+            "LinkedIn": "https://linkedin.com/in/dandan-zhang-6b7366235",
+            "Google Scholar": "https://scholar.google.com/citations?user=233I39oAAAAJ&hl=en",
+            "ORCID": "https://orcid.org/0000-0001-7649-7605"
+          }
         }
       ]
-    }
+    },
+    "educationAndService": [
+      {
+        "eyebrow": "Education",
+        "title": "From deep learning to physical experiments",
+        "description": "Postgraduate module leadership, practical laboratories and multidisciplinary research supervision connect the foundations of AI with reproducible experiments in robotics and bioengineering.",
+        "linkLabel": "Explore teaching and supervision",
+        "url": "/msei_website/teaching"
+      },
+      {
+        "eyebrow": "Academic community",
+        "title": "Research leadership and professional service",
+        "description": "Editorial work, conference and workshop leadership, peer review, doctoral examination and public engagement support the wider robotics and AI community.",
+        "linkLabel": "Explore professional service",
+        "url": "/msei_website/services"
+      }
+    ],
+    "labPhotos": [
+      {
+        "src": "/assets/photos/cnrs-imperial-meeting-2026.webp",
+        "alt": "MSEI Lab researchers and visiting collaborators from FEMTO-ST, CNRS, at a research meeting.",
+        "width": 1600,
+        "height": 1067,
+        "caption": "CNRS–Imperial research exchange · 13 April 2026."
+      },
+      {
+        "src": "/assets/photos/msei-group-lunch-2026.webp",
+        "alt": "Lab members and visiting CNRS collaborators together at a group lunch.",
+        "width": 1600,
+        "height": 1200,
+        "caption": "Time together beyond the lab · 16 April 2026."
+      }
+    ]
   }
 }
