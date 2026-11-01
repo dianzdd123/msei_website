@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Invited Talks & Presentations",
-    "description": "Selected invited talks and presentations connecting embodied intelligence, dexterous manipulation, tactile sensing and medical robotics with research communities.",
+    "description": "Invited talks and presentations at conferences, workshops and universities.",
     "lastUpdated": "2026-11-01"
   },
   "sections": {
@@ -16,6 +16,7 @@
             "location": "Edinburgh, UK",
             "image": "/assets/talk/ukworkshop.png",
             "id": "uk-manipulation-2026",
+            "imageAlt": "Programme of the 7th UK Robot Manipulation Workshop, listing Dandan Zhang in the dexterity session.",
             "topicId": "microrobotics",
             "figure": {
               "src": "/assets/talk/ukworkshop.png",

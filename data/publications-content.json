@@ -165,11 +165,14 @@
       ],
       "summary": "A review connects embodied intelligence with the design, perception and control of biomedical microrobots.",
       "figure": {
-        "src": "/assets/illustrations/microrobotics-2026c.webp",
-        "alt": "Concept illustration of optical and magnetic microrobotics in a fluid chamber.",
-        "caption": "Research theme illustration · microrobotics. AI-generated concept artwork; structures are not to scale.",
-        "kind": "theme-illustration",
-        "sourceUrl": ""
+        "src": "/assets/publication-figures/cross-domain-review-2026g.webp",
+        "alt": "The review overview connects physical, biological, computational and human intelligence around cross-domain biomedical microrobotics.",
+        "caption": "Original review overview — four domains of intelligence in biomedical microrobots, from the authors’ project page.",
+        "sourceUrl": "https://nuounuou.github.io/Embodied-Cross-Domain-Intelligence-in-Biomedical-Microrobots-A-Review/",
+        "kind": "project",
+        "width": 1600,
+        "height": 987,
+        "credit": "Tan, Wei, Lu and Zhang, Cyborg and Bionic Systems (2026)."
       }
     },
     {
@@ -243,11 +246,14 @@
       ],
       "summary": "A review analyses how robot embodiment, sensing and control interact during delicate biological micromanipulation.",
       "figure": {
-        "src": "/assets/illustrations/microrobotics-2026c.webp",
-        "alt": "Concept illustration of optical and magnetic microrobotics in a fluid chamber.",
-        "caption": "Research theme illustration · microrobotics. AI-generated concept artwork; structures are not to scale.",
-        "kind": "theme-illustration",
-        "sourceUrl": ""
+        "src": "/assets/publication-figures/micro-dexterity-2026g.webp",
+        "alt": "Figure 1 compares macroscale dexterity with microscale physics and environments, then maps manipulation primitives, target objects and operational modes.",
+        "caption": "Original preprint Fig. 1 — the capability space of micro-dexterity.",
+        "sourceUrl": "https://arxiv.org/abs/2604.11640",
+        "kind": "paper",
+        "width": 1600,
+        "height": 686,
+        "credit": "Lu, Wei, Tan and Zhang, arXiv:2604.11640 (2026)."
       }
     },
     {
@@ -398,11 +404,16 @@
       ],
       "summary": "PixelTac combines a vision-based tactile sensor with in-sensor computation to connect sensing and perception.",
       "figure": {
-        "src": "/assets/illustrations/tactile-learning-2026c.webp",
-        "alt": "Concept illustration of tactile robotic manipulation and sensory information.",
-        "caption": "Research theme illustration · tactile manipulation. AI-generated concept artwork.",
-        "kind": "theme-illustration",
-        "sourceUrl": ""
+        "src": "/assets/publication-figures/pixeltac-2026g.webp",
+        "alt": "PixelTac Figure 1 shows tactile computing paradigms, biological inspiration, sensor hardware and the computational pixel matrix.",
+        "caption": "Original paper Fig. 1 — PixelTac’s in-sensor computing paradigm and hardware architecture.",
+        "sourceUrl": "https://www.nature.com/articles/s44172-026-00770-w",
+        "kind": "paper",
+        "width": 1600,
+        "height": 1544,
+        "credit": "Fan, Zheng, Liu and Zhang, Communications Engineering (2026).",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "licenseLabel": "CC BY 4.0"
       }
     },
     {
@@ -968,11 +979,16 @@
       ],
       "summary": "A review examines magnetic microrobot approaches to in vivo cargo delivery and their engineering considerations.",
       "figure": {
-        "src": "/assets/illustrations/microrobotics-2026c.webp",
-        "alt": "Concept illustration of optical and magnetic microrobotics in a fluid chamber.",
-        "caption": "Research theme illustration · microrobotics. AI-generated concept artwork; structures are not to scale.",
-        "kind": "theme-illustration",
-        "sourceUrl": ""
+        "src": "/assets/publication-figures/magnetic-cargo-review-2026g.webp",
+        "alt": "Figure 1 organizes magnetic microrobot cargo delivery into actuation, structure, cargo loading and release, tracking, navigation, degradation and retrieval.",
+        "caption": "Original paper Fig. 1 — the engineering framework for magnetic microrobot cargo delivery.",
+        "sourceUrl": "https://www.mdpi.com/2072-666X/15/5/664",
+        "kind": "paper",
+        "width": 1599,
+        "height": 1600,
+        "credit": "Lin, Cong and Zhang, Micromachines 15, 664 (2024).",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "licenseLabel": "CC BY 4.0"
       }
     },
     {
@@ -1123,11 +1139,16 @@
       ],
       "summary": "A review examines medical microrobotics for early diagnosis and therapeutic intervention.",
       "figure": {
-        "src": "/assets/illustrations/microrobotics-2026c.webp",
-        "alt": "Concept illustration of optical and magnetic microrobotics in a fluid chamber.",
-        "caption": "Research theme illustration · microrobotics. AI-generated concept artwork; structures are not to scale.",
-        "kind": "theme-illustration",
-        "sourceUrl": ""
+        "src": "/assets/publication-figures/medical-microrobotics-review-2026g.webp",
+        "alt": "The original overview groups medical microrobotics into challenges, enabling techniques, robot categories and biomedical applications.",
+        "caption": "Original paper Fig. 1 — challenges, techniques, categories and applications of medical microrobotics.",
+        "sourceUrl": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2022.1086043/full",
+        "kind": "paper",
+        "width": 1301,
+        "height": 625,
+        "credit": "Zhang et al., Frontiers in Robotics and AI 9, 1086043 (2023).",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "licenseLabel": "CC BY 4.0"
       }
     },
     {
@@ -1212,11 +1233,14 @@
       ],
       "summary": "A mixed-reality interface combines kinaesthetic and wearable tactile feedback to study immersive robot teleoperation.",
       "figure": {
-        "src": "/assets/illustrations/medical-robotics-concept-2026e.webp",
-        "alt": "Concept illustration of robotic instruments around a synthetic surgical phantom.",
-        "caption": "Research theme illustration · medical robotics. AI-generated concept artwork.",
-        "kind": "theme-illustration",
-        "sourceUrl": ""
+        "src": "/assets/publication-figures/mixed-reality-haptics-2026g.webp",
+        "alt": "The DTMR framework connects a human operator, kinaesthetic and tactile feedback, mixed-reality digital twins, and a real robot.",
+        "caption": "Original author-published overview — digital-twin mixed reality with kinaesthetic and tactile rendering.",
+        "sourceUrl": "https://www.intelligentrobotics-acrossscales.com/interaction",
+        "kind": "project",
+        "width": 816,
+        "height": 540,
+        "credit": "Fan et al., IEEE Robotics and Automation Letters 8(12), 8494–8501 (2023)."
       }
     },
     {
@@ -1251,11 +1275,14 @@
       ],
       "summary": "Fabrication and optical manipulation methods connect microrobot design with biomedical research applications.",
       "figure": {
-        "src": "/assets/illustrations/microrobotics-2026c.webp",
-        "alt": "Concept illustration of optical and magnetic microrobotics in a fluid chamber.",
-        "caption": "Research theme illustration · microrobotics. AI-generated concept artwork; structures are not to scale.",
-        "kind": "theme-illustration",
-        "sourceUrl": ""
+        "src": "/assets/publication-figures/fabrication-2026g.webp",
+        "alt": "Original overview diagram connecting light type, control mode, microrobot scale and materials with perception and manipulation.",
+        "caption": "Scope of optical microrobotics for biomedical applications, Figure 1.",
+        "sourceUrl": "https://publiweb.femto-st.fr/tntnet/entries/19272/documents/author/data",
+        "kind": "paper",
+        "width": 1600,
+        "height": 1188,
+        "credit": "Zhang et al. (2022); Figure 1 from the author manuscript, extracted and resized."
       }
     },
     {
@@ -1289,11 +1316,14 @@
       ],
       "summary": "A survey organises the development of microsurgical robotics from operator control toward increasing autonomy.",
       "figure": {
-        "src": "/assets/illustrations/medical-robotics-concept-2026e.webp",
-        "alt": "Concept illustration of robotic instruments around a synthetic surgical phantom.",
-        "caption": "Research theme illustration · medical robotics. AI-generated concept artwork.",
-        "kind": "theme-illustration",
-        "sourceUrl": ""
+        "src": "/assets/publication-figures/microsurgery-survey-2026g.webp",
+        "alt": "Original timeline showing selected robot-assisted microsurgery platforms from 1995 to 2015.",
+        "caption": "Milestones in robot-assisted microsurgery, Figure 1.",
+        "sourceUrl": "https://link.springer.com/article/10.1007/s11633-022-1332-5",
+        "kind": "paper",
+        "width": 1600,
+        "height": 940,
+        "credit": "Zhang et al. (2022); timeline extracted and resized. Third-party panel credits: SAGE, IEEE, PLOS ONE, Wiley and AAAS; details in the source."
       }
     },
     {
@@ -1367,11 +1397,16 @@
       ],
       "summary": "Simulation, image translation and feature learning reduce reliance on large experimental microscopy datasets.",
       "figure": {
-        "src": "/assets/illustrations/microrobotics-2026c.webp",
-        "alt": "Concept illustration of optical and magnetic microrobotics in a fluid chamber.",
-        "caption": "Research theme illustration · microrobotics. AI-generated concept artwork; structures are not to scale.",
-        "kind": "theme-illustration",
-        "sourceUrl": ""
+        "src": "/assets/publication-figures/pose-small-dataset-2026g.webp",
+        "alt": "Original figure showing generated and microscope images with a shared feature-embedding model for microrobot pose estimation.",
+        "caption": "Sim-to-real learning-to-match model, Figure 3.",
+        "sourceUrl": "https://www.nature.com/articles/s42005-022-00844-z",
+        "kind": "paper",
+        "width": 1600,
+        "height": 1032,
+        "credit": "Zhang et al. (2022); Figure 3 extracted from the publisher PDF and resized.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "licenseLabel": "CC BY 4.0"
       }
     },
     {
@@ -1417,11 +1452,14 @@
       ],
       "summary": "Simulator-learned motions and context-dependent assistance are evaluated with users on the da Vinci Research Kit.",
       "figure": {
-        "src": "/assets/illustrations/medical-robotics-concept-2026e.webp",
-        "alt": "Concept illustration of robotic instruments around a synthetic surgical phantom.",
-        "caption": "Research theme illustration · medical robotics. AI-generated concept artwork.",
-        "kind": "theme-illustration",
-        "sourceUrl": ""
+        "src": "/assets/publication-figures/shared-control-2026g.webp",
+        "alt": "Original framework linking demonstrations, trajectory adaptation and context-aware role adaptation for human–robot surgical control.",
+        "caption": "Context-aware sim-to-real shared-control framework, Figure 1.",
+        "sourceUrl": "https://arxiv.org/abs/2204.11116",
+        "kind": "paper",
+        "width": 1600,
+        "height": 371,
+        "credit": "Zhang et al. (2022); Figure 1 from the author manuscript, extracted and resized."
       }
     },
     {
@@ -1453,11 +1491,16 @@
       ],
       "summary": "Microrobot geometry and distributed laser-force allocation support multi-axis manipulation with planar optical tweezers.",
       "figure": {
-        "src": "/assets/illustrations/microrobotics-2026c.webp",
-        "alt": "Concept illustration of optical and magnetic microrobotics in a fluid chamber.",
-        "caption": "Research theme illustration · microrobotics. AI-generated concept artwork; structures are not to scale.",
-        "kind": "theme-illustration",
-        "sourceUrl": ""
+        "src": "/assets/publication-figures/distributed-force-2026g.webp",
+        "alt": "Original concept figure showing planar laser spots, the microrobot rotation mechanism and six microrobot geometries.",
+        "caption": "Physical mechanism and microrobot design for out-of-plane optical control, Figure 1.",
+        "sourceUrl": "https://doi.org/10.1002/adom.202000543",
+        "kind": "paper",
+        "width": 1600,
+        "height": 712,
+        "credit": "Zhang et al. (2020), published by Wiley-VCH; Figure 1 extracted and resized.",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "licenseLabel": "CC BY 4.0"
       }
     },
     {
@@ -1491,11 +1534,14 @@
       ],
       "summary": "Data-driven microscopy methods estimate microrobot pose and depth to support optical manipulation.",
       "figure": {
-        "src": "/assets/illustrations/microrobotics-2026c.webp",
-        "alt": "Concept illustration of optical and magnetic microrobotics in a fluid chamber.",
-        "caption": "Research theme illustration · microrobotics. AI-generated concept artwork; structures are not to scale.",
-        "kind": "theme-illustration",
-        "sourceUrl": ""
+        "src": "/assets/publication-figures/microscopic-depth-2026g.webp",
+        "alt": "Original processing diagram combining image detection, a residual neural network, Gaussian-process regression and a Kalman filter for microrobot pose and depth.",
+        "caption": "GPR–ResNet pose and depth estimation with few-shot calibration, Figure 5.",
+        "sourceUrl": "https://spiral.imperial.ac.uk/entities/publication/f303cc81-9ddc-48b1-bfcb-8dae7b606c96",
+        "kind": "paper",
+        "width": 1600,
+        "height": 924,
+        "credit": "Zhang et al. (2020), © American Chemical Society; Figure 5 from the accepted manuscript, extracted and resized."
       }
     },
     {
@@ -1533,11 +1579,14 @@
       ],
       "summary": "Cross-domain transfer learning supports automated assessment of microsurgical skills.",
       "figure": {
-        "src": "/assets/illustrations/medical-robotics-concept-2026e.webp",
-        "alt": "Concept illustration of robotic instruments around a synthetic surgical phantom.",
-        "caption": "Research theme illustration · medical robotics. AI-generated concept artwork.",
-        "kind": "theme-illustration",
-        "sourceUrl": ""
+        "src": "/assets/publication-figures/microsurgical-skills-2026g.webp",
+        "alt": "Original architecture diagram transferring kinematic features from the JIGSAWS database to microsurgical robot skill assessment.",
+        "caption": "Neural-network architecture and cross-domain transfer learning, Figure 4.",
+        "sourceUrl": "https://spiral.imperial.ac.uk/entities/publication/bbe67bae-c567-48d9-83c4-8fdaa5b65df8",
+        "kind": "paper",
+        "width": 1600,
+        "height": 843,
+        "credit": "Zhang et al. (2020), © IEEE; Figure 4 from the accepted manuscript, extracted and resized."
       }
     },
     {
@@ -1610,11 +1659,14 @@
       ],
       "summary": "A handheld master controller provides an operator interface for robot-assisted microsurgery research.",
       "figure": {
-        "src": "/assets/illustrations/medical-robotics-concept-2026e.webp",
-        "alt": "Concept illustration of robotic instruments around a synthetic surgical phantom.",
-        "caption": "Research theme illustration · medical robotics. AI-generated concept artwork.",
-        "kind": "theme-illustration",
-        "sourceUrl": ""
+        "src": "/assets/publication-figures/handheld-controller-2026g.webp",
+        "alt": "Author project figure showing the handheld controller with its inertial sensor and micro cameras, alongside the microsurgical robot interface.",
+        "caption": "Handheld master controller and robot interface, author project figure.",
+        "sourceUrl": "https://www.intelligentrobotics-acrossscales.com/others",
+        "kind": "project",
+        "width": 742,
+        "height": 720,
+        "credit": "Zhang et al. (2019); original project figure from Dandan Zhang’s research website, converted to WebP."
       }
     },
     {
