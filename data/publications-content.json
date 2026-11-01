@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Publications",
-    "description": "Selected work on microrobotics, biomedical micromanipulation and robot-assisted microsurgery. Recent additions include journal and conference papers, alongside clearly labelled preprints. For Dandan's broader publication record, see <a href=\"https://scholar.google.com/citations?user=233I39oAAAAJ&amp;hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Google Scholar</a>. <span>Updated 1 November 2026.</span>",
+    "description": "Selected work across sensing and physical-state inference, transferable skill learning, adaptive control and shared autonomy, and embodiment and actuation design. Journal and conference papers appear alongside clearly labelled preprints. For Dandan’s broader publication record, see <a href=\"https://scholar.google.com/citations?user=233I39oAAAAJ&amp;hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Google Scholar</a>. <span>Updated 1 November 2026.</span>",
     "lastUpdated": "2026-11-01"
   },
   "sections": [
@@ -237,6 +237,131 @@
       "body": ""
     },
     {
+      "title": "A vision-based tactile sensor with in-sensor computing paradigm for seamless tactile sensing and perception",
+      "year": "2026",
+      "type": "Journal Paper",
+      "venue": "Communications Engineering (advance online publication)",
+      "authors": [
+        "Wen Fan",
+        "Jiajian Zheng",
+        "Yanan Liu",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "PixelTac",
+        "Tactile Perception",
+        "In-Sensor Computing"
+      ],
+      "links": [
+        {
+          "type": "DOI",
+          "url": "https://doi.org/10.1038/s44172-026-00770-w"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "TacVerse: A Multisensor Dataset and Benchmark for Cross-Sensor Vision-Based Tactile Perception",
+      "year": "2026",
+      "type": "Journal Paper",
+      "venue": "Advanced Robotics Research, e70169",
+      "authors": [
+        "Lan Wei",
+        "Gurmeher Khurana",
+        "Sirine Bhouri",
+        "Wenhao Hong",
+        "Zeyuan Xin",
+        "Qingzheng Cong",
+        "Wen Fan",
+        "Yanzheng Xiang",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Tactile Perception",
+        "Dataset",
+        "Cross-Sensor Transfer"
+      ],
+      "links": [
+        {
+          "type": "DOI",
+          "url": "https://doi.org/10.1002/adrr.70169"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "i-Tac: Inverse Design of 3D-Printed Tactile Elastomers with Tuneable Optical and Mechanical Properties",
+      "year": "2026",
+      "type": "Journal Paper",
+      "venue": "Advanced Intelligent Systems 8(8), e202501200",
+      "authors": [
+        "Wen Fan",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Tactile Sensor",
+        "Inverse Design",
+        "Embodiment"
+      ],
+      "links": [
+        {
+          "type": "DOI",
+          "url": "https://doi.org/10.1002/aisy.202501200"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "ADM-DP: Adaptive Dynamic Modality Diffusion Policy through Vision-Tactile-Graph Fusion for Multi-Agent Manipulation",
+      "year": "2026",
+      "type": "Conference Paper",
+      "venue": "IEEE ICRA 2026",
+      "authors": [
+        "Enyi Wang",
+        "Wen Fan",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Diffusion Policy",
+        "Multi-Agent Manipulation",
+        "Vision-Tactile Fusion"
+      ],
+      "links": [
+        {
+          "type": "arXiv",
+          "url": "https://arxiv.org/abs/2602.21622"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/dianzdd123/ADM_DP"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Design and Control of Modular Magnetic Millirobots for Multimodal Locomotion and Shape Reconfiguration",
+      "year": "2026",
+      "type": "Conference Paper",
+      "venue": "IEEE ICRA 2026",
+      "authors": [
+        "Erik Garcia Oyono",
+        "Jialin Lin",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Magnetic Millirobot",
+        "Modular Robots",
+        "Shape Reconfiguration"
+      ],
+      "links": [
+        {
+          "type": "arXiv",
+          "url": "https://arxiv.org/abs/2602.19346"
+        }
+      ],
+      "body": ""
+    },
+    {
       "title": "Physics-Informed Machine Learning with Adaptive Grids for Optical Microrobot Depth Estimation",
       "year": "2025",
       "type": "Conference Paper",
@@ -407,6 +532,58 @@
       "body": "videoId: \"7-6FxLEkC_8\""
     },
     {
+      "title": "Design and Benchmarking of a Multimodality Sensor for Robotic Manipulation With GAN-Based Cross-Modality Interpretation",
+      "year": "2025",
+      "type": "Journal Paper",
+      "venue": "IEEE Transactions on Robotics 41, 1278–1295",
+      "authors": [
+        "Dandan Zhang",
+        "Wen Fan",
+        "Jialin Lin",
+        "Haoran Li",
+        "Qingzheng Cong",
+        "Weiru Liu",
+        "Nathan F. Lepora",
+        "Shan Luo"
+      ],
+      "keywords": [
+        "ViTacTip",
+        "Multimodal Perception",
+        "Tactile Sensor"
+      ],
+      "links": [
+        {
+          "type": "DOI",
+          "url": "https://doi.org/10.1109/TRO.2025.3526296"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "MagicGripper: A Mini-MagicTac Integrated Gripper Enabling Multimodal Perception in Contact-Rich Manipulation",
+      "year": "2025",
+      "type": "Journal Paper",
+      "venue": "IEEE Transactions on Automation Science and Engineering 22, 24311–24332",
+      "authors": [
+        "Wen Fan",
+        "Haoran Li",
+        "Qingzheng Cong",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Tactile Gripper",
+        "Multimodal Perception",
+        "Contact-Rich Manipulation"
+      ],
+      "links": [
+        {
+          "type": "DOI",
+          "url": "https://doi.org/10.1109/TASE.2025.3631485"
+        }
+      ],
+      "body": ""
+    },
+    {
       "title": "A Digital Twin-Driven Immersive Teleoperation Framework for Robot-Assisted Microsurgery",
       "year": "2024",
       "type": "Conference Paper",
@@ -498,6 +675,35 @@
       "body": ""
     },
     {
+      "title": "One-Shot Domain-Adaptive Imitation Learning via Progressive Learning Applied to Robotic Pouring",
+      "year": "2024",
+      "type": "Journal Paper",
+      "venue": "IEEE Transactions on Automation Science and Engineering 21(1), 541–554",
+      "authors": [
+        "Dandan Zhang",
+        "Wen Fan",
+        "John Lloyd",
+        "Chenguang Yang",
+        "Nathan F. Lepora"
+      ],
+      "keywords": [
+        "Imitation Learning",
+        "Domain Adaptation",
+        "Robotic Pouring"
+      ],
+      "links": [
+        {
+          "type": "DOI",
+          "url": "https://doi.org/10.1109/TASE.2022.3220728"
+        },
+        {
+          "type": "arXiv",
+          "url": "https://arxiv.org/abs/2204.11251"
+        }
+      ],
+      "body": ""
+    },
+    {
       "title": "Advanced medical micro-robotics for early diagnosis and therapeutic interventions",
       "year": "2023",
       "type": "Journal Paper",
@@ -521,6 +727,66 @@
         {
           "type": "PDF",
           "url": "https://www.frontiersin.org/articles/10.3389/frobt.2022.1086043/full"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Bi-Touch: Bimanual Tactile Manipulation with Sim-to-Real Deep Reinforcement Learning",
+      "year": "2023",
+      "type": "Journal Paper",
+      "venue": "IEEE Robotics and Automation Letters 8(9), 5472–5479",
+      "authors": [
+        "Yijiong Lin",
+        "Alex Church",
+        "Max Yang",
+        "Haoran Li",
+        "John Lloyd",
+        "Dandan Zhang",
+        "Nathan F. Lepora"
+      ],
+      "keywords": [
+        "Bimanual Manipulation",
+        "Tactile Learning",
+        "Sim-to-Real"
+      ],
+      "links": [
+        {
+          "type": "DOI",
+          "url": "https://doi.org/10.1109/LRA.2023.3295991"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "A Digital Twin-Driven Mixed Reality Framework for Immersive Teleoperation with Haptic Rendering",
+      "year": "2023",
+      "type": "Journal Paper",
+      "venue": "IEEE Robotics and Automation Letters 8(12), 8494–8501",
+      "authors": [
+        "Wen Fan",
+        "Xiaoqing Guo",
+        "Enyang Feng",
+        "Jialin Lin",
+        "Yuanyi Wang",
+        "Jiaming Liang",
+        "Martin Garrad",
+        "Jonathan Rossiter",
+        "Zhengyou Zhang",
+        "Nathan F. Lepora",
+        "Lei Wei",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Digital Twin",
+        "Haptic Feedback",
+        "Mixed Reality",
+        "Teleoperation"
+      ],
+      "links": [
+        {
+          "type": "DOI",
+          "url": "https://doi.org/10.1109/LRA.2023.3325784"
         }
       ],
       "body": ""
@@ -624,6 +890,43 @@
         {
           "type": "PDF",
           "url": "https://www.nature.com/articles/s42005-022-00844-z"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Human-Robot Shared Control for Surgical Robot Based on Context-Aware Sim-to-Real Adaptation",
+      "year": "2022",
+      "type": "Conference Paper",
+      "venue": "IEEE ICRA 2022",
+      "authors": [
+        "Dandan Zhang",
+        "Zicong Wu",
+        "Junhong Chen",
+        "Ruiqi Zhu",
+        "Adnan Munawar",
+        "Bo Xiao",
+        "Yuan Guan",
+        "Hang Su",
+        "Wuzhou Hong",
+        "Yao Guo",
+        "Gregory S. Fischer",
+        "Benny Lo",
+        "Guang-Zhong Yang"
+      ],
+      "keywords": [
+        "Shared Control",
+        "Surgical Robotics",
+        "Sim-to-Real"
+      ],
+      "links": [
+        {
+          "type": "DOI",
+          "url": "https://doi.org/10.1109/ICRA46639.2022.9812379"
+        },
+        {
+          "type": "arXiv",
+          "url": "https://arxiv.org/abs/2204.11116"
         }
       ],
       "body": ""

@@ -37,65 +37,73 @@
         }
       ],
       "featureImage": {
-        "src": "/assets/illustrations/embodied-intelligence-2026.webp",
-        "alt": "Conceptual illustration of tactile robotic manipulation, robotic microsurgery and small-scale robots in a laboratory dish.",
+        "src": "/assets/illustrations/hero-research-aligned-2026c.webp",
+        "alt": "Conceptual tactile manipulation, precision tools and optical or magnetic microstructures in a flowing pale-blue research illustration.",
         "width": 1672,
         "height": 941,
-        "caption": "Embodied intelligence across scales: sensing, learning and dexterous manipulation. AI-generated conceptual illustration; objects are not to scale."
-      }
+        "caption": "Adaptive physical intelligence across scales. AI-generated conceptual artwork; objects are not to scale."
+      },
+      "labHeadline": "Adaptive physical intelligence. Across scales."
     },
     "researchoverview": {
       "subsections": [
         {
-          "name": "Research Area",
+          "name": "Research Theme",
           "data": {
-            "title": "Multimodal Perception (Sensing)",
-            "intro": "Estimate the pose, depth and interaction state of small-scale robotic systems from microscopy images and complementary sensing.",
-            "description": "Physics-informed image generation, sim-to-real transfer, optical microrobot perception and multi-pipette localisation.",
-            "icon": "🔬",
+            "title": "Sensing and physical-state inference",
+            "intro": "What can robots infer from touch and images?",
+            "description": "We combine tactile sensor design, multimodal learning and microscopy-based perception to estimate contact, material properties and object state. Our studies connect visual–tactile fusion and sensor-side computation with cross-sensor benchmarking and data-efficient pose and depth estimation.",
             "keywords": [
-              "Microrobot",
-              "Perception",
-              "Pose Estimation",
-              "Sim-to-Real"
+              "Multimodal tactile sensing",
+              "Cross-sensor evaluation and adaptation",
+              "Microscopy and sim-to-real perception"
             ]
           }
         },
         {
-          "name": "Research Area",
+          "name": "Research Theme",
           "data": {
-            "title": "Interactive Learning (Decision-Making)",
-            "intro": "Combine robot learning, digital twins and human guidance to make decisions under limited observations and complex physical interactions.",
-            "description": "Learning-based control, digital-twin simulation and adaptive shared autonomy for optical and magnetic micromanipulation.",
-            "icon": "🤖",
+            "title": "Transferable and data-efficient skill learning",
+            "intro": "How can skills transfer with limited new data?",
+            "description": "We develop learning methods that use structure in tasks, sensing and robot interaction to improve adaptation. Examples include one-shot imitation learning for pouring, multimodal diffusion policies for coordinated manipulation, and tactile skills transferred from simulation to physical robots.",
             "keywords": [
-              "Digital Twin",
-              "Reinforcement Learning",
-              "Shared Control",
-              "Microrobot"
+              "Imitation and reinforcement learning",
+              "Multimodal action generation",
+              "Simulation-to-reality transfer"
             ]
           }
         },
         {
-          "name": "Research Area",
+          "name": "Research Theme",
           "data": {
-            "title": "Dexterous Manipulation (Execution)",
-            "intro": "Develop robotic systems that navigate, reorient and manipulate delicate objects at small scales.",
-            "description": "Optical and magnetic actuation, microsurgical teleoperation, haptic feedback and biomedical micromanipulation.",
-            "icon": "🦾",
+            "title": "Adaptive control and shared autonomy",
+            "intro": "How should assistance adapt to the task and operator?",
+            "description": "We study how robots and people can share control during precise manipulation. Context-aware assistance, adaptive motion scaling, digital twins and haptic feedback connect human intent with the physical demands of a task. We evaluate these methods in robotic surgery, teleoperation and magnetic micromanipulation.",
             "keywords": [
-              "Optical Microrobot",
-              "Magnetic Microrobot",
-              "Microsurgery",
-              "Control"
+              "Context-aware control allocation",
+              "Digital twins and haptic interfaces",
+              "Adaptive motion scaling"
+            ]
+          }
+        },
+        {
+          "name": "Research Theme",
+          "data": {
+            "title": "Embodiment and actuation design",
+            "intro": "How does physical design shape capability?",
+            "description": "We investigate how materials, sensor geometry and actuation determine what a robot can sense and do. Our work includes inverse design of tactile elastomers, integrated tactile grippers, distributed optical-force control and modular magnetic robots. Physical design and control are developed together to enable new forms of manipulation.",
+            "keywords": [
+              "Inverse material and sensor design",
+              "Optical and magnetic actuation",
+              "Modular robot design and reconfiguration"
             ]
           }
         }
       ],
-      "description": "We connect sensing, decision-making and physical action to build more capable robotic systems at small scales. Our work combines physics-informed perception, digital twins, learning-based control and human–robot collaboration across optical microrobotics, magnetic manipulation and robot-assisted microsurgery. <a href=\"/msei_website/research\">Explore our research platforms</a> and <a href=\"/msei_website/publications\">selected publications</a>."
+      "description": "Our goal is to develop robots that perceive physical interactions, adapt their behaviour and assist people in precise manipulation. We connect learning algorithms with the mechanics of sensors, tools and actuators, and evaluate these ideas through contact-rich tasks, medical robotics and scientific instrumentation. <a href=\"/msei_website/research\">Explore the research themes and platforms</a> and <a href=\"/msei_website/publications\">research publications</a>."
     },
     "opening": {
-      "description": "We welcome enquiries from prospective researchers interested in microrobotics, robot learning and biomedical micromanipulation. Relevant backgrounds include bioengineering, robotics, computer science, electrical engineering and related disciplines. Please see the <a href=\"/msei_website/vacancies\">Vacancies page</a> for research interests and application guidance, and contact <a href=\"mailto:d.zhang17@imperial.ac.uk\">d.zhang17@imperial.ac.uk</a> to discuss current opportunities."
+      "description": "We welcome enquiries from prospective researchers interested in tactile sensing, robot learning, shared autonomy, biomedical manipulation and optical or magnetic robotics. Relevant backgrounds include bioengineering, robotics, computer science, electrical engineering and related disciplines. Please see the <a href=\"/msei_website/vacancies\">Vacancies page</a> and contact <a href=\"mailto:d.zhang17@imperial.ac.uk\">d.zhang17@imperial.ac.uk</a> to discuss current opportunities."
     },
     "latestnews": {
       "subsections": [
