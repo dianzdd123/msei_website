@@ -37,8 +37,10 @@ Research descriptions are editorial summaries of the existing platforms and the 
 - Prioritise paper links (PDF, arXiv and DOI) when opening a publication card and correct its video-filter label.
 - Use an English document language and descriptive title/metadata in both HTML entry points.
 - Replace the missing Vite favicon with a small local SVG.
+- Publish the amended JavaScript as a consistently versioned dependency graph; retain the original bundles for older open tabs and revalidate JSON content.
+- Add explicit static entry pages for the homepage and eight section routes; keep them synchronised with the small `scripts/sync-entry-pages.py` helper.
 - Remove unused example people and pseudo-comment keys from home data; the real team page is unchanged.
 
 ## Validation
 
-JSON parsing and schema checks; preservation checks for all 20 previous publication records and all 13 historical news dates; JavaScript syntax checks for the three amended bundles; internal asset-reference checks. Live GitHub Pages verification follows publication.
+JSON parsing and schema checks; preservation checks for all 20 previous publication records and all 13 historical news dates; JavaScript syntax checks for all release bundles; internal asset-reference and module-graph checks; static entry-page parity. Live GitHub Pages verification follows publication.
