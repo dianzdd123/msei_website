@@ -9,11 +9,11 @@ This repository contains the deployed static website for Dandan Zhang's Multi-Sc
 | File | Content |
 | --- | --- |
 | `data/home-content.json` | Biography, research overview, opportunities, news, awards and contact |
-| `data/publications-content.json` | Selected publications and preprints across the programme |
+| `data/publications-content.json` | Publications grouped by research theme, with paper summaries, figures and source links |
 | `data/research-content.json` | Research vision, cross-cutting themes, platforms and evidence |
 | `data/research-applications-content.json` | Application subpages, representative projects, figures and resources |
 | `data/team-content.json` | Current team and alumni |
-| `data/talks-content.json` | Invited talks |
+| `data/talks-content.json` | Invited talks, topic figures and links to related research |
 | `data/teaching-content.json` | Teaching |
 | `data/services-content.json` | Academic service |
 | `data/opportunities-content.json` | PhD and MRes guidance, preparation checklists, verified programme and funding links |
@@ -28,7 +28,7 @@ GitHub Pages deploys from `main`. The custom domain is stored in `CNAME`; keep i
 
 The original Vue authoring project and build configuration are not present in this repository. The files in `assets/` are compiled bundles. Make routine content updates in `data/`; recover the original source before a substantial UI redevelopment. After changing the root `index.html`, run `python scripts/sync-entry-pages.py` to synchronise `404.html` and the sixteen explicit entry pages under `msei_website/`. These entry pages let direct links and refreshes load the application without relying on the missing-page fallback.
 
-The current November 2026 release uses versioned JavaScript bundles ending in `.20261101e.js`. Previous releases are retained for cached clients. Their imports form a consistent module graph; older bundles remain available for already-open tabs. The current data loader revalidates JSON and uses a release query key to avoid mixing new HTML with cached older content. For a future JavaScript release, use new bundle names and update all dependent imports and HTML entry pages together.
+The current November 2026 release uses versioned JavaScript bundles ending in `.20261101f.js`. Previous releases are retained for cached clients. Their imports form a consistent module graph; older bundles remain available for already-open tabs. The current data loader revalidates JSON and uses a release query key to avoid mixing new HTML with cached older content. For a future JavaScript release, use new bundle names and update all dependent imports and HTML entry pages together.
 
 After editing, parse the JSON, verify publication links and status, check any changed JavaScript syntax, and inspect the live home/research/publications pages after the Pages deployment completes. A browser reload is needed to discard the app's in-memory data cache.
 
@@ -41,3 +41,7 @@ The supplied-design alignment and four-theme research programme are documented i
 The application subpages, team directory expansion and requested profile corrections are documented in [application and team update notes](docs/application-team-update-2026-11-01.md). Research applications share one readable renderer and canonical JSON; each application has its own route and HTML entry page. `NavigationEditorial` provides desktop and mobile links to every application. `TeamEditorial` displays verified profiles and project records from the owner-supplied directory.
 
 The latest research presentation follows the research question through applications, methods, evidence and next steps. Explanatory figures are in `assets/illustrations/`, and their captions distinguish conceptual diagrams and generated artwork from documentary research imagery. The new `/opportunities/` landing page is an alias of `/vacancies/`; the dedicated PhD and MRes guides have independent HTML entry points. Date-sensitive admissions information includes an intended entry cycle, a verification date and official source links.
+
+The publications page groups every record once under a primary research theme, with secondary themes shown as cross-references. Keep the four theme identifiers aligned with `data/research-content.json`; use the existing year, publication-type, keyword and video fields for filtering. Every paper has an illustration: authentic paper or project figures are shown without cropping and link to their source, while topic artwork is explicitly labelled. Source records are in [publication figure notes](docs/publication-figure-sources-2026-11-01.md) and [legacy publication figure notes](docs/publication-legacy-figures-2026-11-01.md); the editorial structure is documented in [publication theme notes](docs/publications-themes-2026-11-01.md).
+
+The invited-talk archive retains its existing titles, dates, organisers and locations, adds relevant visuals, and supports year, topic and text filters. Topic diagrams and conceptual artwork are distinguished from event materials. Talk figures and content decisions are documented in [talk visual notes](docs/talks-visuals-2026-11-01.md).

@@ -1,7 +1,8 @@
 {
   "metadata": {
     "title": "Invited Talks & Presentations",
-    "description": "Invited talks and presentations at conferences and institutions worldwide"
+    "description": "Selected invited talks and presentations connecting embodied intelligence, dexterous manipulation, tactile sensing and medical robotics with research communities.",
+    "lastUpdated": "2026-11-01"
   },
   "sections": {
     "invitedtalks&presentations": {
@@ -12,8 +13,24 @@
             "title": "Embodied Cross-Domain Intelligence for Dexterous Micromanipulation",
             "organizer": "The 7th UK Robot Manipulation Workshop",
             "time": "2026-01",
-            "location": "Edinburgh,UK",
-            "image": "/assets/talk/ukworkshop.png"
+            "location": "Edinburgh, UK",
+            "image": "/assets/talk/ukworkshop.png",
+            "id": "uk-manipulation-2026",
+            "topicId": "microrobotics",
+            "figure": {
+              "src": "/assets/talk/ukworkshop.png",
+              "alt": "Programme of the 7th UK Robot Manipulation Workshop, showing Dandan Zhang in the dexterity session.",
+              "caption": "Event programme from the existing talk archive.",
+              "kind": "event",
+              "fit": "contain"
+            },
+            "researchConnection": "Connecting embodiment, perception and control for dexterous manipulation at small scales.",
+            "relatedLinks": [
+              {
+                "label": "Explore microrobotics",
+                "url": "/msei_website/research/microrobotics/"
+              }
+            ]
           }
         },
         {
@@ -22,7 +39,23 @@
             "title": "Multi-Scale Embodied Intelligence for Biomedical Applications",
             "organizer": "IEEE IROS, International Conference Workshop: Embodied AI and Edge Computing for Intelligent Robots (EAI-EC)",
             "time": "2025-10",
-            "location": "Hangzhou, China"
+            "location": "Hangzhou, China",
+            "id": "iros-eai-ec-2025",
+            "topicId": "across-scales",
+            "figure": {
+              "src": "/assets/illustrations/talks-across-scales-2026f.svg",
+              "alt": "Concept map linking tactile contact, precision manipulation and small-scale actuation through embodiment, perception and control.",
+              "caption": "Research context diagram connecting dexterity across scales.",
+              "kind": "diagram",
+              "mobileSrc": "/assets/illustrations/talks-across-scales-2026f-mobile.svg"
+            },
+            "researchConnection": "Connecting physical design, perception and intelligent manipulation across biomedical robotic systems.",
+            "relatedLinks": [
+              {
+                "label": "Explore the research programme",
+                "url": "/msei_website/research/"
+              }
+            ]
           }
         },
         {
@@ -31,7 +64,22 @@
             "title": "Design and fabrication of multimodal sensors for embodied intelligence",
             "organizer": "iCANX Forum",
             "time": "2025-10",
-            "location": "Hongkong, China"
+            "location": "Hongkong, China",
+            "id": "icanx-sensors-2025",
+            "topicId": "touch",
+            "figure": {
+              "src": "/assets/illustrations/tactile-learning-2026c.webp",
+              "alt": "Concept illustration of a robotic gripper sensing a deformable object with tactile fingertips.",
+              "caption": "Tactile manipulation research topic. AI-generated concept illustration.",
+              "kind": "concept"
+            },
+            "researchConnection": "How sensor materials, geometry and fabrication shape the physical information available to a robot.",
+            "relatedLinks": [
+              {
+                "label": "Explore tactile manipulation",
+                "url": "/msei_website/research/dexterous-manipulation/"
+              }
+            ]
           }
         },
         {
@@ -40,7 +88,23 @@
             "title": "Digital twin-based mixed reality interfaces for teleoperation",
             "organizer": "Hamlyn Symposium Trustworthy Medical Robotics Workshop",
             "time": "2025-06",
-            "location": "London, UK"
+            "location": "London, UK",
+            "id": "hamlyn-teleoperation-2025",
+            "topicId": "medical-control",
+            "figure": {
+              "src": "/assets/illustrations/talks-shared-control-2026f.svg",
+              "alt": "Concept diagram connecting human intent, adaptive assistance and physical interaction, with sensory feedback to the operator.",
+              "caption": "Research context diagram of human–robot shared control.",
+              "kind": "diagram",
+              "mobileSrc": "/assets/illustrations/talks-shared-control-2026f-mobile.svg"
+            },
+            "researchConnection": "Connecting digital twins, mixed-reality interfaces and operator feedback in precise teleoperation.",
+            "relatedLinks": [
+              {
+                "label": "Explore medical robotics",
+                "url": "/msei_website/research/medical-robotics/"
+              }
+            ]
           }
         },
         {
@@ -49,7 +113,22 @@
             "title": "AI-based Robotic Dexterous Micromanipulation for Biomedical Applications",
             "organizer": "MedTechOne AI Healthcare",
             "time": "2025-05",
-            "location": "UK"
+            "location": "UK",
+            "id": "medtechone-2025",
+            "topicId": "microrobotics",
+            "figure": {
+              "src": "/assets/illustrations/microrobotics-2026c.webp",
+              "alt": "Concept illustration of optical and magnetic microstructures manipulating small objects in a fluid chamber.",
+              "caption": "Microrobotics research topic. AI-generated concept illustration; objects are not to scale.",
+              "kind": "concept"
+            },
+            "researchConnection": "The relationship between AI, fine manipulation and robotic tools for biomedical applications.",
+            "relatedLinks": [
+              {
+                "label": "Explore microrobotics",
+                "url": "/msei_website/research/microrobotics/"
+              }
+            ]
           }
         },
         {
@@ -58,16 +137,48 @@
             "title": "Dexterous Manipulation and Human-Robot Collaboration",
             "organizer": "6th UK Manipulation Workshop",
             "time": "2025-05",
-            "location": "London, UK"
+            "location": "London, UK",
+            "id": "uk-manipulation-2025",
+            "topicId": "medical-control",
+            "figure": {
+              "src": "/assets/illustrations/talks-shared-control-2026f.svg",
+              "alt": "Concept diagram connecting human intent, adaptive assistance and physical interaction, with sensory feedback to the operator.",
+              "caption": "Research context diagram of human–robot shared control.",
+              "kind": "diagram",
+              "mobileSrc": "/assets/illustrations/talks-shared-control-2026f-mobile.svg"
+            },
+            "researchConnection": "How physical feedback and adaptable assistance connect human intent with dexterous robot action.",
+            "relatedLinks": [
+              {
+                "label": "Explore shared control",
+                "url": "/msei_website/research/#shared-autonomy"
+              }
+            ]
           }
         },
         {
           "name": "Talk",
           "data": {
             "title": "AI for Biomedical Robotics Across Scales",
-            "organizer": "Imperial-X Cutting Edge Seminar ",
+            "organizer": "Imperial-X Cutting Edge Seminar",
             "time": "2024-12",
-            "location": "London, UK"
+            "location": "London, UK",
+            "id": "imperial-x-2024",
+            "topicId": "across-scales",
+            "figure": {
+              "src": "/assets/illustrations/talks-across-scales-2026f.svg",
+              "alt": "Concept map linking tactile contact, precision manipulation and small-scale actuation through embodiment, perception and control.",
+              "caption": "Research context diagram connecting dexterity across scales.",
+              "kind": "diagram",
+              "mobileSrc": "/assets/illustrations/talks-across-scales-2026f-mobile.svg"
+            },
+            "researchConnection": "How sensing, learning and control connect biomedical robotics at different physical scales.",
+            "relatedLinks": [
+              {
+                "label": "Explore research applications",
+                "url": "/msei_website/research/#applications"
+              }
+            ]
           }
         },
         {
@@ -76,7 +187,22 @@
             "title": "AI for Biomedical Robotics Across Scales",
             "organizer": "Hamlyn Symposium, Microrobotics Workshop",
             "time": "2024-06",
-            "location": "London, UK"
+            "location": "London, UK",
+            "id": "hamlyn-microrobotics-2024",
+            "topicId": "microrobotics",
+            "figure": {
+              "src": "/assets/illustrations/microrobotics-2026c.webp",
+              "alt": "Concept illustration of optical and magnetic microstructures manipulating small objects in a fluid chamber.",
+              "caption": "Microrobotics research topic. AI-generated concept illustration; objects are not to scale.",
+              "kind": "concept"
+            },
+            "researchConnection": "Intelligent perception and actuation for biomedical manipulation at small scales.",
+            "relatedLinks": [
+              {
+                "label": "Explore microrobotics",
+                "url": "/msei_website/research/microrobotics/"
+              }
+            ]
           }
         },
         {
@@ -85,7 +211,23 @@
             "title": "Guest Lecturer",
             "organizer": "Shanghai Jiao Tong University",
             "time": "2024-06",
-            "location": "Shanghai, China "
+            "location": "Shanghai, China",
+            "id": "sjtu-guest-2024",
+            "topicId": "exchange",
+            "figure": {
+              "src": "/assets/illustrations/talks-research-exchange-2026f.svg",
+              "alt": "An academic exchange diagram connecting a question, supporting evidence and discussion.",
+              "caption": "Illustration of academic exchange and discussion.",
+              "kind": "diagram",
+              "mobileSrc": "/assets/illustrations/talks-research-exchange-2026f-mobile.svg"
+            },
+            "researchConnection": "A guest lecture hosted by Shanghai Jiao Tong University.",
+            "relatedLinks": [
+              {
+                "label": "Explore teaching and education",
+                "url": "/msei_website/teaching/"
+              }
+            ]
           }
         },
         {
@@ -94,7 +236,22 @@
             "title": "AI for Medical Robotics",
             "organizer": "University College London",
             "time": "2024-05",
-            "location": "London, UK"
+            "location": "London, UK",
+            "id": "ucl-medical-2024",
+            "topicId": "medical-control",
+            "figure": {
+              "src": "/assets/illustrations/medical-robotics-concept-2026e.webp",
+              "alt": "Concept illustration of precision robotic instruments positioned around a synthetic surgical phantom.",
+              "caption": "Medical robotics research topic. AI-generated concept illustration.",
+              "kind": "concept"
+            },
+            "researchConnection": "The connection between AI methods and the sensing, control and interaction demands of medical robotics.",
+            "relatedLinks": [
+              {
+                "label": "Explore medical robotics",
+                "url": "/msei_website/research/medical-robotics/"
+              }
+            ]
           }
         },
         {
@@ -103,7 +260,22 @@
             "title": "AI for Medical Robotics",
             "organizer": "Surrey University",
             "time": "2024-04",
-            "location": "London, UK"
+            "location": "London, UK",
+            "id": "surrey-medical-2024",
+            "topicId": "medical-control",
+            "figure": {
+              "src": "/assets/illustrations/medical-robotics-concept-2026e.webp",
+              "alt": "Concept illustration of precision robotic instruments positioned around a synthetic surgical phantom.",
+              "caption": "Medical robotics research topic. AI-generated concept illustration.",
+              "kind": "concept"
+            },
+            "researchConnection": "The connection between AI methods and robotic assistance for precise medical tasks.",
+            "relatedLinks": [
+              {
+                "label": "Explore medical robotics",
+                "url": "/msei_website/research/medical-robotics/"
+              }
+            ]
           }
         },
         {
@@ -112,7 +284,23 @@
             "title": "AI for Biomedical Robotics Across Scales",
             "organizer": "University College London",
             "time": "2024-05",
-            "location": "London, UK"
+            "location": "London, UK",
+            "id": "ucl-across-scales-2024",
+            "topicId": "across-scales",
+            "figure": {
+              "src": "/assets/illustrations/talks-across-scales-2026f.svg",
+              "alt": "Concept map linking tactile contact, precision manipulation and small-scale actuation through embodiment, perception and control.",
+              "caption": "Research context diagram connecting dexterity across scales.",
+              "kind": "diagram",
+              "mobileSrc": "/assets/illustrations/talks-across-scales-2026f-mobile.svg"
+            },
+            "researchConnection": "A perspective on connecting robot intelligence with biomedical manipulation across scales.",
+            "relatedLinks": [
+              {
+                "label": "Explore the research programme",
+                "url": "/msei_website/research/"
+              }
+            ]
           }
         },
         {
@@ -121,7 +309,22 @@
             "title": "Recent advances in robotic tactile perception and wearable haptic interface for enhanced human-robot interaction",
             "organizer": "China Haptic and tactile Technology and Application Conference",
             "time": "2024-05",
-            "location": "Tianjin, China"
+            "location": "Tianjin, China",
+            "id": "china-haptics-2024",
+            "topicId": "touch",
+            "figure": {
+              "src": "/assets/illustrations/tactile-learning-2026c.webp",
+              "alt": "Concept illustration of a robotic gripper sensing a deformable object with tactile fingertips.",
+              "caption": "Tactile manipulation research topic. AI-generated concept illustration.",
+              "kind": "concept"
+            },
+            "researchConnection": "Tactile perception and haptic interfaces connect robot sensing with human physical interaction.",
+            "relatedLinks": [
+              {
+                "label": "Explore tactile sensing",
+                "url": "/msei_website/research/#sensing"
+              }
+            ]
           }
         },
         {
@@ -130,7 +333,23 @@
             "title": "Intelligent Dexterous Manipulation Across Scales",
             "organizer": "Tianjin University",
             "time": "2024-05",
-            "location": "Tianjin, China"
+            "location": "Tianjin, China",
+            "id": "tianjin-dexterity-2024",
+            "topicId": "across-scales",
+            "figure": {
+              "src": "/assets/illustrations/talks-across-scales-2026f.svg",
+              "alt": "Concept map linking tactile contact, precision manipulation and small-scale actuation through embodiment, perception and control.",
+              "caption": "Research context diagram connecting dexterity across scales.",
+              "kind": "diagram",
+              "mobileSrc": "/assets/illustrations/talks-across-scales-2026f-mobile.svg"
+            },
+            "researchConnection": "Connecting physical interactions, perception and control across dexterous manipulation platforms.",
+            "relatedLinks": [
+              {
+                "label": "Explore research applications",
+                "url": "/msei_website/research/#applications"
+              }
+            ]
           }
         },
         {
@@ -139,7 +358,23 @@
             "title": "Intelligent Dexterous Manipulation Across Scales",
             "organizer": "CNRS Femto-St",
             "time": "2024-03",
-            "location": "London, UK"
+            "location": "London, UK",
+            "id": "femto-dexterity-2024",
+            "topicId": "across-scales",
+            "figure": {
+              "src": "/assets/illustrations/talks-across-scales-2026f.svg",
+              "alt": "Concept map linking tactile contact, precision manipulation and small-scale actuation through embodiment, perception and control.",
+              "caption": "Research context diagram connecting dexterity across scales.",
+              "kind": "diagram",
+              "mobileSrc": "/assets/illustrations/talks-across-scales-2026f-mobile.svg"
+            },
+            "researchConnection": "A cross-scale view of dexterity, from contact-rich robot manipulation to precision tools.",
+            "relatedLinks": [
+              {
+                "label": "Explore research applications",
+                "url": "/msei_website/research/#applications"
+              }
+            ]
           }
         },
         {
@@ -148,19 +383,83 @@
             "title": "Medical Robotics",
             "organizer": "University of Bristol",
             "time": "2024-03",
-            "location": "Bristol, UK"
+            "location": "Bristol, UK",
+            "id": "bristol-medical-2024",
+            "topicId": "medical-control",
+            "figure": {
+              "src": "/assets/illustrations/medical-robotics-concept-2026e.webp",
+              "alt": "Concept illustration of precision robotic instruments positioned around a synthetic surgical phantom.",
+              "caption": "Medical robotics research topic. AI-generated concept illustration.",
+              "kind": "concept"
+            },
+            "researchConnection": "Research on robotic tools, precise manipulation and human–robot interaction in medical applications.",
+            "relatedLinks": [
+              {
+                "label": "Explore medical robotics",
+                "url": "/msei_website/research/medical-robotics/"
+              }
+            ]
           }
         },
         {
           "name": "Talk",
           "data": {
             "title": "Transformative AI in Business",
-            "organizer": "Imperial College London ",
+            "organizer": "Imperial College London",
             "time": "2024-02",
-            "location": "London, UK"
+            "location": "London, UK",
+            "id": "imperial-ai-business-2024",
+            "topicId": "exchange",
+            "figure": {
+              "src": "/assets/illustrations/teaching-deep-learning-2026.webp",
+              "alt": "Concept illustration of a neural-network learning process, data and a computer interface.",
+              "caption": "AI topic illustration. AI-generated conceptual artwork.",
+              "kind": "concept"
+            },
+            "researchConnection": "A broader conversation about the applications and practical implications of AI.",
+            "relatedLinks": [
+              {
+                "label": "Explore AI teaching",
+                "url": "/msei_website/teaching/"
+              }
+            ]
           }
         }
       ]
     }
+  },
+  "topics": [
+    {
+      "id": "across-scales",
+      "title": "Embodied intelligence across scales",
+      "shortTitle": "Across scales"
+    },
+    {
+      "id": "microrobotics",
+      "title": "Microrobotics and dexterity",
+      "shortTitle": "Microrobotics"
+    },
+    {
+      "id": "touch",
+      "title": "Tactile sensing and haptics",
+      "shortTitle": "Touch and haptics"
+    },
+    {
+      "id": "medical-control",
+      "title": "Medical robotics and shared control",
+      "shortTitle": "Medical robotics"
+    },
+    {
+      "id": "exchange",
+      "title": "AI perspectives and academic exchange",
+      "shortTitle": "AI and exchange"
+    }
+  ],
+  "heroFigure": {
+    "src": "/assets/illustrations/talks-across-scales-2026f.svg",
+    "alt": "Concept map linking tactile contact, precision manipulation and small-scale actuation through embodiment, perception and control.",
+    "caption": "Research context diagram connecting dexterity across scales.",
+    "kind": "diagram",
+    "mobileSrc": "/assets/illustrations/talks-across-scales-2026f-mobile.svg"
   }
 }
