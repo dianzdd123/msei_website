@@ -169,28 +169,7 @@
     "supervision": {
       "title": "Research supervision & researcher development",
       "asOf": "30 October 2026",
-      "stats": [
-        {
-          "value": "7",
-          "label": "Doctoral researchers enrolled",
-          "detail": "6 primary/lead; 1 co-supervised"
-        },
-        {
-          "value": "1",
-          "label": "Doctoral graduate",
-          "detail": "Co-supervision"
-        },
-        {
-          "value": "75",
-          "label": "Master’s graduates",
-          "detail": "63 lead/main; 12 co-supervised"
-        },
-        {
-          "value": "3",
-          "label": "Master’s students enrolled",
-          "detail": "Lead/main supervision"
-        }
-      ],
+      "stats": [],
       "description": "Supervision spans robotics, artificial intelligence and bioengineering across MRes, MSc, integrated MEng and doctoral programmes. Mentoring combines individual research meetings, group discussion and peer learning with experimental design, reproducible evaluation, writing, peer review and career planning.",
       "researchAreas": [
         "Tactile sensing and physical-property learning",

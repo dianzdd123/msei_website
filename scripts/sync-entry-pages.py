@@ -5,7 +5,9 @@ from pathlib import Path
 root = Path(__file__).resolve().parents[1]
 shell = (root / "index.html").read_text(encoding="utf-8")
 routes = ("", "research", "team", "publications", "talks", "teaching",
-          "services", "vacancies", "group-photo")
+          "services", "vacancies", "group-photo",
+          "research/microrobotics", "research/dexterous-manipulation",
+          "research/medical-robotics", "research/scientific-instrumentation")
 for route in routes:
     destination = root / "msei_website" / route / "index.html"
     destination.parent.mkdir(parents=True, exist_ok=True)

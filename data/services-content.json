@@ -9,11 +9,6 @@
   "intro": "My academic service spans editorial work, conference and workshop leadership, grant review, doctoral examination and institutional engagement. It brings together robotics, artificial intelligence, healthcare and interdisciplinary research communities.",
   "highlights": [
     {
-      "label": "IEEE RAS Technical Committee",
-      "detail": "Secretary · Human-Centred AI for Medical Robotics",
-      "period": "2025–present"
-    },
-    {
       "label": "IEEE ROBIO 2026",
       "detail": "Programme Co-Chair",
       "period": "Forthcoming conference",
@@ -29,14 +24,6 @@
     "leadership": {
       "title": "Society, conference & workshop leadership",
       "subsections": [
-        {
-          "name": "Entry",
-          "data": {
-            "name": "IEEE RAS Technical Committee on Human-Centred AI for Medical Robotics",
-            "role": "Secretary",
-            "period": "2025–present"
-          }
-        },
         {
           "name": "Entry",
           "data": {

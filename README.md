@@ -2,15 +2,16 @@
 
 Public site: https://zhangrobotics.com/msei_website/
 
-This repository contains the deployed static website for Dandan Zhang's Multi-Scale Embodied Intelligence Lab, with a focus on microrobotics and biomedical micromanipulation.
+This repository contains the deployed static website for Dandan Zhang's Multi-Scale Embodied Intelligence Lab, connecting sensing, learning, shared control and robot design through applications in microrobotics, dexterous manipulation, medical robotics and scientific instrumentation.
 
 ## Edit content
 
 | File | Content |
 | --- | --- |
 | `data/home-content.json` | Biography, research overview, opportunities, news, awards and contact |
-| `data/publications-content.json` | Selected microscale publications and preprints |
-| `data/research-content.json` | Research platforms and project links |
+| `data/publications-content.json` | Selected publications and preprints across the programme |
+| `data/research-content.json` | Research vision, cross-cutting themes, platforms and evidence |
+| `data/research-applications-content.json` | Application subpages, representative projects, figures and resources |
 | `data/team-content.json` | Current team and alumni |
 | `data/talks-content.json` | Invited talks |
 | `data/teaching-content.json` | Teaching |
@@ -24,9 +25,9 @@ Keep the existing field structure. Publications use string-valued years, author 
 
 GitHub Pages deploys from `main`. The custom domain is stored in `CNAME`; keep it unchanged unless intentionally moving the site. The application router uses `/msei_website/`, while data and assets are served from `/data/` and `/assets/` at the custom-domain root.
 
-The original Vue authoring project and build configuration are not present in this repository. The files in `assets/` are compiled bundles. Make routine content updates in `data/`; recover the original source before a substantial UI redevelopment. After changing the root `index.html`, run `python scripts/sync-entry-pages.py` to synchronise `404.html` and the nine explicit entry pages under `msei_website/`. These entry pages let direct links and refreshes load the application without relying on the missing-page fallback.
+The original Vue authoring project and build configuration are not present in this repository. The files in `assets/` are compiled bundles. Make routine content updates in `data/`; recover the original source before a substantial UI redevelopment. After changing the root `index.html`, run `python scripts/sync-entry-pages.py` to synchronise `404.html` and the thirteen explicit entry pages under `msei_website/`. These entry pages let direct links and refreshes load the application without relying on the missing-page fallback.
 
-The current November 2026 release uses versioned JavaScript bundles ending in `.20261101c.js`. Previous releases are retained for cached clients. Their imports form a consistent module graph; older bundles remain available for already-open tabs. The current data loader revalidates JSON and uses a release query key to avoid mixing new HTML with cached older content. For a future JavaScript release, use new bundle names and update all dependent imports and HTML entry pages together.
+The current November 2026 release uses versioned JavaScript bundles ending in `.20261101d.js`. Previous releases are retained for cached clients. Their imports form a consistent module graph; older bundles remain available for already-open tabs. The current data loader revalidates JSON and uses a release query key to avoid mixing new HTML with cached older content. For a future JavaScript release, use new bundle names and update all dependent imports and HTML entry pages together.
 
 After editing, parse the JSON, verify publication links and status, check any changed JavaScript syntax, and inspect the live home/research/publications pages after the Pages deployment completes. A browser reload is needed to discard the app's in-memory data cache.
 
@@ -35,3 +36,5 @@ The source notes for the November 2026 refresh are in [docs/content-update-2026-
 The comprehensive profile, teaching, service and photo refresh is documented in [profile and education source notes](docs/profile-teaching-service-update-2026-11-01.md). The new Home, Research, Teaching, Services and GroupPhoto modules are readable JavaScript using the existing Vue runtime. Image-generation prompts are recorded in [illustration notes](assets/illustrations/README.md).
 
 The supplied-design alignment and four-theme research programme are documented in [design and research update notes](docs/design-research-update-2026-11-01.md). Home and Research share the canonical research content in `data/research-content.json`. The latest imagery, source-reference role and full generation prompts are in [research illustration notes](assets/illustrations/research-figures-2026c.md).
+
+The application subpages, team directory expansion and requested profile corrections are documented in [application and team update notes](docs/application-team-update-2026-11-01.md). Research applications share one readable renderer and canonical JSON; each application has its own route and HTML entry page. `NavigationEditorial` provides desktop and mobile links to every application. `TeamEditorial` displays verified profiles and project records from the owner-supplied directory.
