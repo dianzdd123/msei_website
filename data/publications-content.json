@@ -1,12 +1,266 @@
 {
   "metadata": {
     "title": "Publications",
-    "description": "For a full list of our publications, please refer to the <a href='https://scholar.google.com/citations?user=233I39oAAAAJ&hl=en'>Google Scholar profile</a>.",
-    "lastUpdated": "06-07-2025"
+    "description": "Selected work on microrobotics, biomedical micromanipulation and robot-assisted microsurgery. Recent additions include journal and conference papers, alongside clearly labelled preprints. For Dandan's broader publication record, see <a href=\"https://scholar.google.com/citations?user=233I39oAAAAJ&amp;hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Google Scholar</a>. <span>Updated 1 November 2026.</span>",
+    "lastUpdated": "2026-11-01"
   },
   "sections": [
     {
       "title": "# Publications",
+      "body": ""
+    },
+    {
+      "title": "Rapid Parallel Fabrication and Control of Diverse Microrobotic Structures with Magnetic Functionalization",
+      "year": "2026",
+      "type": "Journal Paper",
+      "venue": "Artificial Life (online ahead of print)",
+      "authors": [
+        "Nitirak Rayabphand",
+        "Neshika Wijewardhane",
+        "Norah-Jane Prendergast",
+        "James P. K. Armstrong",
+        "Dandan Zhang",
+        "Sabine Hauert"
+      ],
+      "keywords": [
+        "Magnetic Microrobot",
+        "Microrobot Fabrication",
+        "Hydrogels"
+      ],
+      "links": [
+        {
+          "type": "DOI",
+          "url": "https://doi.org/10.1162/ARTL.a.489"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "A Digital Twin Framework for Virtual Visuo-Haptic Teleoperation of Complex-Shaped Optical Microrobots",
+      "year": "2026",
+      "type": "Preprint",
+      "venue": "arXiv:2605.28448",
+      "authors": [
+        "Zongcai Tan",
+        "Lan Wei",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Optical Microrobot",
+        "Digital Twin",
+        "Haptic Feedback"
+      ],
+      "links": [
+        {
+          "type": "arXiv",
+          "url": "https://arxiv.org/abs/2605.28448"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/Zongcai23/ot-haptic-feedback-digital-twin/tree/main"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Mag-VLA: Vision-Language-Action Model for Bimanual Magnetically Actuated Microrobot Manipulation",
+      "year": "2026",
+      "type": "Preprint",
+      "venue": "arXiv:2605.28486",
+      "authors": [
+        "Yongchen Wang",
+        "Kangyi Lu",
+        "Lan Wei",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Magnetic Microrobot",
+        "Vision-Language-Action",
+        "Bimanual Manipulation"
+      ],
+      "links": [
+        {
+          "type": "arXiv",
+          "url": "https://arxiv.org/abs/2605.28486"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Embodied Cross-Domain Intelligence in Biomedical Microrobots: A Review",
+      "year": "2026",
+      "type": "Journal Paper",
+      "venue": "Cyborg and Bionic Systems, 7:0546",
+      "authors": [
+        "Zongcai Tan",
+        "Lan Wei",
+        "Kangyi Lu",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Microrobot",
+        "Embodied Intelligence",
+        "Review"
+      ],
+      "links": [
+        {
+          "type": "DOI",
+          "url": "https://doi.org/10.34133/cbsystems.0546"
+        },
+        {
+          "type": "Project",
+          "url": "https://nuounuou.github.io/Embodied-Cross-Domain-Intelligence-in-Biomedical-Microrobots-A-Review/"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Dual-Control Frequency-Aware Diffusion Model for Depth-Dependent Optical Microrobot Microscopy Image Generation",
+      "year": "2026",
+      "type": "Preprint",
+      "venue": "arXiv:2604.11680",
+      "authors": [
+        "Lan Wei",
+        "Zongcai Tan",
+        "Kangyi Lu",
+        "Jian-Qing Zheng",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Optical Microrobot",
+        "Diffusion Model",
+        "Sim-to-Real"
+      ],
+      "links": [
+        {
+          "type": "arXiv",
+          "url": "https://arxiv.org/abs/2604.11680"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Micro-Dexterity in Biological Micromanipulation: Embodiment, Perception, and Control",
+      "year": "2026",
+      "type": "Preprint",
+      "venue": "arXiv:2604.11640",
+      "authors": [
+        "Kangyi Lu",
+        "Lan Wei",
+        "Zongcai Tan",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Micromanipulation",
+        "Micro-Dexterity",
+        "Review"
+      ],
+      "links": [
+        {
+          "type": "arXiv",
+          "url": "https://arxiv.org/abs/2604.11640"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Physics-Informed Machine Learning for Efficient Sim-to-Real Data Augmentation in Micro-Object Pose Estimation",
+      "year": "2026",
+      "type": "Conference Paper",
+      "venue": "IEEE ICRA 2026",
+      "authors": [
+        "Zongcai Tan",
+        "Lan Wei",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Optical Microrobot",
+        "Sim-to-Real",
+        "Pose Estimation"
+      ],
+      "links": [
+        {
+          "type": "arXiv",
+          "url": "https://arxiv.org/abs/2511.16494"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/Zongcai23/Micro_Object_Sim2Real"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Context-Aware Adaptive Shared Control for Magnetically-Driven Bimanual Dexterous Micromanipulation",
+      "year": "2026",
+      "type": "Preprint",
+      "venue": "arXiv:2603.14388",
+      "authors": [
+        "Yongchen Wang",
+        "Kangyi Lu",
+        "Lan Wei",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Magnetic Microrobot",
+        "Shared Control",
+        "Haptic Feedback"
+      ],
+      "links": [
+        {
+          "type": "arXiv",
+          "url": "https://arxiv.org/abs/2603.14388"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "DexterousMag: A Reconfigurable Electromagnetic Actuation System for Miniature Helical Robot",
+      "year": "2026",
+      "type": "Preprint",
+      "venue": "arXiv:2603.14396",
+      "authors": [
+        "Jialin Lin",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Magnetic Microrobot",
+        "Reconfigurable Actuation",
+        "Control"
+      ],
+      "links": [
+        {
+          "type": "arXiv",
+          "url": "https://arxiv.org/abs/2603.14396"
+        }
+      ],
+      "body": ""
+    },
+    {
+      "title": "Physics-Informed Machine Learning with Adaptive Grids for Optical Microrobot Depth Estimation",
+      "year": "2025",
+      "type": "Conference Paper",
+      "venue": "IEEE CBS 2025",
+      "authors": [
+        "Lan Wei",
+        "Lou Genoud",
+        "Dandan Zhang"
+      ],
+      "keywords": [
+        "Optical Microrobot",
+        "Depth Estimation",
+        "Physics-Informed Learning"
+      ],
+      "links": [
+        {
+          "type": "arXiv",
+          "url": "https://arxiv.org/abs/2509.02343"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/LannWei/CBS2025"
+        }
+      ],
       "body": ""
     },
     {
@@ -519,5 +773,6 @@
       ],
       "body": ""
     }
-  ]
+  ],
+  "lastUpdated": "2026-11-01"
 }

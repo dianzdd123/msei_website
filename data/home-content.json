@@ -2,14 +2,15 @@
   "metadata": {
     "title": "MSEI Lab",
     "subtitle": "Multi-Scale Embodied Intelligence Lab",
-    "lastUpdated": "06-07-2025"
+    "lastUpdated": "2026-11-01"
   },
   "sections": {
     "hero": {
       "title": "Dandan Zhang",
       "primaryButton": "Explore Research",
       "secondaryButton": "Meet Our Team",
-      "description": "I am an Assistant Professor in Medical Robotics in the Department of Bioengineering and a Lecturer in Artificial Intelligence and Machine Learning within the I-X Initiative at Imperial College London. I also serve as the Director of the Multi-Scale Embodied Intelligence Laboratory. In addition, I hold an Honorary Researcher position in the Department of Electrical and Electronic Engineering at Imperial College London."
+      "description": "<p>I am an Assistant Professor in AI and Machine Learning at Imperial College London, working across the Department of Bioengineering and the I-X initiative. I lead the Multi-Scale Embodied Intelligence (MSEI) Lab, where we study how robots can perceive, learn and manipulate through physical interaction.</p><p>Our research connects multimodal perception, robot learning and shared autonomy with optical and magnetic microrobotics, robot-assisted microsurgery and scientific experimentation. This website highlights our work on microrobotics and biomedical micromanipulation.</p><p>Before joining Imperial, I was a Lecturer at the University of Bristol and a member of the Bristol Robotics Laboratory. I completed my PhD and MRes at Imperial. <a href=\"https://profiles.imperial.ac.uk/d.zhang17\" target=\"_blank\" rel=\"noopener noreferrer\">Imperial profile</a> · <a href=\"https://www.intelligentrobotics-acrossscales.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Wider lab research</a></p>",
+      "subtitle": "Multi-Scale Embodied Intelligence Lab · Imperial College London"
     },
     "researchoverview": {
       "subsections": [
@@ -17,14 +18,14 @@
           "name": "Research Area",
           "data": {
             "title": "Multimodal Perception (Sensing)",
-            "intro": "We design novel deep learning, reinforcement learning, and federated learning algorithms for robust, scalable, and privacy-preserving AI.",
-            "description": "Developing novel algorithms and architectures for deep learning, reinforcement learning, and federated learning.",
-            "icon": "🤖",
+            "intro": "Estimate the pose, depth and interaction state of small-scale robotic systems from microscopy images and complementary sensing.",
+            "description": "Physics-informed image generation, sim-to-real transfer, optical microrobot perception and multi-pipette localisation.",
+            "icon": "🔬",
             "keywords": [
-              "Machine Learning",
-              "Deep Learning",
-              "Reinforcement Learning",
-              "Federated Learning"
+              "Microrobot",
+              "Perception",
+              "Pose Estimation",
+              "Sim-to-Real"
             ]
           }
         },
@@ -32,40 +33,155 @@
           "name": "Research Area",
           "data": {
             "title": "Interactive Learning (Decision-Making)",
-            "intro": "Our work in computer vision covers object detection, segmentation, and multimodal learning, with a focus on medical imaging and real-world visual understanding.",
-            "description": "Advancing visual understanding through object detection, image segmentation, and multimodal learning.",
-            "icon": "👁️",
+            "intro": "Combine robot learning, digital twins and human guidance to make decisions under limited observations and complex physical interactions.",
+            "description": "Learning-based control, digital-twin simulation and adaptive shared autonomy for optical and magnetic micromanipulation.",
+            "icon": "🤖",
             "keywords": [
-              "Computer Vision",
-              "Object Detection",
-              "Image Segmentation",
-              "Multimodal Learning"
+              "Digital Twin",
+              "Reinforcement Learning",
+              "Shared Control",
+              "Microrobot"
             ]
           }
         },
         {
           "name": "Research Area",
           "data": {
-            "title": "Dexterous Manipulation（Execution)",
-            "intro": "We build intelligent language models and systems for text understanding, generation, and cross-modal AI, enabling machines to process and reason with human language.",
-            "description": "Building intelligent language models and systems for text understanding and generation.",
-            "icon": "💬",
+            "title": "Dexterous Manipulation (Execution)",
+            "intro": "Develop robotic systems that navigate, reorient and manipulate delicate objects at small scales.",
+            "description": "Optical and magnetic actuation, microsurgical teleoperation, haptic feedback and biomedical micromanipulation.",
+            "icon": "🦾",
             "keywords": [
-              "Natural Language Processing",
-              "Language Models",
-              "Text Understanding",
-              "Generation"
+              "Optical Microrobot",
+              "Magnetic Microrobot",
+              "Microsurgery",
+              "Control"
             ]
           }
         }
-      ]
+      ],
+      "description": "We connect sensing, decision-making and physical action to build more capable robotic systems at small scales. Our work combines physics-informed perception, digital twins, learning-based control and human–robot collaboration across optical microrobotics, magnetic manipulation and robot-assisted microsurgery. <a href=\"/msei_website/research\">Explore our research platforms</a> and <a href=\"/msei_website/publications\">selected publications</a>."
     },
     "opening": {
-      "description": "I am looking for highly motivated PhD students to work on microfluidics for microrobotics at Imperial College London. Prospective students will have a good first degree in Bioengineering, Computer Science, Electrical Engineering, Automation or other engineering-related disciplines. Please feel free to drop me an email if you are interested. <br>For details, please check the Vacancies page.",
-      "<!-- <a href='https": "//openaccess.thecvf.com/content/CVPR2024/papers/Wang_Robust_Deep_Learning_for_Computer_Vision_CVPR_2024_paper.pdf'> -->"
+      "description": "We welcome enquiries from prospective researchers interested in microrobotics, robot learning and biomedical micromanipulation. Relevant backgrounds include bioengineering, robotics, computer science, electrical engineering and related disciplines. Please see the <a href=\"/msei_website/vacancies\">Vacancies page</a> for research interests and application guidance, and contact <a href=\"mailto:d.zhang17@imperial.ac.uk\">d.zhang17@imperial.ac.uk</a> to discuss current opportunities."
     },
     "latestnews": {
       "subsections": [
+        {
+          "name": "News Item",
+          "data": {
+            "date": "10/2026",
+            "title": "PhysLadder preprint",
+            "summary": "Our collaborative PhysLadder preprint studies physical interaction in contact-rich manipulation using a matched simulation and real-world benchmark.",
+            "links": [
+              "Preprint: https://arxiv.org/abs/2610.34527"
+            ]
+          }
+        },
+        {
+          "name": "News Item",
+          "data": {
+            "date": "10/2026",
+            "title": "IROS 2026 workshop",
+            "summary": "Dandan co-organised the IROS 2026 workshop Physical World Models for Scaling Embodied AI in Pittsburgh.",
+            "links": [
+              "Workshop: https://physical-world-models.github.io/IROS2026/"
+            ]
+          }
+        },
+        {
+          "name": "News Item",
+          "data": {
+            "date": "09/2026",
+            "title": "Magnetic microrobot fabrication in Artificial Life",
+            "summary": "Our collaborative work on rapid parallel fabrication and magnetic control of diverse microrobotic structures has been published online in Artificial Life.",
+            "links": [
+              "Paper: https://doi.org/10.1162/ARTL.a.489"
+            ]
+          }
+        },
+        {
+          "name": "News Item",
+          "data": {
+            "date": "09/2026",
+            "title": "ECCV 2026 workshop",
+            "summary": "Dandan co-organised the ECCV 2026 workshop Safe World Models for Trustworthy Embodied AI in Malmö.",
+            "links": [
+              "Workshop: https://trustworthy-world-models.github.io/ECCV2026/"
+            ]
+          }
+        },
+        {
+          "name": "News Item",
+          "data": {
+            "date": "06/2026",
+            "title": "ICRA 2026 sim-to-real microscopy",
+            "summary": "Our ICRA 2026 paper on physics-informed sim-to-real data augmentation for micro-object pose estimation is available with open-source code.",
+            "links": [
+              "Paper: https://arxiv.org/abs/2511.16494",
+              "Code: https://github.com/Zongcai23/Micro_Object_Sim2Real"
+            ]
+          }
+        },
+        {
+          "name": "News Item",
+          "data": {
+            "date": "05/2026",
+            "title": "Mag-VLA and optical digital twin preprints",
+            "summary": "New preprints introduce Mag-VLA for bimanual magnetic microrobot manipulation and a digital twin for virtual visuo-haptic optical microrobot teleoperation.",
+            "links": [
+              "Mag-VLA: https://arxiv.org/abs/2605.28486",
+              "Digital twin: https://arxiv.org/abs/2605.28448"
+            ]
+          }
+        },
+        {
+          "name": "News Item",
+          "data": {
+            "date": "05/2026",
+            "title": "Biomedical microrobotics review",
+            "summary": "Our review of embodied cross-domain intelligence in biomedical microrobots has been published in Cyborg and Bionic Systems.",
+            "links": [
+              "Paper: https://doi.org/10.34133/cbsystems.0546"
+            ]
+          }
+        },
+        {
+          "name": "News Item",
+          "data": {
+            "date": "04/2026",
+            "title": "Micro-dexterity and Du-FreqNet preprints",
+            "summary": "New preprints examine micro-dexterity in biological micromanipulation and introduce Du-FreqNet for depth-dependent optical microrobot microscopy image generation.",
+            "links": [
+              "Micro-dexterity: https://arxiv.org/abs/2604.11640",
+              "Du-FreqNet: https://arxiv.org/abs/2604.11680"
+            ]
+          }
+        },
+        {
+          "name": "News Item",
+          "data": {
+            "date": "03/2026",
+            "title": "Bi-CAST and DexterousMag preprints",
+            "summary": "New preprints explore adaptive shared control for bimanual magnetic micromanipulation and reconfigurable electromagnetic actuation with DexterousMag.",
+            "links": [
+              "Bi-CAST: https://arxiv.org/abs/2603.14388",
+              "DexterousMag: https://arxiv.org/abs/2603.14396"
+            ]
+          }
+        },
+        {
+          "name": "News Item",
+          "data": {
+            "date": "09/2025",
+            "title": "CBS 2025 optical depth estimation",
+            "summary": "Our CBS 2025 paper on physics-informed optical microrobot depth estimation with adaptive grids is available with code.",
+            "links": [
+              "Paper: https://arxiv.org/abs/2509.02343",
+              "Code: https://github.com/LannWei/CBS2025"
+            ]
+          }
+        },
         {
           "name": "News Item",
           "data": {
@@ -98,8 +214,7 @@
           "name": "News Item",
           "data": {
             "date": "07/2025",
-            "summary": "We will organise the 1st Trustworthy Embodied Intelligence in Healthcare International Symposium at Imperial College, White City campus on 17th July, sponsored by Imperial-X",
-            "<!-- links": "[\"PDF: https://arxiv.org/abs/2407.12345\", \"Code: https://github.com/euroai-lab/efficient-attention\"] -->"
+            "summary": "We co-organised the 1st Trustworthy Embodied Intelligence in Healthcare International Symposium at Imperial College London's White City campus on 17 July 2025, supported by I-X."
           }
         },
         {
@@ -134,8 +249,7 @@
           "name": "News Item",
           "data": {
             "date": "02/2025",
-            "summary": "We will organise the 2nd MEIS Workshop at CVPR2025.",
-            "<!-- links": "[\"PDF: https://arxiv.org/abs/2407.12345\", \"Code: https://github.com/euroai-lab/efficient-attention\"] -->"
+            "summary": "We co-organised the 2nd MEIS Workshop at CVPR 2025."
           }
         },
         {
@@ -163,8 +277,7 @@
           "name": "News Item",
           "data": {
             "date": "01/2025",
-            "summary": "Dr. Zhang was shortlisted for AI Visionaries 2025.",
-            "<!-- links": "[\"PDF: https://arxiv.org/abs/2407.12345\", \"Code: https://github.com/euroai-lab/efficient-attention\"] -->"
+            "summary": "Dr. Zhang was shortlisted for AI Visionaries 2025."
           }
         },
         {
@@ -172,46 +285,6 @@
           "data": {
             "date": "12/2024",
             "summary": "Congrats, Wen Fan won the Mid Stage Prize at the Imperial College London Robotics Forum-Amazon PhD Prizes for Outstanding Achievement in Robotics!"
-          }
-        }
-      ]
-    },
-    "teamoverview": {
-      "subsections": [
-        {
-          "name": "Team Member",
-          "data": {
-            "name": "Dr. Alex Zhang",
-            "role": "Principal Investigator",
-            "research": "Machine Learning, Computer Vision",
-            "avatar": "👨‍🔬"
-          }
-        },
-        {
-          "name": "Team Member",
-          "data": {
-            "name": "Chen Lin",
-            "role": "PhD Student",
-            "research": "Deep Learning, Medical AI",
-            "avatar": "👩‍🎓"
-          }
-        },
-        {
-          "name": "Team Member",
-          "data": {
-            "name": "Wang Yu",
-            "role": "PhD Student",
-            "research": "Computer Vision, Robustness",
-            "avatar": "👨‍🎓"
-          }
-        },
-        {
-          "name": "Team Member",
-          "data": {
-            "name": "Li Wei",
-            "role": "Research Assistant",
-            "research": "NLP, Transformer Models",
-            "avatar": "👩‍💻"
           }
         }
       ]

@@ -1,7 +1,8 @@
 {
   "metadata": {
     "title": "Research",
-    "description": "Our research focuses on advancing artificial intelligence through innovative approaches in machine learning, computer vision, and natural language processing."
+    "description": "Microrobotics and biomedical micromanipulation: optical and magnetic actuation, physics-informed perception, digital twins and human–robot shared control.",
+    "lastUpdated": "2026-11-01"
   },
   "sections": {
     "researchareas": {
@@ -10,15 +11,14 @@
           "name": "Research Area",
           "data": {
             "title": "Optical Micromanipulation",
-            "description": "Core principle: Uses focused laser beams to trap, move, or rotate microscopic particles via optical forces (radiation pressure and gradient force).",
+            "description": "We use optical tweezers to manipulate microscopic objects and fabricated microrobots. Our work combines optical-force modelling, microscopy-based perception and human–robot interaction to study controlled manipulation at small scales.",
             "image": "/assets/research/research1.png",
             "project": [
-              "Key technologies: Optical tweezers, Smart Memory Alloy",
-              "Application 1: Cell and organelle manipulation in biology",
-              "Application 2: Contactless handling in microfluidics and soft matter",
-              "Research focus 1: Dexterous 6-DoF optical manipulation",
-              "Research focus 2: ML-based perception for closed loop control",
-              "Research focus 3: AI-enhanced human-robot shared control"
+              "Platforms: Multi-spot optical tweezers, fabricated microrobots and interactive simulation.",
+              "Perception: Pose and depth estimation from microscopy, including physics-informed learning and sim-to-real data generation.",
+              "Control: Learning-based manipulation, digital-twin modelling and virtual visuo-haptic teleoperation.",
+              "Application focus: Precise handling of microscopic objects for biomedical research.",
+              "Recent work: <a href=\"https://arxiv.org/abs/2511.16494\" target=\"_blank\" rel=\"noopener noreferrer\">ICRA 2026 sim-to-real perception</a>; <a href=\"https://arxiv.org/abs/2604.11680\" target=\"_blank\" rel=\"noopener noreferrer\">Du-FreqNet preprint</a>; <a href=\"https://arxiv.org/abs/2605.28448\" target=\"_blank\" rel=\"noopener noreferrer\">virtual visuo-haptic teleoperation preprint</a>."
             ]
           }
         },
@@ -26,31 +26,29 @@
           "name": "Research Area",
           "data": {
             "title": "Magnetic Micromanipulation",
-            "description": "Core principle: Uses external magnetic fields to steer and actuate micro-objects made of or containing magnetic materials.",
+            "description": "We investigate how external magnetic fields can actuate and steer miniature robots. Our research connects actuation design, coordinated manipulation and adaptive shared control for navigation and interaction in constrained environments.",
             "image": "/assets/research/research2.png",
             "project": [
-              "Key technologies: Electromagnetic coils, permanent magnet arrays, rotating field",
-              "Application 1: Targeted drug delivery and microrobots",
-              "Application 2: Navigation in vascular networks",
-              "Application 3: Reconfigurable assembly and manipulation",
-              "Research focus 1: Closed-loop magnetic control systems",
-              "Research focus 2: Multiscale swarming and collective micromanipulation"
+              "Platforms: Electromagnetic coils, permanent magnets and robot-assisted magnetic actuation.",
+              "Embodiment: Magnetic functionalisation, robot fabrication and reconfigurable actuation systems.",
+              "Control: Bimanual coordination, haptic guidance and learning from visual and language instructions.",
+              "Application focus: Microscale transport and biomedical manipulation research.",
+              "Recent work: <a href=\"https://doi.org/10.1162/ARTL.a.489\" target=\"_blank\" rel=\"noopener noreferrer\">magnetic microrobot fabrication</a>; <a href=\"https://arxiv.org/abs/2603.14396\" target=\"_blank\" rel=\"noopener noreferrer\">DexterousMag preprint</a>; <a href=\"https://arxiv.org/abs/2605.28486\" target=\"_blank\" rel=\"noopener noreferrer\">Mag-VLA preprint</a>."
             ]
           }
         },
         {
           "name": "Research Area",
           "data": {
-            "title": "Piezo-actuated Micromanipulation",
-            "description": "Core principle: Uses piezoelectric materials that deform under applied voltage to drive high-precision, low-drift motion at micro- and nanoscales.",
+            "title": "Robot-Assisted Microsurgery and Micromanipulation",
+            "description": "We develop perception and control methods for precise manipulation with externally actuated tools, including micromanipulators and microsurgical robots. We study how visual feedback, motion scaling and shared autonomy can support reliable operation.",
             "image": "/assets/research/research3.png",
             "project": [
-              "Key technologies: Piezo stages, nanopositioners, zero-drift actuators",
-              "Application 1: Patch-clamp electrophysiology",
-              "Application 2: Robot-assisted microsurgery",
-              "Research focus 1: Human-Robot Shared Control for micromanipulation",
-              "Research focus 2: Microsurgical Training",
-              "Research focus 3: AI-Driven Control"
+              "Platforms: Precision micromanipulators, piezoelectric positioning stages and robot-assisted microsurgery systems.",
+              "Perception: Multi-pipette localisation and image-based state estimation for patch-clamp workflows.",
+              "Interaction: Digital-twin teleoperation, adaptive motion scaling and human–robot shared control.",
+              "Application focus: Patch-clamp research, microsurgical training and delicate biological manipulation.",
+              "Recent work: <a href=\"https://arxiv.org/abs/2504.01044\" target=\"_blank\" rel=\"noopener noreferrer\">multi-pipette localisation (IROS 2025)</a>; <a href=\"https://arxiv.org/abs/2604.11640\" target=\"_blank\" rel=\"noopener noreferrer\">micro-dexterity review preprint</a>."
             ]
           }
         }
