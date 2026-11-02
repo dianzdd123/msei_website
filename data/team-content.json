@@ -2,10 +2,10 @@
   "metadata": {
     "title": "Our team",
     "description": "Researchers, visiting colleagues, project students and alumni of the Multi-Scale Embodied Intelligence Lab.",
-    "lastUpdated": "2026-11-01",
+    "lastUpdated": "2026-11-02",
     "sourceUrl": "https://www.intelligentrobotics-acrossscales.com/blank"
   },
-  "intro": "We bring together robotics, machine learning and bioengineering to study adaptive physical intelligence across scales. Meet the researchers and visiting colleagues, explore the 2026 project cohort, and discover the work of our alumni.",
+  "intro": "We bring together robotics, machine learning and bioengineering to study adaptive physical intelligence across scales. Explore our researchers’ backgrounds, research directions and selected work, meet the 2026 project cohort, and discover the contributions of our alumni.",
   "sections": {
     "principalinvestigator": {
       "subsections": [
@@ -16,7 +16,7 @@
             "role": "Lab founder and principal investigator",
             "affiliation": "Department of Bioengineering · Imperial College London",
             "research": "Adaptive physical intelligence for dexterous manipulation across scales",
-            "description": "Dandan is an Assistant Professor at Imperial College London and founder of the Multi-Scale Embodied Intelligence Lab. Her research connects tactile sensing, robot learning, shared autonomy and optical and magnetic microrobotics. She joined Imperial in 2023 after a lectureship in Robotics at the University of Bristol, and received her PhD in Medical Robotics from Imperial in 2021.",
+            "description": "Dandan is an Assistant Professor in the Department of Bioengineering at Imperial College London and founder of the Multi-Scale Embodied Intelligence Lab. Her research connects tactile sensing, robot learning, shared autonomy and optical and magnetic microrobotics.",
             "topics": [
               "Tactile intelligence",
               "Adaptive robot learning",
@@ -37,6 +37,39 @@
                 "label": "Contact",
                 "url": "mailto:d.zhang17@imperial.ac.uk"
               }
+            ],
+            "id": "person-dandan-zhang",
+            "background": [
+              "Assistant Professor, Imperial College London · joined in 2023",
+              "Previously Lecturer in Robotics at the University of Bristol",
+              "PhD in Medical Robotics, Imperial College London · 2021"
+            ],
+            "researchApproach": "The lab studies how robots can combine sensing, learning and physical interaction to manipulate objects across scales. Tactile intelligence and adaptive control connect dexterous manipulation with medical robotics and optical and magnetic microrobots.",
+            "projectLabel": "Research programme",
+            "selectedWorks": [
+              {
+                "publicationId": "paper-a-vision-based-tactile-sensor-with-in-sensor-computing-paradigm-for-seamless-tactile-sensing-and-perception",
+                "title": "A vision-based tactile sensor with in-sensor computing paradigm for seamless tactile sensing and perception",
+                "year": "2026",
+                "type": "Journal Paper",
+                "venue": "Communications Engineering (advance online publication)",
+                "url": "https://doi.org/10.1038/s44172-026-00770-w",
+                "links": []
+              },
+              {
+                "publicationId": "paper-embodied-cross-domain-intelligence-in-biomedical-microrobots-a-review",
+                "title": "Embodied Cross-Domain Intelligence in Biomedical Microrobots: A Review",
+                "year": "2026",
+                "type": "Journal Paper",
+                "venue": "Cyborg and Bionic Systems, 7:0546",
+                "url": "https://doi.org/10.34133/cbsystems.0546",
+                "links": [
+                  {
+                    "label": "Project",
+                    "url": "https://nuounuou.github.io/Embodied-Cross-Domain-Intelligence-in-Biomedical-Microrobots-A-Review/"
+                  }
+                ]
+              }
             ]
           }
         }
@@ -50,7 +83,7 @@
             "name": "Wen Fan",
             "role": "PhD researcher",
             "period": "2024–present",
-            "description": "Wen develops vision-based tactile sensors and learning methods that connect robotic touch with physical understanding. His work combines sensor design, manufacturing and tactile perception for manipulation. He received an MSc from the University of Manchester in 2021, joined Bristol Robotics Laboratory as a research assistant in 2022, and subsequently moved his doctoral research to Imperial.",
+            "description": "Wen develops vision-based tactile sensors and learning methods that connect robotic touch with physical understanding. His work brings together sensor design, manufacturing and tactile perception for manipulation.",
             "avatar": "/assets/avatar_imgs/wen.jpg",
             "links": [
               {
@@ -68,7 +101,47 @@
             ],
             "application": "/msei_website/research/dexterous-manipulation",
             "applicationLabel": "Dexterous manipulation",
-            "supervision": "Dandan Zhang"
+            "supervision": "Dandan Zhang",
+            "id": "person-wen-fan",
+            "background": [
+              "MSc, University of Manchester · 2021",
+              "Research assistant at Bristol Robotics Laboratory from 2022, before moving his doctoral research to Imperial"
+            ],
+            "researchApproach": "His doctoral project asks how a robot can infer object properties through touch and use that information during manipulation. Related work connects tactile-sensor design, in-sensor computation and multimodal learning for contact-rich tasks.",
+            "selectedWorks": [
+              {
+                "publicationId": "paper-a-vision-based-tactile-sensor-with-in-sensor-computing-paradigm-for-seamless-tactile-sensing-and-perception",
+                "title": "A vision-based tactile sensor with in-sensor computing paradigm for seamless tactile sensing and perception",
+                "year": "2026",
+                "type": "Journal Paper",
+                "venue": "Communications Engineering (advance online publication)",
+                "url": "https://doi.org/10.1038/s44172-026-00770-w",
+                "links": []
+              },
+              {
+                "publicationId": "paper-i-tac-inverse-design-of-3d-printed-tactile-elastomers-with-tuneable-optical-and-mechanical-properties",
+                "title": "i-Tac: Inverse Design of 3D-Printed Tactile Elastomers with Tuneable Optical and Mechanical Properties",
+                "year": "2026",
+                "type": "Journal Paper",
+                "venue": "Advanced Intelligent Systems 8(8), e202501200",
+                "url": "https://doi.org/10.1002/aisy.202501200",
+                "links": []
+              },
+              {
+                "publicationId": "paper-adm-dp-adaptive-dynamic-modality-diffusion-policy-through-vision-tactile-graph-fusion-for-multi-agent-manipulation",
+                "title": "ADM-DP: Adaptive Dynamic Modality Diffusion Policy through Vision-Tactile-Graph Fusion for Multi-Agent Manipulation",
+                "year": "2026",
+                "type": "Conference Paper",
+                "venue": "IEEE ICRA 2026",
+                "url": "https://arxiv.org/abs/2602.21622",
+                "links": [
+                  {
+                    "label": "Code",
+                    "url": "https://github.com/dianzdd123/ADM_DP"
+                  }
+                ]
+              }
+            ]
           }
         },
         {
@@ -77,7 +150,7 @@
             "name": "Jialin Lin",
             "role": "PhD researcher",
             "period": "2024–present",
-            "description": "Jialin studies magnetic microrobots, imaging and adaptation between simulation and experiments. His research connects microrobot perception and control with potential biomedical applications. He received an MSc in Robotics from the University of Bristol in 2022 and a BEng in Mechanical Engineering from Dalian University of Technology in 2021.",
+            "description": "Jialin studies magnetic microrobots, imaging and adaptation between simulation and experiments. His research connects microrobot perception and control with potential biomedical applications.",
             "avatar": "/assets/avatar_imgs/Linjialin.png",
             "links": [
               {
@@ -95,7 +168,33 @@
             ],
             "application": "/msei_website/research/microrobotics",
             "applicationLabel": "Microrobotics",
-            "supervision": "Dandan Zhang"
+            "supervision": "Dandan Zhang",
+            "id": "person-jialin-lin",
+            "background": [
+              "MSc in Robotics, University of Bristol · 2022",
+              "BEng in Mechanical Engineering, Dalian University of Technology · 2021"
+            ],
+            "researchApproach": "The project investigates how ultrasound observations can guide magnetic microrobots as control algorithms transfer from simulation to experiments. Related work examines reconfigurable electromagnetic actuation and modular millirobot locomotion.",
+            "selectedWorks": [
+              {
+                "publicationId": "paper-dexterousmag-a-reconfigurable-electromagnetic-actuation-system-for-miniature-helical-robot",
+                "title": "DexterousMag: A Reconfigurable Electromagnetic Actuation System for Miniature Helical Robot",
+                "year": "2026",
+                "type": "Preprint",
+                "venue": "arXiv:2603.14396",
+                "url": "https://arxiv.org/abs/2603.14396",
+                "links": []
+              },
+              {
+                "publicationId": "paper-design-and-control-of-modular-magnetic-millirobots-for-multimodal-locomotion-and-shape-reconfiguration",
+                "title": "Design and Control of Modular Magnetic Millirobots for Multimodal Locomotion and Shape Reconfiguration",
+                "year": "2026",
+                "type": "Conference Paper",
+                "venue": "IEEE ICRA 2026",
+                "url": "https://arxiv.org/abs/2602.19346",
+                "links": []
+              }
+            ]
           }
         },
         {
@@ -104,7 +203,7 @@
             "name": "Lan Wei",
             "role": "PhD researcher",
             "period": "2024–present",
-            "description": "Lan develops machine-learning methods for optical microrobot perception, including diffusion-based image generation and transfer between simulation and experiments. Her doctoral research also explores collaborative control. She received an ME in Computer Science from the University of Science and Technology of China in 2024 and a BE in Computer Science from Xiamen University in 2021.",
+            "description": "Lan develops machine-learning methods for optical microrobot perception, including diffusion-based image generation and transfer between simulation and experiments. Her doctoral research also explores collaborative control.",
             "avatar": "/assets/avatar_imgs/Lan_Wei.jpg",
             "links": [
               {
@@ -122,7 +221,47 @@
             ],
             "application": "/msei_website/research/microrobotics",
             "applicationLabel": "Microrobotics",
-            "supervision": "Dandan Zhang"
+            "supervision": "Dandan Zhang",
+            "id": "person-lan-wei",
+            "background": [
+              "ME in Computer Science, University of Science and Technology of China · 2024",
+              "BE in Computer Science, Xiamen University · 2021"
+            ],
+            "researchApproach": "Her research aims to recover depth and pose information from microscope images while reducing the gap between simulated and experimental data. Diffusion-based image generation and physics-informed estimation connect visual perception with microrobot control.",
+            "selectedWorks": [
+              {
+                "publicationId": "paper-dual-control-frequency-aware-diffusion-model-for-depth-dependent-optical-microrobot-microscopy-image-generation",
+                "title": "Dual-Control Frequency-Aware Diffusion Model for Depth-Dependent Optical Microrobot Microscopy Image Generation",
+                "year": "2026",
+                "type": "Preprint",
+                "venue": "arXiv:2604.11680",
+                "url": "https://arxiv.org/abs/2604.11680",
+                "links": []
+              },
+              {
+                "publicationId": "paper-physics-informed-machine-learning-with-adaptive-grids-for-optical-microrobot-depth-estimation",
+                "title": "Physics-Informed Machine Learning with Adaptive Grids for Optical Microrobot Depth Estimation",
+                "year": "2025",
+                "type": "Conference Paper",
+                "venue": "IEEE CBS 2025",
+                "url": "https://arxiv.org/abs/2509.02343",
+                "links": [
+                  {
+                    "label": "Code",
+                    "url": "https://github.com/LannWei/CBS2025"
+                  }
+                ]
+              },
+              {
+                "publicationId": "paper-tacverse-a-multisensor-dataset-and-benchmark-for-cross-sensor-vision-based-tactile-perception",
+                "title": "TacVerse: A Multisensor Dataset and Benchmark for Cross-Sensor Vision-Based Tactile Perception",
+                "year": "2026",
+                "type": "Journal Paper",
+                "venue": "Advanced Robotics Research, e70169",
+                "url": "https://doi.org/10.1002/adrr.70169",
+                "links": []
+              }
+            ]
           }
         },
         {
@@ -131,7 +270,7 @@
             "name": "Zongcai Tan",
             "role": "PhD researcher",
             "period": "2025–present",
-            "description": "Zongcai studies machine-learning methods for the design and control of optical microrobots. His doctoral project focuses on physics-informed control for biomedical research settings. He received an MRes in Medical Robotics and Image-Guided Intervention from Imperial in 2024 and a BE in Vehicle Engineering from Jilin University in 2022. His MRes project investigated human–robot shared control for optical manipulation with haptic guidance.",
+            "description": "Zongcai studies machine-learning methods for the design and control of optical microrobots. His doctoral project focuses on physics-informed control for biomedical research settings.",
             "avatar": "/assets/avatar_imgs/zongcai.jpeg",
             "affiliation": "Department of Bioengineering · Imperial College London",
             "research": "Physics-informed microrobot control",
@@ -143,7 +282,44 @@
             ],
             "application": "/msei_website/research/microrobotics",
             "applicationLabel": "Microrobotics",
-            "supervision": "Dandan Zhang"
+            "supervision": "Dandan Zhang",
+            "id": "person-zongcai-tan",
+            "background": [
+              "MRes in Medical Robotics and Image-Guided Intervention, Imperial College London · 2024",
+              "BE in Vehicle Engineering, Jilin University · 2022",
+              "MRes research on human–robot shared control for optical manipulation with haptic guidance"
+            ],
+            "researchApproach": "His work connects physics-informed learning with optical microrobot perception and control. It also explores virtual visuo-haptic interaction, using a digital twin to link operator guidance with complex-shaped optical microrobots.",
+            "selectedWorks": [
+              {
+                "publicationId": "paper-a-digital-twin-framework-for-virtual-visuo-haptic-teleoperation-of-complex-shaped-optical-microrobots",
+                "title": "A Digital Twin Framework for Virtual Visuo-Haptic Teleoperation of Complex-Shaped Optical Microrobots",
+                "year": "2026",
+                "type": "Preprint",
+                "venue": "arXiv:2605.28448",
+                "url": "https://arxiv.org/abs/2605.28448",
+                "links": [
+                  {
+                    "label": "Code",
+                    "url": "https://github.com/Zongcai23/ot-haptic-feedback-digital-twin/tree/main"
+                  }
+                ]
+              },
+              {
+                "publicationId": "paper-physics-informed-machine-learning-for-efficient-sim-to-real-data-augmentation-in-micro-object-pose-estimation",
+                "title": "Physics-Informed Machine Learning for Efficient Sim-to-Real Data Augmentation in Micro-Object Pose Estimation",
+                "year": "2026",
+                "type": "Conference Paper",
+                "venue": "IEEE ICRA 2026",
+                "url": "https://arxiv.org/abs/2511.16494",
+                "links": [
+                  {
+                    "label": "Code",
+                    "url": "https://github.com/Zongcai23/Micro_Object_Sim2Real"
+                  }
+                ]
+              }
+            ]
           }
         },
         {
@@ -152,7 +328,7 @@
             "name": "Kangyi Lu",
             "role": "PhD researcher",
             "period": "2025–present",
-            "description": "Kangyi investigates physics-informed AI for autonomous microrobots and dexterous manipulation in lab-on-a-chip environments. She also contributes to project supervision on shared control for magnetic microrobot navigation. She received an ME in Electronic Information from Shanghai Jiao Tong University in 2024 and a BE in Automation from Nanjing University of Aeronautics and Astronautics in 2021.",
+            "description": "Kangyi investigates physics-informed AI for autonomous microrobots and dexterous manipulation in lab-on-a-chip environments. She also contributes to project supervision on shared control for magnetic microrobot navigation.",
             "avatar": "/assets/avatar_imgs/kangyi-lu-2026.jpg",
             "affiliation": "Department of Bioengineering · Imperial College London",
             "research": "Autonomous microrobots and micromanipulation",
@@ -164,7 +340,33 @@
             ],
             "application": "/msei_website/research/microrobotics",
             "applicationLabel": "Microrobotics",
-            "supervision": "Dandan Zhang"
+            "supervision": "Dandan Zhang",
+            "id": "person-kangyi-lu",
+            "background": [
+              "ME in Electronic Information, Shanghai Jiao Tong University · 2024",
+              "BE in Automation, Nanjing University of Aeronautics and Astronautics · 2021"
+            ],
+            "researchApproach": "The project brings together physical models, microscopic perception and learned control for autonomous micromanipulation. Related work considers shared control and language-conditioned bimanual manipulation with magnetic microrobots.",
+            "selectedWorks": [
+              {
+                "publicationId": "paper-micro-dexterity-in-biological-micromanipulation-embodiment-perception-and-control",
+                "title": "Micro-Dexterity in Biological Micromanipulation: Embodiment, Perception, and Control",
+                "year": "2026",
+                "type": "Preprint",
+                "venue": "arXiv:2604.11640",
+                "url": "https://arxiv.org/abs/2604.11640",
+                "links": []
+              },
+              {
+                "publicationId": "paper-mag-vla-vision-language-action-model-for-bimanual-magnetically-actuated-microrobot-manipulation",
+                "title": "Mag-VLA: Vision-Language-Action Model for Bimanual Magnetically Actuated Microrobot Manipulation",
+                "year": "2026",
+                "type": "Preprint",
+                "venue": "arXiv:2605.28486",
+                "url": "https://arxiv.org/abs/2605.28486",
+                "links": []
+              }
+            ]
           }
         },
         {
@@ -176,7 +378,7 @@
             "affiliation": "Department of Bioengineering · Imperial College London",
             "research": "AI for healthcare and surgical context awareness",
             "project": "Multimodal large language models for surgical context awareness",
-            "description": "Piotr investigates how multimodal large language models can support surgical context awareness. His earlier MRes project explored sim-to-real transfer learning for robotic manipulation. He also supports research on uncertainty-aware surgical skill assessment.",
+            "description": "Piotr investigates how multimodal large language models can support surgical context awareness. His research also connects simulation, tactile perception and interpretable learning for robot-assisted palpation.",
             "topics": [
               "Surgical context awareness",
               "Multimodal learning",
@@ -185,7 +387,40 @@
             "avatar": "/assets/avatar_imgs/piotr-blaszyk-2026.jpg",
             "supervision": "Dandan Zhang",
             "application": "/msei_website/research/medical-robotics",
-            "applicationLabel": "Medical robotics"
+            "applicationLabel": "Medical robotics",
+            "id": "person-piotr-blaszyk",
+            "background": [
+              "Earlier MRes project on sim-to-real transfer learning for robotic manipulation",
+              "Contributes research support to uncertainty-aware surgical skill assessment"
+            ],
+            "researchApproach": "His doctoral project asks how visual and language information can help robotic systems interpret surgical tasks and context. Related open research uses a calibrated digital twin and graph-based learning to investigate shallow-vessel localisation from tactile palpation.",
+            "selectedWorks": [
+              {
+                "title": "Toward Trustworthy Robot-Assisted Sliding Palpation for Shallow Vessel Localisation with a Calibrated Digital Twin",
+                "year": "2026",
+                "type": "Preprint",
+                "venue": "arXiv:2608.29396",
+                "url": "https://arxiv.org/abs/2608.29396",
+                "authors": [
+                  "Piotr Blaszyk",
+                  "Wen Fan",
+                  "Kaizhong Deng",
+                  "Daniel Elson",
+                  "Dandan Zhang"
+                ],
+                "source": "https://arxiv.org/abs/2608.29396",
+                "links": [
+                  {
+                    "label": "Robot-control code",
+                    "url": "https://github.com/piotr-blaszyk/shallow-vessel-palpation-robot-control"
+                  },
+                  {
+                    "label": "Archived software",
+                    "url": "https://zenodo.org/records/21958190"
+                  }
+                ]
+              }
+            ]
           }
         },
         {
@@ -194,12 +429,20 @@
             "name": "Nitirak Rayabphand",
             "role": "Co-supervised PhD researcher",
             "period": "",
-            "description": "Nitirak studies magnetic microscale robotics for medical applications at the University of Bristol. He received a master’s degree in Robotics Engineering from Osaka University in 2022 and a BE in Mechatronic Engineering from King Mongkut’s University of Technology Thonburi in 2015.",
+            "description": "Nitirak studies magnetic microscale robotics for medical applications at the University of Bristol. His work spans magnetic swarm control and the fabrication of active microstructures.",
             "avatar": "/assets/avatar_imgs/Fern.jpeg",
             "links": [
               {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/nitirak-rayabphand-80611a216/"
+              },
+              {
+                "label": "Bristol profile",
+                "url": "https://research-information.bris.ac.uk/en/persons/nitirak-rayabphand/"
+              },
+              {
+                "label": "ORCID",
+                "url": "https://orcid.org/0000-0001-5251-2196"
               }
             ],
             "affiliation": "University of Bristol",
@@ -212,7 +455,33 @@
             ],
             "application": "/msei_website/research/microrobotics",
             "applicationLabel": "Microrobotics",
-            "supervision": "Sabine Hauert (main supervisor) and Dandan Zhang (co-supervisor)"
+            "supervision": "Sabine Hauert (main supervisor) and Dandan Zhang (co-supervisor)",
+            "id": "person-nitirak-rayabphand",
+            "background": [
+              "Master’s degree in Robotics Engineering, Osaka University · 2022",
+              "BE in Mechatronic Engineering, King Mongkut’s University of Technology Thonburi · 2015"
+            ],
+            "researchApproach": "His research explores fabrication and magnetic actuation as connected parts of microrobot design. The Magni-DOME work combines light-based fabrication and magnetic control to produce and study diverse active microstructures.",
+            "selectedWorks": [
+              {
+                "publicationId": "paper-rapid-parallel-fabrication-and-control-of-diverse-microrobotic-structures-with-magnetic-functionalization",
+                "title": "Rapid Parallel Fabrication and Control of Diverse Microrobotic Structures with Magnetic Functionalization",
+                "year": "2026",
+                "type": "Journal Paper",
+                "venue": "Artificial Life (online ahead of print)",
+                "url": "https://doi.org/10.1162/ARTL.a.489",
+                "links": []
+              },
+              {
+                "publicationId": "paper-magni-dome-an-open-platform-for-high-resolution-light-based-and-magnetic-contactless-fabrication-of-active-microstructures",
+                "title": "Magni-DOME: An Open Platform for High-Resolution Light-Based and Magnetic Contactless Fabrication of Active Microstructures",
+                "year": "2025",
+                "type": "Conference Paper",
+                "venue": "IEEE MARSS 2025",
+                "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11072766",
+                "links": []
+              }
+            ]
           }
         }
       ]
@@ -227,7 +496,7 @@
             "roleDetail": "Visiting Postdoctoral Research Associate",
             "affiliation": "Visiting from Shanghai Jiao Tong University",
             "research": "Robotic manipulation and navigation",
-            "description": "Qiming is a visiting postdoctoral researcher working on robotic manipulation and navigation. He contributes to project supervision on personalised robotic assistants and hierarchical language-model approaches to manipulation in cluttered environments.",
+            "description": "Qiming is a visiting postdoctoral researcher from Shanghai Jiao Tong University, with research interests in robot learning, manipulation and navigation. He contributes to project supervision on personalised robotic assistants and language-model approaches to manipulation.",
             "topics": [
               "Robot manipulation",
               "Navigation",
@@ -235,7 +504,19 @@
             ],
             "avatar": "/assets/avatar_imgs/qiming-liu-2026.jpg",
             "application": "/msei_website/research/dexterous-manipulation",
-            "applicationLabel": "Dexterous manipulation"
+            "applicationLabel": "Dexterous manipulation",
+            "id": "person-qiming-liu",
+            "background": [
+              "PhD, Shanghai Jiao Tong University",
+              "BEng, Shanghai Jiao Tong University"
+            ],
+            "researchApproach": "His project mentoring connects high-level language instructions with practical robot actions. Current projects explore how robotic assistants can account for user preferences and how hierarchical planning can support manipulation in cluttered environments.",
+            "links": [
+              {
+                "label": "SJTU research group",
+                "url": "https://irmv.sjtu.edu.cn/team/"
+              }
+            ]
           }
         }
       ]
@@ -262,6 +543,35 @@
             ],
             "support": [
               "Lan Wei"
+            ],
+            "id": "person-yongchen-wang",
+            "researchArea": "Magnetic microrobotics",
+            "projectContext": "The project investigates how a person and an automated controller can share control of magnetic microrobots. The aim is to combine operator intent with navigation assistance during delicate microscale manipulation.",
+            "topics": [
+              "Shared control",
+              "Magnetic navigation"
+            ],
+            "application": "/msei_website/research/microrobotics",
+            "applicationLabel": "Microrobotics",
+            "selectedWorks": [
+              {
+                "publicationId": "paper-context-aware-adaptive-shared-control-for-magnetically-driven-bimanual-dexterous-micromanipulation",
+                "title": "Context-Aware Adaptive Shared Control for Magnetically-Driven Bimanual Dexterous Micromanipulation",
+                "year": "2026",
+                "type": "Preprint",
+                "venue": "arXiv:2603.14388",
+                "url": "https://arxiv.org/abs/2603.14388",
+                "links": []
+              },
+              {
+                "publicationId": "paper-mag-vla-vision-language-action-model-for-bimanual-magnetically-actuated-microrobot-manipulation",
+                "title": "Mag-VLA: Vision-Language-Action Model for Bimanual Magnetically Actuated Microrobot Manipulation",
+                "year": "2026",
+                "type": "Preprint",
+                "venue": "arXiv:2605.28486",
+                "url": "https://arxiv.org/abs/2605.28486",
+                "links": []
+              }
             ]
           }
         },
@@ -280,7 +590,16 @@
             "support": [
               "Lan Wei",
               "Kangyi Lu"
-            ]
+            ],
+            "id": "person-yacui-zhao",
+            "researchArea": "Tactile robot learning",
+            "projectContext": "This project studies how touch feedback can refine a vision–language–action policy through reinforcement learning. It focuses on adapting a flow-based model to physical contact during manipulation.",
+            "topics": [
+              "Tactile feedback",
+              "Vision–language–action models"
+            ],
+            "application": "/msei_website/research/dexterous-manipulation",
+            "applicationLabel": "Dexterous manipulation"
           }
         },
         {
@@ -294,7 +613,16 @@
             "supervisors": [
               "Dandan Zhang",
               "Wen Fan"
-            ]
+            ],
+            "id": "person-xinyu-zheng",
+            "researchArea": "Learning from demonstration",
+            "projectContext": "The aim is to learn from demonstrations across real and simulated environments, then adapt the policy back to the physical robot. Combining multiple sensing modalities is intended to support more transferable manipulation skills.",
+            "topics": [
+              "Imitation learning",
+              "Real-to-sim-to-real transfer"
+            ],
+            "application": "/msei_website/research/dexterous-manipulation",
+            "applicationLabel": "Dexterous manipulation"
           }
         },
         {
@@ -308,7 +636,16 @@
             "supervisors": [
               "Dandan Zhang",
               "Wen Fan"
-            ]
+            ],
+            "id": "person-zhidan-she",
+            "researchArea": "Physical understanding through touch",
+            "projectContext": "This project explores how visual and language priors can be combined with touch to infer an object’s physical properties. It aims to build an object-centred representation that can be updated through interaction.",
+            "topics": [
+              "Object representations",
+              "Multimodal perception"
+            ],
+            "application": "/msei_website/research/dexterous-manipulation",
+            "applicationLabel": "Dexterous manipulation"
           }
         },
         {
@@ -322,7 +659,16 @@
             "supervisors": [
               "Dandan Zhang",
               "Lan Wei"
-            ]
+            ],
+            "id": "person-haotian-jiang",
+            "researchArea": "Multi-robot collaboration",
+            "projectContext": "The project explores how a multimodal language model can coordinate multiple robots while monitoring their progress. It asks how the team should correct its actions when observations diverge from the plan.",
+            "topics": [
+              "Multi-robot systems",
+              "Self-correction"
+            ],
+            "application": "/msei_website/research/dexterous-manipulation",
+            "applicationLabel": "Dexterous manipulation"
           }
         },
         {
@@ -336,7 +682,16 @@
             "supervisors": [
               "Dandan Zhang",
               "Lan Wei"
-            ]
+            ],
+            "id": "person-liang-wang",
+            "researchArea": "Multi-robot task allocation",
+            "projectContext": "This project examines how task descriptions and sensory information can be used to assign work across a robot team. It focuses on updating those assignments as the task or environment changes.",
+            "topics": [
+              "Multimodal language models",
+              "Dynamic task allocation"
+            ],
+            "application": "/msei_website/research/dexterous-manipulation",
+            "applicationLabel": "Dexterous manipulation"
           }
         },
         {
@@ -354,7 +709,16 @@
             ],
             "support": [
               "Piotr Blaszyk"
-            ]
+            ],
+            "id": "person-mu-xing",
+            "researchArea": "Trustworthy surgical AI",
+            "projectContext": "The project investigates multimodal models for assessing surgical skill while expressing uncertainty. Its aim is to make the model’s confidence and limitations visible alongside the assessment.",
+            "topics": [
+              "Surgical skill assessment",
+              "Uncertainty estimation"
+            ],
+            "application": "/msei_website/research/medical-robotics",
+            "applicationLabel": "Medical robotics"
           }
         },
         {
@@ -368,7 +732,16 @@
             "supervisors": [
               "Dandan Zhang",
               "Qingbiao Li"
-            ]
+            ],
+            "id": "person-zhouxuan-xia",
+            "researchArea": "Surgical scene understanding",
+            "projectContext": "The project connects surgical scene understanding with analysis of procedural skill and robot-assisted actions. It explores how multimodal information could support a shared representation of the task and its context.",
+            "topics": [
+              "Surgical robotics",
+              "Multimodal understanding"
+            ],
+            "application": "/msei_website/research/medical-robotics",
+            "applicationLabel": "Medical robotics"
           }
         },
         {
@@ -385,7 +758,16 @@
             ],
             "support": [
               "Lan Wei"
-            ]
+            ],
+            "id": "person-xinyuan-dou",
+            "researchArea": "Personalised robotic assistance",
+            "projectContext": "The project explores how a robotic assistant can interpret language requests while accounting for a person’s preferences. It examines the connection between personalised task understanding and executable robot actions.",
+            "topics": [
+              "Human–robot interaction",
+              "Language-guided robotics"
+            ],
+            "application": "/msei_website/research/dexterous-manipulation",
+            "applicationLabel": "Dexterous manipulation"
           }
         },
         {
@@ -400,7 +782,16 @@
               "Dandan Zhang",
               "Qiming Liu",
               "Wen Fan"
-            ]
+            ],
+            "id": "person-junlin-wu",
+            "researchArea": "Language-guided manipulation",
+            "projectContext": "The project studies a hierarchy of language-based reasoning and robot action for manipulating objects in clutter. It asks how a broad instruction can be broken into feasible steps and adjusted to the observed scene.",
+            "topics": [
+              "Hierarchical planning",
+              "Cluttered manipulation"
+            ],
+            "application": "/msei_website/research/dexterous-manipulation",
+            "applicationLabel": "Dexterous manipulation"
           }
         },
         {
@@ -417,7 +808,16 @@
             ],
             "support": [
               "Wen Fan"
-            ]
+            ],
+            "id": "person-gaus-sayyad",
+            "researchArea": "Wearable interfaces and bimanual control",
+            "projectContext": "This project explores wearable interfaces for coordinating two robot arms during assisted object manipulation. Combining interaction modalities is intended to make bimanual control more intuitive and responsive to the user.",
+            "topics": [
+              "Bimanual manipulation",
+              "Multimodal interfaces"
+            ],
+            "application": "/msei_website/research/dexterous-manipulation",
+            "applicationLabel": "Dexterous manipulation"
           }
         },
         {
@@ -434,7 +834,16 @@
             ],
             "support": [
               "Lan Wei"
-            ]
+            ],
+            "id": "person-sherlyn-ong",
+            "researchArea": "Personalised robotic assistance",
+            "projectContext": "This project investigates how large language models can support personalisation in a robotic assistant. It considers how the assistant can relate a user’s request and preferences to the actions available to the robot.",
+            "topics": [
+              "Personalisation",
+              "Language-guided robotics"
+            ],
+            "application": "/msei_website/research/dexterous-manipulation",
+            "applicationLabel": "Dexterous manipulation"
           }
         },
         {
@@ -448,7 +857,16 @@
             "supervisors": [
               "Dandan Zhang",
               "Lan Wei"
-            ]
+            ],
+            "id": "person-erin-sarlak",
+            "researchArea": "Multi-robot coordination",
+            "projectContext": "The project explores how multimodal large language models can help a team of robots divide and coordinate its work. Dynamic task allocation is studied as a way to respond to changing tasks and observations.",
+            "topics": [
+              "Robot collaboration",
+              "Dynamic task allocation"
+            ],
+            "application": "/msei_website/research/dexterous-manipulation",
+            "applicationLabel": "Dexterous manipulation"
           }
         },
         {
@@ -463,6 +881,13 @@
               "Dandan Zhang",
               "George Poulogiannis",
               "Theodoros Karalis"
+            ],
+            "id": "person-jonathan-wachsmuth",
+            "researchArea": "Machine learning for cancer metabolism",
+            "projectContext": "This project applies machine learning to questions about metabolism and cancer metastasis. The aim is to identify patterns that help investigate how metabolic processes relate to cancer spread.",
+            "topics": [
+              "Biomedical machine learning",
+              "Cancer metabolism"
             ]
           }
         },
@@ -477,7 +902,16 @@
             "supervisors": [
               "Dandan Zhang",
               "Wen Fan"
-            ]
+            ],
+            "id": "person-samuel-parsons",
+            "researchArea": "Tactile sensing and force reconstruction",
+            "projectContext": "The project studies how images from a tactile sensor can reveal three-dimensional contact deformation and distributed forces. It links sensor observations to a spatial description of physical interaction.",
+            "topics": [
+              "Vision-based touch",
+              "Force reconstruction"
+            ],
+            "application": "/msei_website/research/dexterous-manipulation",
+            "applicationLabel": "Dexterous manipulation"
           }
         },
         {
@@ -491,7 +925,16 @@
             "supervisors": [
               "Dandan Zhang",
               "Wen Fan"
-            ]
+            ],
+            "id": "person-jessica-mead",
+            "researchArea": "Tactile materials for medical palpation",
+            "projectContext": "This project examines how varying material properties within a tactile sensor affects its mechanical response. The application is medical palpation, with an emphasis on how sensor construction shapes contact measurements.",
+            "topics": [
+              "Functionally graded materials",
+              "Medical palpation"
+            ],
+            "application": "/msei_website/research/medical-robotics",
+            "applicationLabel": "Medical robotics"
           }
         },
         {
@@ -502,7 +945,16 @@
             "programmeGroup": "meng",
             "period": "2025–2026",
             "project": "Deep learning for microrobot depth and pose estimation",
-            "supervisors": []
+            "supervisors": [],
+            "id": "person-yulan-fei",
+            "researchArea": "Microrobot perception",
+            "projectContext": "The project explores deep-learning approaches for estimating a microrobot’s depth and pose from observations. The aim is to improve spatial perception for subsequent micromanipulation and control.",
+            "topics": [
+              "Depth estimation",
+              "Pose estimation"
+            ],
+            "application": "/msei_website/research/microrobotics",
+            "applicationLabel": "Microrobotics"
           }
         }
       ]
@@ -548,6 +1000,13 @@
           "Yunjia Li",
           "Aika Ono",
           "Leo Xu"
+        ],
+        "id": "project-synaptech",
+        "projectContext": "The project brings mechanical design, simulation, fabrication and control into one soft-gripper development process. The aim is to connect the gripper’s physical construction with how it deforms and interacts with objects.",
+        "topics": [
+          "Soft robotics",
+          "Design and fabrication",
+          "Gripper control"
         ]
       }
     ],
@@ -558,7 +1017,8 @@
           "data": {
             "name": "Zihao Tan (Harry Tan)",
             "role": "Intern",
-            "period": "2026 cohort"
+            "period": "2026 cohort",
+            "id": "person-zihao-tan-harry-tan"
           }
         },
         {
@@ -566,7 +1026,8 @@
           "data": {
             "name": "Li Feng Xuan",
             "role": "Intern",
-            "period": "2026 cohort"
+            "period": "2026 cohort",
+            "id": "person-li-feng-xuan"
           }
         }
       ]
@@ -579,7 +1040,7 @@
             "name": "Qingzheng Cong",
             "role": "Former research assistant",
             "period": "Joined in 2023",
-            "description": "Qingzheng worked on tactile perception, haptic feedback and soft robotic manipulation. He received an MSc in Biorobotics from the University of Bristol in 2023 and a BE in Mechanical Engineering from Durham University in 2022.",
+            "description": "Qingzheng contributed to tactile perception, haptic interaction and soft robotic manipulation during his time as a research assistant. His co-authored work includes multimodal sensing, tactile benchmarking and sensor-integrated grippers.",
             "avatar": "/assets/avatar_imgs/qingzheng.png",
             "links": [
               {
@@ -592,6 +1053,32 @@
               "Tactile perception",
               "Haptic feedback",
               "Soft robotic manipulation"
+            ],
+            "id": "person-qingzheng-cong",
+            "background": [
+              "MSc in Biorobotics, University of Bristol · 2023",
+              "BE in Mechanical Engineering, Durham University · 2022"
+            ],
+            "researchApproach": "His research connected tactile-sensor hardware with perception and manipulation. The selected work below spans cross-sensor tactile representations and multimodal sensing for contact-rich interaction.",
+            "selectedWorks": [
+              {
+                "publicationId": "paper-magicgripper-a-mini-magictac-integrated-gripper-enabling-multimodal-perception-in-contact-rich-manipulation",
+                "title": "MagicGripper: A Mini-MagicTac Integrated Gripper Enabling Multimodal Perception in Contact-Rich Manipulation",
+                "year": "2025",
+                "type": "Journal Paper",
+                "venue": "IEEE Transactions on Automation Science and Engineering 22, 24311–24332",
+                "url": "https://doi.org/10.1109/TASE.2025.3631485",
+                "links": []
+              },
+              {
+                "publicationId": "paper-tacverse-a-multisensor-dataset-and-benchmark-for-cross-sensor-vision-based-tactile-perception",
+                "title": "TacVerse: A Multisensor Dataset and Benchmark for Cross-Sensor Vision-Based Tactile Perception",
+                "year": "2026",
+                "type": "Journal Paper",
+                "venue": "Advanced Robotics Research, e70169",
+                "url": "https://doi.org/10.1002/adrr.70169",
+                "links": []
+              }
             ]
           }
         },
@@ -601,7 +1088,7 @@
             "name": "Ziyuan Dong",
             "role": "Former visiting PhD researcher",
             "period": "December 2024–December 2025",
-            "description": "During his visit from Zhejiang University of Technology, Ziyuan investigated data-driven control for tactile servoing in robot-assisted bed bathing. His research interests include data-driven and safety-critical control, robotics and fault diagnosis.",
+            "description": "Ziyuan visited from Zhejiang University of Technology from December 2024 to December 2025. His visit focused on data-driven control for tactile servoing in robot-assisted bed-bathing applications.",
             "avatar": "/assets/avatar_imgs/ziyuan.jpg",
             "affiliation": "Visited from Zhejiang University of Technology",
             "research": "Data-driven control for medical robotics",
@@ -610,7 +1097,16 @@
               "Data-driven control",
               "Tactile servoing",
               "Medical robotics"
-            ]
+            ],
+            "id": "person-ziyuan-dong",
+            "background": [
+              "Visiting PhD researcher from Zhejiang University of Technology · December 2024–December 2025",
+              "Research interests include data-driven and safety-critical control, robotics and fault diagnosis"
+            ],
+            "researchApproach": "The visit project investigated how tactile feedback can inform robot motion during physical assistance. It connected data-driven control with the need to regulate contact in a medical-robotics setting.",
+            "projectLabel": "Research during the visit",
+            "application": "/msei_website/research/medical-robotics",
+            "applicationLabel": "Medical robotics"
           }
         },
         {
@@ -619,7 +1115,29 @@
             "name": "Alexander Timms",
             "period": "2024–2025",
             "role": "MEng",
-            "project": "Micropipette tracking in multi-patch-clamp experiments using machine-learning techniques"
+            "project": "Micropipette tracking in multi-patch-clamp experiments using machine-learning techniques",
+            "id": "person-alexander-timms",
+            "researchArea": "Microscope perception and laboratory robotics",
+            "selectedWorks": [
+              {
+                "publicationId": "paper-coarse-to-fine-learning-for-multi-pipette-localisation-in-robot-assisted-in-vivo-patch-clamp",
+                "title": "Coarse-to-Fine Learning for Multi-Pipette Localisation in Robot-Assisted In Vivo Patch-Clamp",
+                "year": "2025",
+                "type": "Conference Paper",
+                "venue": "IEEE IROS 2025",
+                "url": "https://arxiv.org/pdf/2504.01044?",
+                "links": [
+                  {
+                    "label": "Code",
+                    "url": "https://github.com/LannWei/Patch-Clamp-Localisation"
+                  },
+                  {
+                    "label": "Project",
+                    "url": "https://lannwei.github.io/Patch-Clamp-Localisation/"
+                  }
+                ]
+              }
+            ]
           }
         },
         {
@@ -628,7 +1146,29 @@
             "name": "Denis Zahorovsky",
             "period": "2024–2025",
             "role": "MEng",
-            "project": "PipetteGAN, a pipeline for realistic DIC image generation"
+            "project": "PipetteGAN, a pipeline for realistic DIC image generation",
+            "id": "person-denis-zahorovsky",
+            "researchArea": "Synthetic microscopy and robot perception",
+            "selectedWorks": [
+              {
+                "publicationId": "paper-coarse-to-fine-learning-for-multi-pipette-localisation-in-robot-assisted-in-vivo-patch-clamp",
+                "title": "Coarse-to-Fine Learning for Multi-Pipette Localisation in Robot-Assisted In Vivo Patch-Clamp",
+                "year": "2025",
+                "type": "Conference Paper",
+                "venue": "IEEE IROS 2025",
+                "url": "https://arxiv.org/pdf/2504.01044?",
+                "links": [
+                  {
+                    "label": "Code",
+                    "url": "https://github.com/LannWei/Patch-Clamp-Localisation"
+                  },
+                  {
+                    "label": "Project",
+                    "url": "https://lannwei.github.io/Patch-Clamp-Localisation/"
+                  }
+                ]
+              }
+            ]
           }
         },
         {
@@ -637,7 +1177,9 @@
             "name": "Songming Ping",
             "period": "2024–2025",
             "role": "MRes",
-            "project": "SurgiMR, mixed-reality bimanual surgical training with depth-responsive force feedback"
+            "project": "SurgiMR, mixed-reality bimanual surgical training with depth-responsive force feedback",
+            "id": "person-songming-ping",
+            "researchArea": "Surgical training and haptic interaction"
           }
         },
         {
@@ -646,7 +1188,9 @@
             "name": "Qi Chen",
             "period": "2024–2025",
             "role": "MRes",
-            "project": "From scan to grasp, modular visual servoing through segmentation and feature matching"
+            "project": "From scan to grasp, modular visual servoing through segmentation and feature matching",
+            "id": "person-qi-chen",
+            "researchArea": "Visual servoing and robotic grasping"
           }
         },
         {
@@ -654,7 +1198,8 @@
           "data": {
             "name": "Chengmeng Bi",
             "period": "2024–2025",
-            "role": "MRes"
+            "role": "MRes",
+            "id": "person-chengmeng-bi"
           }
         },
         {
@@ -663,7 +1208,20 @@
             "name": "Sirine Bhouri",
             "period": "2024–2025",
             "role": "MSc",
-            "project": "Generative-AI-driven synthetic tactile data generation"
+            "project": "Generative-AI-driven synthetic tactile data generation",
+            "id": "person-sirine-bhouri",
+            "researchArea": "Generative models for tactile perception",
+            "selectedWorks": [
+              {
+                "publicationId": "paper-tacverse-a-multisensor-dataset-and-benchmark-for-cross-sensor-vision-based-tactile-perception",
+                "title": "TacVerse: A Multisensor Dataset and Benchmark for Cross-Sensor Vision-Based Tactile Perception",
+                "year": "2026",
+                "type": "Journal Paper",
+                "venue": "Advanced Robotics Research, e70169",
+                "url": "https://doi.org/10.1002/adrr.70169",
+                "links": []
+              }
+            ]
           }
         },
         {
@@ -672,7 +1230,9 @@
             "name": "Felix Verstraete",
             "period": "2024–2025",
             "role": "MSc",
-            "project": "Enhancing robotic manipulation through multimodal perception and language models"
+            "project": "Enhancing robotic manipulation through multimodal perception and language models",
+            "id": "person-felix-verstraete",
+            "researchArea": "Multimodal learning for manipulation"
           }
         },
         {
@@ -681,7 +1241,9 @@
             "name": "Mohammed Abusadeh",
             "period": "2024–2025",
             "role": "MSc",
-            "project": "Language-model-assisted software design for a vision-based tactile sensor"
+            "project": "Language-model-assisted software design for a vision-based tactile sensor",
+            "id": "person-mohammed-abusadeh",
+            "researchArea": "Software for vision-based tactile sensing"
           }
         },
         {
@@ -690,7 +1252,9 @@
             "name": "Ziye Chen",
             "period": "2024–2025",
             "role": "MSc",
-            "project": "Soft pneumatic haptic feedback and EMG decoding for semi-autonomous prosthetic-hand control"
+            "project": "Soft pneumatic haptic feedback and EMG decoding for semi-autonomous prosthetic-hand control",
+            "id": "person-ziye-chen",
+            "researchArea": "Haptic feedback and assistive robotics"
           }
         },
         {
@@ -699,7 +1263,20 @@
             "name": "Wenhao Hong",
             "period": "2024–2025",
             "role": "MSc",
-            "project": "Large-language-model-based robotic-arm control for homecare applications"
+            "project": "Large-language-model-based robotic-arm control for homecare applications",
+            "id": "person-wenhao-hong",
+            "researchArea": "Language-guided homecare robotics",
+            "selectedWorks": [
+              {
+                "publicationId": "paper-tacverse-a-multisensor-dataset-and-benchmark-for-cross-sensor-vision-based-tactile-perception",
+                "title": "TacVerse: A Multisensor Dataset and Benchmark for Cross-Sensor Vision-Based Tactile Perception",
+                "year": "2026",
+                "type": "Journal Paper",
+                "venue": "Advanced Robotics Research, e70169",
+                "url": "https://doi.org/10.1002/adrr.70169",
+                "links": []
+              }
+            ]
           }
         },
         {
@@ -708,7 +1285,20 @@
             "name": "Gurmeher Khurana",
             "period": "2024–2025",
             "role": "MSc",
-            "project": "Multimodal representation learning for dexterous robotic manipulation"
+            "project": "Multimodal representation learning for dexterous robotic manipulation",
+            "id": "person-gurmeher-khurana",
+            "researchArea": "Multimodal representations for manipulation",
+            "selectedWorks": [
+              {
+                "publicationId": "paper-tacverse-a-multisensor-dataset-and-benchmark-for-cross-sensor-vision-based-tactile-perception",
+                "title": "TacVerse: A Multisensor Dataset and Benchmark for Cross-Sensor Vision-Based Tactile Perception",
+                "year": "2026",
+                "type": "Journal Paper",
+                "venue": "Advanced Robotics Research, e70169",
+                "url": "https://doi.org/10.1002/adrr.70169",
+                "links": []
+              }
+            ]
           }
         },
         {
@@ -717,7 +1307,9 @@
             "name": "Virginia Greco",
             "period": "2024–2025",
             "role": "MSc",
-            "project": "Graph-neural-network-based robotic tactile palpation for tumour detection"
+            "project": "Graph-neural-network-based robotic tactile palpation for tumour detection",
+            "id": "person-virginia-greco",
+            "researchArea": "Tactile learning for medical palpation"
           }
         },
         {
@@ -726,7 +1318,9 @@
             "name": "Yuexin Yao",
             "period": "2024–2025",
             "role": "MSc",
-            "project": "Machine-learning-based tactile perception in simulation for tumour detection"
+            "project": "Machine-learning-based tactile perception in simulation for tumour detection",
+            "id": "person-yuexin-yao",
+            "researchArea": "Simulated tactile perception for palpation"
           }
         },
         {
@@ -735,7 +1329,9 @@
             "name": "Junjie Shen",
             "period": "2024–2025",
             "role": "MSc",
-            "project": "Tactile–text multimodal learning using language models"
+            "project": "Tactile–text multimodal learning using language models",
+            "id": "person-junjie-shen",
+            "researchArea": "Tactile and language representations"
           }
         },
         {
@@ -744,7 +1340,9 @@
             "name": "Mengtong Xie",
             "period": "2024–2025",
             "role": "MSc",
-            "project": "Sequential graph attention networks for interpretable tactile object recognition"
+            "project": "Sequential graph attention networks for interpretable tactile object recognition",
+            "id": "person-mengtong-xie",
+            "researchArea": "Graph learning for tactile recognition"
           }
         },
         {
@@ -753,7 +1351,9 @@
             "name": "Haowei Gao",
             "period": "2024–2025",
             "role": "MSc",
-            "project": "Interactive web-based tactile–text–vision multimodal reasoning"
+            "project": "Interactive web-based tactile–text–vision multimodal reasoning",
+            "id": "person-haowei-gao",
+            "researchArea": "Interactive multimodal reasoning"
           }
         },
         {
@@ -762,7 +1362,9 @@
             "name": "Linrui Du",
             "period": "2024–2025",
             "role": "MSc",
-            "project": "Voronoi graph neural networks for multi-tactile perception tasks"
+            "project": "Voronoi graph neural networks for multi-tactile perception tasks",
+            "id": "person-linrui-du",
+            "researchArea": "Graph-based tactile perception"
           }
         },
         {
@@ -771,7 +1373,9 @@
             "name": "Lyson Ober",
             "period": "2024–2025",
             "role": "MSc",
-            "project": "Agentic AI systems for intelligent business decision-making"
+            "project": "Agentic AI systems for intelligent business decision-making",
+            "id": "person-lyson-ober",
+            "researchArea": "Agentic AI and decision support"
           }
         },
         {
@@ -780,7 +1384,25 @@
             "name": "Yudong Mao",
             "period": "2023–2024",
             "role": "MSc",
-            "project": "Digital-twin-driven immersive bimanual microsurgical operation with adaptive shared control"
+            "project": "Digital-twin-driven immersive bimanual microsurgical operation with adaptive shared control",
+            "id": "person-yudong-mao",
+            "researchArea": "Shared control and immersive micromanipulation",
+            "selectedWorks": [
+              {
+                "publicationId": "paper-deep-reinforcement-learning-based-semi-autonomous-control-for-magnetic-micro-robot-navigation-with-immersive-manipulation",
+                "title": "Deep Reinforcement Learning-Based Semi-Autonomous Control for Magnetic Micro-robot Navigation with Immersive Manipulation",
+                "year": "2025",
+                "type": "Conference Paper",
+                "venue": "IEEE ICRA 2025",
+                "url": "https://arxiv.org/pdf/2503.06359",
+                "links": [
+                  {
+                    "label": "Code",
+                    "url": "https://github.com/dianzdd123/DRL-MR-Microrobot"
+                  }
+                ]
+              }
+            ]
           }
         },
         {
@@ -789,7 +1411,9 @@
             "name": "Zhenyang Tao",
             "period": "2023–2024",
             "role": "MSc",
-            "project": "Machine-learning-based pose estimation of microrobots for biomedical applications"
+            "project": "Machine-learning-based pose estimation of microrobots for biomedical applications",
+            "id": "person-zhenyang-tao",
+            "researchArea": "Microrobot pose estimation"
           }
         },
         {
@@ -798,7 +1422,9 @@
             "name": "Louis Flinn",
             "period": "2023–2024",
             "role": "MSc",
-            "project": "Human-in-the-loop autonomy for contact-rich manipulation with tactile feedback"
+            "project": "Human-in-the-loop autonomy for contact-rich manipulation with tactile feedback",
+            "id": "person-louis-flinn",
+            "researchArea": "Human-guided contact-rich manipulation"
           }
         },
         {
@@ -807,7 +1433,9 @@
             "name": "Zain Hasan",
             "period": "2023–2024",
             "role": "MSc",
-            "project": "Electromagnetic actuation for a dexterous surgical gripper"
+            "project": "Electromagnetic actuation for a dexterous surgical gripper",
+            "id": "person-zain-hasan",
+            "researchArea": "Magnetic actuation for surgical robotics"
           }
         },
         {
@@ -816,7 +1444,9 @@
             "name": "Julian Ing",
             "period": "2023–2024",
             "role": "MSc",
-            "project": "Bi-thumb robotic hand with integrated visual–tactile sensing for dexterous manipulation"
+            "project": "Bi-thumb robotic hand with integrated visual–tactile sensing for dexterous manipulation",
+            "id": "person-julian-ing",
+            "researchArea": "Dexterous hands and visual–tactile sensing"
           }
         },
         {
@@ -825,7 +1455,9 @@
             "name": "D. Jaya Kumar Sivaraman",
             "period": "2023–2024",
             "role": "MSc",
-            "project": "Deep reinforcement learning for contact-rich tasks with multimodal sensor fusion"
+            "project": "Deep reinforcement learning for contact-rich tasks with multimodal sensor fusion",
+            "id": "person-d-jaya-kumar-sivaraman",
+            "researchArea": "Multimodal reinforcement learning"
           }
         }
       ]
