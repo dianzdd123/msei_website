@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Publications",
     "description": "Selected publications grouped by sensing and physical-state inference, transferable and data-efficient skill learning, adaptive control and shared autonomy, and embodiment and actuation design. Journal and conference papers appear alongside clearly labelled preprints.",
-    "lastUpdated": "2026-11-01"
+    "lastUpdated": "2026-11-02"
   },
   "sections": [
     {
@@ -69,8 +69,20 @@
           "url": "https://arxiv.org/abs/2605.28448"
         },
         {
-          "type": "Code",
-          "url": "https://github.com/Zongcai23/ot-haptic-feedback-digital-twin/tree/main"
+          "type": "GitHub",
+          "url": "https://github.com/Zongcai23/ot-haptic-feedback-digital-twin",
+          "label": "GitHub",
+          "description": "Optical microrobot haptic feedback and digital twin code.",
+          "sourceUrl": "https://github.com/Zongcai23/ot-haptic-feedback-digital-twin/blob/main/README.md",
+          "verifiedAt": "2026-11-02"
+        },
+        {
+          "type": "Video",
+          "url": "https://drive.google.com/file/d/1mpAjNmRjuYFRDYTJD2euEBR9yDKwae_z/view?usp=sharing",
+          "label": "Video",
+          "description": "Author-linked demonstration video on Google Drive.",
+          "sourceUrl": "https://github.com/Zongcai23/ot-haptic-feedback-digital-twin/blob/main/README.md",
+          "verifiedAt": "2026-11-02"
         }
       ],
       "body": "",
@@ -152,7 +164,10 @@
         },
         {
           "type": "Project",
-          "url": "https://nuounuou.github.io/Embodied-Cross-Domain-Intelligence-in-Biomedical-Microrobots-A-Review/"
+          "url": "https://nuounuou.github.io/Embodied-Cross-Domain-Intelligence-in-Biomedical-Microrobots-A-Review/",
+          "label": "Project",
+          "sourceUrl": "https://nuounuou.github.io/Embodied-Cross-Domain-Intelligence-in-Biomedical-Microrobots-A-Review/",
+          "verifiedAt": "2026-11-02"
         }
       ],
       "body": "",
@@ -277,8 +292,12 @@
           "url": "https://arxiv.org/abs/2511.16494"
         },
         {
-          "type": "Code",
-          "url": "https://github.com/Zongcai23/Micro_Object_Sim2Real"
+          "type": "GitHub",
+          "url": "https://github.com/Zongcai23/Micro_Object_Sim2Real",
+          "label": "GitHub",
+          "description": "Physics-informed rendering, sim-to-real augmentation and pose-estimation code.",
+          "sourceUrl": "https://github.com/Zongcai23/Micro_Object_Sim2Real/blob/main/README.md",
+          "verifiedAt": "2026-11-02"
         }
       ],
       "body": "",
@@ -394,6 +413,38 @@
         {
           "type": "DOI",
           "url": "https://doi.org/10.1038/s44172-026-00770-w"
+        },
+        {
+          "type": "Video",
+          "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs44172-026-00770-w/MediaObjects/44172_2026_770_MOESM3_ESM.mp4",
+          "label": "Video 1",
+          "description": "Publisher supplementary movie S1 (MP4).",
+          "sourceUrl": "https://www.nature.com/articles/s44172-026-00770-w#MOESM3",
+          "verifiedAt": "2026-11-02"
+        },
+        {
+          "type": "Video",
+          "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs44172-026-00770-w/MediaObjects/44172_2026_770_MOESM4_ESM.mp4",
+          "label": "Video 2",
+          "description": "Publisher supplementary movie S2 (MP4).",
+          "sourceUrl": "https://www.nature.com/articles/s44172-026-00770-w#MOESM4",
+          "verifiedAt": "2026-11-02"
+        },
+        {
+          "type": "Video",
+          "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs44172-026-00770-w/MediaObjects/44172_2026_770_MOESM5_ESM.mp4",
+          "label": "Video 3",
+          "description": "Publisher supplementary movie S3 (MP4).",
+          "sourceUrl": "https://www.nature.com/articles/s44172-026-00770-w#MOESM5",
+          "verifiedAt": "2026-11-02"
+        },
+        {
+          "type": "Supplement",
+          "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs44172-026-00770-w/MediaObjects/44172_2026_770_MOESM1_ESM.pdf",
+          "label": "Supplement",
+          "description": "Publisher supplementary materials (PDF).",
+          "sourceUrl": "https://www.nature.com/articles/s44172-026-00770-w#MOESM1",
+          "verifiedAt": "2026-11-02"
         }
       ],
       "body": "",
@@ -441,6 +492,30 @@
         {
           "type": "DOI",
           "url": "https://doi.org/10.1002/adrr.70169"
+        },
+        {
+          "type": "GitHub",
+          "url": "https://github.com/LannWei/Tactile_Database",
+          "label": "GitHub",
+          "description": "TacVerse benchmark training and evaluation code.",
+          "sourceUrl": "https://lannwei.github.io/Tactile_Database/",
+          "verifiedAt": "2026-11-02"
+        },
+        {
+          "type": "Dataset",
+          "url": "https://huggingface.co/datasets/Lan-2025/Tactile",
+          "label": "Dataset",
+          "description": "TacVerse tactile images and annotations. Hugging Face login and acceptance of the dataset's access conditions are required to access files.",
+          "accessNote": "Hugging Face login and acceptance of access conditions are required; the public landing page is accessible.",
+          "sourceUrl": "https://lannwei.github.io/Tactile_Database/",
+          "verifiedAt": "2026-11-02"
+        },
+        {
+          "type": "Project",
+          "url": "https://lannwei.github.io/Tactile_Database/",
+          "label": "Project",
+          "sourceUrl": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adrr.70169",
+          "verifiedAt": "2026-11-02"
         }
       ],
       "body": "",
@@ -518,8 +593,12 @@
           "url": "https://arxiv.org/abs/2602.21622"
         },
         {
-          "type": "Code",
-          "url": "https://github.com/dianzdd123/ADM_DP"
+          "type": "GitHub",
+          "url": "https://github.com/dianzdd123/ADM_DP",
+          "label": "GitHub",
+          "description": "ADM-DP vision, tactile and graph diffusion-policy code.",
+          "sourceUrl": "https://github.com/dianzdd123/ADM_DP/blob/main/README.md",
+          "verifiedAt": "2026-11-02"
         }
       ],
       "body": "",
@@ -598,8 +677,10 @@
           "url": "https://arxiv.org/abs/2509.02343"
         },
         {
-          "type": "Code",
-          "url": "https://github.com/LannWei/CBS2025"
+          "type": "GitHub",
+          "url": "https://github.com/LannWei/CBS2025",
+          "sourceUrl": "https://github.com/LannWei/CBS2025",
+          "verifiedAt": "2026-11-02"
         }
       ],
       "body": "",
@@ -644,12 +725,22 @@
           "url": "https://arxiv.org/pdf/2504.01044?"
         },
         {
-          "type": "Code",
-          "url": "https://github.com/LannWei/Patch-Clamp-Localisation"
+          "type": "GitHub",
+          "url": "https://github.com/LannWei/Patch-Clamp-Localisation",
+          "sourceUrl": "https://raw.githubusercontent.com/LannWei/Patch-Clamp-Localisation/main/README.md",
+          "verifiedAt": "2026-11-02"
         },
         {
           "type": "Project",
-          "url": "https://lannwei.github.io/Patch-Clamp-Localisation/"
+          "url": "https://lannwei.github.io/Patch-Clamp-Localisation/",
+          "sourceUrl": "https://raw.githubusercontent.com/LannWei/Patch-Clamp-Localisation/main/index.html",
+          "verifiedAt": "2026-11-02"
+        },
+        {
+          "type": "Dataset",
+          "url": "https://huggingface.co/datasets/Lan-2025/Pipette/tree/main",
+          "sourceUrl": "https://raw.githubusercontent.com/LannWei/Patch-Clamp-Localisation/main/Data",
+          "verifiedAt": "2026-11-02"
         }
       ],
       "videoId": "tCrBOllIMAo",
@@ -668,6 +759,11 @@
         "kind": "project",
         "width": 1500,
         "height": 788
+      },
+      "videoSource": {
+        "url": "https://www.youtube.com/watch?v=tCrBOllIMAo",
+        "sourceUrl": "https://raw.githubusercontent.com/LannWei/Patch-Clamp-Localisation/main/index.html",
+        "verifiedAt": "2026-11-02"
       }
     },
     {
@@ -689,12 +785,22 @@
           "url": "https://arxiv.org/pdf/2505.18303"
         },
         {
-          "type": "Code",
-          "url": "https://github.com/LannWei/Optical-Microrobot-Database"
+          "type": "GitHub",
+          "url": "https://github.com/LannWei/Optical-Microrobot-Database",
+          "sourceUrl": "https://lannwei.github.io/Optical-Microrobot-Database/",
+          "verifiedAt": "2026-11-02"
         },
         {
           "type": "Project",
-          "url": "https://lannwei.github.io/Optical-Microrobot-Database/"
+          "url": "https://lannwei.github.io/Optical-Microrobot-Database/",
+          "sourceUrl": "https://lannwei.github.io/Optical-Microrobot-Database/",
+          "verifiedAt": "2026-11-02"
+        },
+        {
+          "type": "Dataset",
+          "url": "https://huggingface.co/datasets/Lan-2025/OpticalMicrorobot/tree/main",
+          "sourceUrl": "https://lannwei.github.io/Optical-Microrobot-Database/",
+          "verifiedAt": "2026-11-02"
         }
       ],
       "body": "",
@@ -772,8 +878,16 @@
           "url": "https://arxiv.org/pdf/2505.20751?"
         },
         {
-          "type": "Code",
-          "url": "https://github.com/dianzdd123/ICRA2025-OT-Gym"
+          "type": "GitHub",
+          "url": "https://github.com/dianzdd123/ICRA2025-OT-Gym",
+          "sourceUrl": "https://raw.githubusercontent.com/dianzdd123/ICRA2025-OT-Gym/main/README.md",
+          "verifiedAt": "2026-11-02"
+        },
+        {
+          "type": "Project",
+          "url": "https://sites.google.com/view/otgym",
+          "sourceUrl": "https://raw.githubusercontent.com/dianzdd123/ICRA2025-OT-Gym/main/README.md",
+          "verifiedAt": "2026-11-02"
         }
       ],
       "videoId": "D3-lGa7MC3g",
@@ -792,6 +906,11 @@
         "kind": "project",
         "width": 1500,
         "height": 898
+      },
+      "videoSource": {
+        "url": "https://www.youtube.com/watch?v=D3-lGa7MC3g",
+        "sourceUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=D3-lGa7MC3g&format=json",
+        "verifiedAt": "2026-11-02"
       }
     },
     {
@@ -813,8 +932,10 @@
           "url": "https://arxiv.org/pdf/2503.06359"
         },
         {
-          "type": "Code",
-          "url": "https://github.com/dianzdd123/DRL-MR-Microrobot"
+          "type": "GitHub",
+          "url": "https://github.com/dianzdd123/DRL-MR-Microrobot",
+          "sourceUrl": "https://raw.githubusercontent.com/dianzdd123/DRL-MR-Microrobot/main/README.md",
+          "verifiedAt": "2026-11-02"
         }
       ],
       "videoId": "7-6FxLEkC_8",
@@ -833,6 +954,11 @@
         "kind": "paper",
         "width": 1500,
         "height": 872
+      },
+      "videoSource": {
+        "url": "https://www.youtube.com/watch?v=7-6FxLEkC_8",
+        "sourceUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=7-6FxLEkC_8&format=json",
+        "verifiedAt": "2026-11-02"
       }
     },
     {
@@ -859,6 +985,12 @@
         {
           "type": "DOI",
           "url": "https://doi.org/10.1109/TRO.2025.3526296"
+        },
+        {
+          "type": "Video",
+          "url": "https://www.youtube.com/watch?v=WI9QrSFpnB8",
+          "sourceUrl": "https://lepora.com/papers/",
+          "verifiedAt": "2026-11-02"
         }
       ],
       "body": "",
@@ -934,6 +1066,13 @@
         {
           "type": "PDF",
           "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10801954"
+        },
+        {
+          "type": "Project",
+          "url": "https://www.intelligentrobotics-acrossscales.com/interaction",
+          "sourceUrl": "https://www.intelligentrobotics-acrossscales.com/interaction",
+          "verifiedAt": "2026-11-02",
+          "label": "Research page"
         }
       ],
       "body": "",
@@ -1174,6 +1313,25 @@
         {
           "type": "DOI",
           "url": "https://doi.org/10.1109/LRA.2023.3295991"
+        },
+        {
+          "type": "GitHub",
+          "url": "https://github.com/yijionglin/tactile_gym/tree/Bi-Touch",
+          "sourceUrl": "https://sites.google.com/view/bi-touch/",
+          "verifiedAt": "2026-11-02"
+        },
+        {
+          "type": "Video",
+          "url": "https://www.youtube.com/watch?v=SUtK6468p1Y",
+          "label": "Video · bi-pushing",
+          "sourceUrl": "https://sites.google.com/view/bi-touch/",
+          "verifiedAt": "2026-11-02"
+        },
+        {
+          "type": "Project",
+          "url": "https://sites.google.com/view/bi-touch/",
+          "sourceUrl": "https://arxiv.org/abs/2307.06423",
+          "verifiedAt": "2026-11-02"
         }
       ],
       "body": "",
@@ -1223,6 +1381,12 @@
         {
           "type": "DOI",
           "url": "https://doi.org/10.1109/LRA.2023.3325784"
+        },
+        {
+          "type": "Project",
+          "url": "https://sites.google.com/view/hbts-brl/home",
+          "sourceUrl": "https://sites.google.com/view/hbts-brl/home",
+          "verifiedAt": "2026-11-02"
         }
       ],
       "body": "",
@@ -1481,6 +1645,13 @@
         {
           "type": "PDF",
           "url": "https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/adom.202000543"
+        },
+        {
+          "type": "Video",
+          "url": "https://advanced.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.202000543&file=smll202003375-sup-0001-VideoS1-S19.mp4",
+          "label": "Supplementary video",
+          "sourceUrl": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adom.202000543",
+          "verifiedAt": "2026-11-02"
         }
       ],
       "body": "",
@@ -1524,6 +1695,15 @@
         {
           "type": "PDF",
           "url": "https://core.ac.uk/download/pdf/424619168.pdf"
+        },
+        {
+          "type": "Supplement",
+          "url": "https://pubs.acs.org/doi/10.1021/acsphotonics.0c00997",
+          "label": "Video supplement",
+          "description": "Video S1 (AVI) is available in the publisher's Supporting Information.",
+          "sourceUrl": "https://pubs.acs.org/apchd5/article/7/11/3003/1382890/Data-Driven-Microscopic-Pose-and-Depth-Estimation",
+          "verifiedAt": "2026-11-02",
+          "mediaType": "video"
         }
       ],
       "body": "",
@@ -1703,7 +1883,7 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-01",
+  "lastUpdated": "2026-11-02",
   "themes": [
     {
       "id": "sensing",
