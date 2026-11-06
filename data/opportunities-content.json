@@ -1,8 +1,8 @@
 {
   "metadata": {
     "title": "Research opportunities and application guidance",
-    "description": "Explore PhD and MRes routes, research fit, preparation and official Imperial admissions guidance.",
-    "lastUpdated": "2026-11-01",
+    "description": "Explore PhD and MRes routes, 2027–28 scholarships, application deadlines and research opportunities with Dandan Zhang at Imperial.",
+    "lastUpdated": "2026-11-06",
     "officialInformationChecked": "1 November 2026"
   },
   "intro": {
@@ -137,7 +137,9 @@
           "items": [
             "Include your intended start period and funding routes you are considering in the enquiry.",
             "Contact referees early and follow the formal instructions for their submission.",
-            "Check the programme, scholarship and document deadlines separately."
+            "Check the programme, scholarship and document deadlines separately.",
+            "For scholarship consideration, explain why the proposed project, MSEI Lab and Imperial fit your research and career plans. Give an honest account of your interest and intended start period.",
+            "Tell Dandan about any other offer-response deadlines that affect your decision or availability, so nomination and funding discussions can be planned."
           ]
         }
       ],
@@ -164,7 +166,7 @@
         "label": "Official Bioengineering application process",
         "url": "https://www.imperial.ac.uk/bioengineering/study/postgraduate-research/doctoral/apply/"
       },
-      "fundingIntro": "Funding can come through an advertised project studentship, an Imperial scholarship or an eligible external sponsor. Ask about a specific route and its coverage before treating it as available for a proposed project.",
+      "fundingIntro": "For 2027–28 entry, Bioengineering will shortlist candidates for the President’s PhD Scholarships and has four home EPSRC scholarships across the department. Discuss research fit, supervision availability and the funding route with Dandan before applying. These are competitive departmental opportunities, not four places reserved for the lab.",
       "fundingCards": [
         {
           "title": "Project studentships",
@@ -183,6 +185,14 @@
           }
         },
         {
+          "title": "Four home EPSRC scholarships",
+          "text": "Bioengineering has four scholarships for applicants with home fee status for 2027–28 entry. Ask Dandan about eligibility, project availability, funding coverage and the applicable selection process. The President’s timetable below should not be assumed to apply to EPSRC awards.",
+          "link": {
+            "label": "Discuss EPSRC eligibility and availability",
+            "url": "mailto:d.zhang17@imperial.ac.uk?subject=EPSRC%20PhD%20enquiry%20%E2%80%94%202027-28"
+          }
+        },
+        {
           "title": "External and other scholarships",
           "text": "Use Imperial’s funding information to find eligible schemes, then discuss project fit and any host or supervisor documents before the sponsor’s deadline.",
           "link": {
@@ -192,8 +202,8 @@
         }
       ],
       "dates": {
-        "title": "President’s PhD Scholarships · 2027–28 cycle",
-        "intro": "Published application deadlines, checked on 1 November 2026. All close at 23:59 UK time. Departmental preparation or nomination arrangements may require earlier discussion.",
+        "title": "President’s PhD Scholarships · applicant deadlines · 2027–28",
+        "intro": "Applicant deadlines close at 23:59 UK time. The Round 1 supervisor nomination deadline has been extended to 13 November 2026; the applicant deadline remains 2 November 2026. The full Bioengineering timetable and nomination guidance appear in the scholarship section above.",
         "rows": [
           {
             "label": "Round 1",
@@ -232,8 +242,20 @@
         }
       ],
       "enquirySubject": "PhD enquiry — [research area] — [intended start]",
-      "enquiryTemplate": "Dear Dr Zhang,\n\nI am interested in PhD research in [specific area], with a possible start in [period]. I am currently [degree/role and institution].\n\nAfter reading [relevant paper or project], I would like to investigate [focused question] because [motivation]. My relevant experience is [brief example and your contribution].\n\nI have attached my CV and included [report/code/portfolio link]. I am considering [funding route, or seeking advice on possible routes]. Would this direction be a potential fit for your group?\n\nBest wishes,\n[Name]",
+      "enquiryTemplate": "Dear Dr Zhang,\n\nI am interested in PhD research in [specific area], with a possible start in [period]. I am currently [degree/role and institution].\n\nAfter reading [relevant paper or project], I would like to investigate [focused question] because [motivation]. My relevant experience is [brief example and your contribution].\n\nI have attached my CV and included [report/code/portfolio link]. I am considering [funding route, or seeking advice on possible routes]. Imperial and this project appeal to me because [specific reasons]. My relevant application or offer-response deadlines are [dates, if applicable]. Would this direction be a potential fit for your group?\n\nBest wishes,\n[Name]",
       "faqs": [
+        {
+          "question": "Does the 13 November extension let me submit a new Round 1 application?",
+          "answer": "The extension is for supervisor nominations only. The Round 1 applicant deadline remains 2 November 2026. If you submitted by that deadline, discuss nomination with Dandan promptly. The later applicant deadlines are 11 January 2027 and 1 March 2027."
+        },
+        {
+          "question": "Should applicants complete the departmental nomination form?",
+          "answer": "No. The Microsoft form is for supervisor nominations. Applicants submit their formal PhD application through Imperial’s admissions system and discuss the scholarship with their proposed supervisor."
+        },
+        {
+          "question": "Can overseas applicants be considered for the President’s scholarship?",
+          "answer": "Discuss eligibility and funding with Dandan. Bioengineering requires the department or supervisory team to arrange cover for the overseas tuition-fee component before an overseas nomination. This internal funding requirement does not mean that applicants are automatically expected to pay the difference themselves."
+        },
         {
           "question": "Do I need a fully developed proposal before contacting the lab?",
           "answer": "A concise, informed question is a useful starting point. Explain your reasoning and relevant experience. The scope can develop through discussion; follow the department and funding scheme’s required format for the formal submission."
@@ -572,5 +594,99 @@
       "label": "Postgraduate scholarship information",
       "url": "https://www.imperial.ac.uk/students/fees-and-funding/postgraduate-funding/scholarships/"
     }
-  ]
+  ],
+  "scholarships": {
+    "cycle": "2027–28 entry",
+    "updated": "6 November 2026",
+    "title": "PhD scholarships for 2027–28 entry",
+    "intro": "Explore a research project with Dandan Zhang and plan the application and nomination steps together. Scholarship selection is competitive and depends on research fit, eligibility and available supervision.",
+    "notice": {
+      "title": "Round 1 supervisor nominations: revised deadline",
+      "date": "13 November 2026",
+      "iso": "2026-11-13",
+      "text": "Extended from 9 November because of central delays in assessing applications. This changes the supervisor nomination deadline only. The applicant deadline remains 2 November 2026."
+    },
+    "cards": [
+      {
+        "title": "President’s PhD Scholarships",
+        "label": "Up to 2 departmental candidates per round",
+        "text": "Bioengineering will put forward two applicants per round. A maximum of two candidates can be nominated per scholarship round. Discuss the proposed project and nomination with Dandan before submitting the formal application.",
+        "link": {
+          "label": "Official scholarship guidance",
+          "url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/"
+        }
+      },
+      {
+        "title": "Home EPSRC scholarships",
+        "label": "4 places across Bioengineering",
+        "text": "The department has four home EPSRC scholarships. These are department-wide places, subject to eligibility and selection. Confirm home fee status, funding coverage, project availability and the applicable deadlines with Dandan.",
+        "link": {
+          "label": "Enquire about EPSRC funding",
+          "url": "mailto:d.zhang17@imperial.ac.uk?subject=EPSRC%20PhD%20enquiry%20%E2%80%94%202027-28"
+        }
+      }
+    ],
+    "rounds": [
+      {
+        "round": "Round 1",
+        "applicant": "2 November 2026",
+        "applicantIso": "2026-11-02",
+        "nomination": "13 November 2026",
+        "nominationIso": "2026-11-13",
+        "revised": true,
+        "departmentMeeting": "23 November 2026",
+        "departmentDeadline": "30 November 2026",
+        "facultyMeeting": "13 January 2027",
+        "departmentDecision": "End of January 2027",
+        "applicantDecision": "By 31 January 2027"
+      },
+      {
+        "round": "Round 2",
+        "applicant": "11 January 2027",
+        "applicantIso": "2027-01-11",
+        "nomination": "18 January 2027",
+        "nominationIso": "2027-01-18",
+        "departmentMeeting": "1 February 2027",
+        "departmentDeadline": "8 February 2027",
+        "facultyMeeting": "19 March 2027",
+        "departmentDecision": "Early April 2027 (after Easter)",
+        "applicantDecision": "By 15 April 2027"
+      },
+      {
+        "round": "Round 3",
+        "applicant": "1 March 2027",
+        "applicantIso": "2027-03-01",
+        "nomination": "8 March 2027",
+        "nominationIso": "2027-03-08",
+        "departmentMeeting": "22 March 2027",
+        "departmentDeadline": "5 April 2027",
+        "facultyMeeting": "19 May 2027",
+        "departmentDecision": "End of May 2027",
+        "applicantDecision": "By 31 May 2027"
+      }
+    ],
+    "notes": [
+      {
+        "title": "Applicants: submit through Imperial",
+        "text": "Agree supervision first, submit the formal PhD application and select the President’s scholarship option in the funding section. Applicant deadlines are at 23:59 UK time. The departmental nomination form is completed by supervisors."
+      },
+      {
+        "title": "Overseas President’s nominations",
+        "text": "Bioengineering requires the overseas tuition-fee component to be covered by the department or supervisory team if an overseas candidate receives an award. Discuss and confirm the funding arrangement with Dandan before nomination."
+      },
+      {
+        "title": "Explain your interest in joining",
+        "text": "Describe why Imperial, MSEI and the proposed project fit your plans. Include your intended start period and any other offer-response deadlines. This helps the supervisor understand your interest and record it in the nomination."
+      }
+    ],
+    "nominationLink": {
+      "label": "Supervisor nomination form (2027–28 entry)",
+      "url": "https://forms.cloud.microsoft/e/Q5hp43iZ7w"
+    },
+    "officialLink": {
+      "label": "Check the current scholarship schedule",
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/"
+    },
+    "sourceNote": "Departmental allocation, nomination deadlines and internal stages: Bioengineering announcement supplied by Dandan Zhang, including the revised Round 1 deadline. Applicant deadlines and notification dates: Imperial’s President’s PhD Scholarships page, checked 6 November 2026. The internal timetable below is for President’s nominations; confirm EPSRC arrangements separately."
+  }
 }

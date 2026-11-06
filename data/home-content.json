@@ -2,7 +2,7 @@
   "metadata": {
     "title": "MSEI Lab",
     "subtitle": "Multi-Scale Embodied Intelligence Lab",
-    "lastUpdated": "2026-11-01"
+    "lastUpdated": "2026-11-06"
   },
   "sections": {
     "hero": {
@@ -103,7 +103,7 @@
       "description": "Our goal is to develop robots that perceive physical interactions, adapt their behaviour and assist people in precise manipulation. We connect learning algorithms with the mechanics of sensors, tools and actuators, and evaluate these ideas through contact-rich tasks, medical robotics and scientific instrumentation. <a href=\"/msei_website/research\">Explore the research themes and platforms</a> and <a href=\"/msei_website/publications\">research publications</a>."
     },
     "opening": {
-      "description": "We welcome enquiries from prospective researchers interested in tactile sensing, robot learning, shared autonomy, biomedical manipulation and optical or magnetic robotics. Relevant backgrounds include bioengineering, robotics, computer science, electrical engineering and related disciplines. Please see the <a href=\"/msei_website/vacancies\">Vacancies page</a> and contact <a href=\"mailto:d.zhang17@imperial.ac.uk\">d.zhang17@imperial.ac.uk</a> to discuss current opportunities."
+      "description": "We welcome enquiries from prospective researchers interested in tactile sensing, robot learning, shared autonomy, biomedical manipulation and optical or magnetic robotics. Relevant backgrounds include bioengineering, robotics, computer science, electrical engineering and related disciplines. Please see the <a href=\"/msei_website/vacancies\">Vacancies page</a> and contact <a href=\"mailto:d.zhang17@imperial.ac.uk\">d.zhang17@imperial.ac.uk</a> to discuss current opportunities.<p><strong>PhD scholarships for 2027–28:</strong> explore President’s nominations and the department’s four home EPSRC scholarships. Round 1 supervisor nominations now close on 13 November 2026; the applicant deadline remains 2 November. <a href=\"/msei_website/opportunities/#scholarships\">View scholarship dates and guidance</a>.</p>"
     },
     "latestnews": {
       "subsections": [
