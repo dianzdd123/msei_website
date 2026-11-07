@@ -64,7 +64,7 @@ export default {
   if(!answer)return bad(502,"No response was generated.");
   // Return the editable course reference links so students can verify claims.
   const tokens=question.toLowerCase().split(/[^a-z0-9]+/).filter(w=>w.length>3);
-  const ranked=topics.map(t=>({t,score:tokens.reduce((n,w)=>n+(t.title.toLowerCase().includes(w)?4:0)+(t.keywords||[]).some(k=>k.includes(w))?1:0),0)})).sort((a,b)=>b.score-a.score);
+  const ranked=topics.map(t=>({t,score:tokens.reduce((n,w)=>n+(t.title.toLowerCase().includes(w)?4:0)+((t.keywords||[]).some(k=>k.includes(w))?2:0),0)})).sort((a,b)=>b.score-a.score);
   const sources=(ranked[0]?.score>0?ranked[0].t.sources:[]).slice(0,3).map(x=>({title:x.title,url:x.url}));
   return json({answer,sources});
  }
